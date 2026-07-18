@@ -117,7 +117,6 @@
             "description": "Toutes les stations franchissant les limites historiques de la capitale."
         }
     },
-
     "Thématiques Transversales": {
         "Thématique : Arts et Culture": {
             "chemin_donnee": "tags",
@@ -130,6 +129,18 @@
             "valeur_recherchee": "Écrivains et Philosophes",
             "type_recherche": "inclusion",
             "description": "Les maîtres de la pensée et de la littérature classique ou contemporaine."
+        },
+        "Thématique : Géographie et International": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Géographie et International",
+            "type_recherche": "inclusion",
+            "description": "Les odonymes célébrant des pays, des villes étrangères ou des fleuves."
+        },
+        "Thématique : Institutions Civiques et Politiques": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Institutions Civiques et Politiques",
+            "type_recherche": "inclusion",
+            "description": "Les lieux de pouvoir administratif, démocratique et municipal."
         },
         "Thématique : Les Femmes Illustres": {
             "chemin_donnee": "tags",
@@ -147,7 +158,7 @@
             "chemin_donnee": "tags",
             "valeur_recherchee": "Histoire et Politique",
             "type_recherche": "inclusion",
-            "description": "Les figures d'État, les institutions et les événements structurants."
+            "description": "Les figures d'État, les souverains et les événements structurants."
         },
         "Thématique : Révolution et République": {
             "chemin_donnee": "tags",
@@ -155,20 +166,26 @@
             "type_recherche": "inclusion",
             "description": "Les lieux et acteurs fondamentaux de l'histoire républicaine française."
         },
-        "Thématique : Sciences et Techniques": {
+        "Thématique : Sciences, Médecine et Techniques": {
             "chemin_donnee": "tags",
-            "valeur_recherchee": "Sciences et Techniques",
+            "valeur_recherchee": "Sciences, Médecine et Techniques",
             "type_recherche": "inclusion",
-            "description": "Les savants et institutions ayant contribué aux progrès scientifiques."
+            "description": "Les savants, médecins et ingénieurs ayant contribué aux progrès de l'humanité."
         },
         "Thématique : Victoires et Batailles": {
             "chemin_donnee": "tags",
             "valeur_recherchee": "Les victoires et batailles militaires",
             "type_recherche": "inclusion",
-            "description": "Les grands faits d'armes célébrés par la toponymie parisienne."
+            "description": "Les grands affrontements et faits d'armes célébrés par la toponymie parisienne."
         }
     },
     "Urbanisme et Architecture": {
+        "Architecture : Châteaux et Palais historiques": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Châteaux et Palais historiques",
+            "type_recherche": "inclusion",
+            "description": "Les anciennes résidences royales et le patrimoine palatial majeur."
+        },
         "Architecture : Les Grandes Gares": {
             "chemin_donnee": "tags",
             "valeur_recherchee": "Architecture urbaine : Les grandes gares",
@@ -185,13 +202,31 @@
             "chemin_donnee": "tags",
             "valeur_recherchee": "Monuments et Lieux Emblématiques",
             "type_recherche": "inclusion",
-            "description": "Les sites patrimoniaux et institutionnels forgeant l'identité parisienne."
+            "description": "Les sites patrimoniaux et institutionnels forgeant l'identité urbaine."
+        },
+        "Topographie : Anciens Villages et Hameaux": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Anciens Villages et Hameaux",
+            "type_recherche": "inclusion",
+            "description": "Les anciennes communes indépendantes absorbées par l'expansion urbaine."
+        },
+        "Topographie : Espaces Verts et Nature": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Espaces Verts et Nature",
+            "type_recherche": "inclusion",
+            "description": "Les grands parcs, jardins historiques et bois entourant la capitale."
         },
         "Topographie : Les Portes de Paris": {
             "chemin_donnee": "tags",
+            "valeur_recherchee": "Les Portes de Paris",
+            "type_recherche": "inclusion",
+            "description": "Les anciennes barrières d'octroi et entrées fortifiées marquant les limites historiques."
+        },
+        "Topographie : Morphologie et Urbanisme": {
+            "chemin_donnee": "tags",
             "valeur_recherchee": "Topographie et Urbanisme",
             "type_recherche": "inclusion",
-            "description": "Les anciennes barrières d'octroi marquant l'entrée dans la capitale."
+            "description": "Les éléments liés au développement des ponts, places et grandes artères parisiennes."
         }
     },
     "Chronologie Historique": {

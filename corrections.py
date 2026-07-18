@@ -1,60 +1,95 @@
 import json
 
-# Simulation du fichier ou script externe contenant le corpus documentaire
-# Dans une architecture modulaire, cette variable proviendrait d'un 'import corpus_externe'
-donnees_externes_importees = {
-    "Bastille": {
-        "description": "La place de la Bastille est un nœud majeur de la circulation parisienne.",
-        "pourquoi_ce_nom": "La station tire son nom de l'ancienne forteresse de la Bastille, détruite lors de la Révolution française en 1789."
-    },
-    "Louvre - Rivoli": {
-        "description": "Cette station dessert l'hypercentre touristique et culturel de la capitale.",
-        "pourquoi_ce_nom": "Le toponyme associe le palais des rois de France à la rue de Rivoli, percée sous le Premier Empire pour célébrer une victoire militaire."
+def update_station_tags(input_filepath, output_filepath):
+    # Chargement des données JSON
+    with open(input_filepath, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+
+    # Définition des règles de fusion et de renommage des étiquettes
+    tag_replacements = {
+        "Les Portes de Paris (Nord et Est)": "Les Portes de Paris",
+        "Les Portes de Paris (Sud et Ouest)": "Les Portes de Paris",
+        "Mathématiques, Physique et Biologie": "Sciences, Médecine et Techniques",
+        "Sciences et Techniques": "Sciences, Médecine et Techniques",
+        "Le patrimoine palatial et institutionnel": "Châteaux et Palais historiques"
     }
-}
 
-def restructurer_base_donnees(chemin_fichier_entree, chemin_fichier_sortie, source_externe):
-    # Le mode d'ouverture 'r' charge le fichier en mémoire pour analyse
-    with open(chemin_fichier_entree, 'r', encoding='utf-8') as fichier:
-        base_donnees = json.load(fichier)
+    # Définition des stations nécessitant l'étiquette "Institutions Civiques et Politiques"
+    # Cela permet de scinder l'ancienne catégorie institutionnelle/palatiale
+    civic_institutions = [
+        "Assemblée Nationale", 
+        "Hôtel de Ville", 
+        "Mairie d'Aubervilliers", 
+        "Mairie d'Issy", 
+        "Mairie d'Ivry", 
+        "Mairie de Clichy", 
+        "Mairie de Montreuil", 
+        "Mairie de Montrouge", 
+        "Mairie de Saint-Ouen", 
+        "Mairie des Lilas"
+    ]
 
-    # L'itération sur items() permet d'accéder simultanément à l'identifiant de la station et à ses attributs
-    for nom_station, contenu in base_donnees.items():
-        
-        # La sécurisation de l'arborescence prévient les erreurs d'accès aux clés inexistantes
-        if "histoire" not in contenu:
-            contenu["histoire"] = {}
-            
-        histoire = contenu["histoire"]
+    # Définition des ajouts spécifiques par thématique
+    specific_additions = {
+        "Les victoires et batailles militaires": [
+            "Tolbiac", "Trocadéro"
+        ],
+        "Monuments et Lieux Emblématiques": [
+            "Tuileries", "Père Lachaise"
+        ],
+        "Châteaux et Palais historiques": [
+            "Tuileries"
+        ],
+        "Histoire et Politique": [
+            "George V"
+        ],
+        "Géographie et International": [
+            "Rome", "Liège", "Argentine", "Europe", "Danube", "Crimée", "Pyrénées"
+        ],
+        "Espaces Verts et Nature": [
+            "Buttes Chaumont", "Ranelagh", "Pointe du Lac", "Pré-Saint-Gervais"
+        ],
+        "Anciens Villages et Hameaux": [
+            "Passy", "Belleville", "Charonne", "Ménilmontant", "La Chapelle", 
+            "Église d'Auteuil", "Porte d'Auteuil", "Michel-Ange - Auteuil"
+        ]
+    }
 
-        # Phase 1 : Vérification de la présence de la station dans le nouveau corpus externe
-        if nom_station in source_externe:
-            donnees_enrichies = source_externe[nom_station]
-            
-            # Injection des données externes vers la nouvelle nomenclature
-            # La méthode get() évite l'arrêt du script si la clé est absente, en renvoyant une chaîne vide par défaut
-            histoire["description courte"] = donnees_enrichies.get("description", "")
-            histoire["description longue"] = donnees_enrichies.get("pourquoi_ce_nom", "")
-            
-            # Suppression explicite des anciennes clés pour assainir le dictionnaire
-            histoire.pop("description", None)
-            histoire.pop("pourquoi_ce_nom", None)
-            
-        else:
-            # Phase 2 : Traitement de secours pour les stations absentes du script externe
-            # La fonction pop(clé, valeur_par_défaut) capture l'ancienne donnée et efface l'ancienne étiquette
-            ancienne_description = histoire.pop("description", "")
-            ancien_pourquoi = histoire.pop("pourquoi_ce_nom", "")
-            
-            # Transfert des valeurs conservées vers le nouveau format structurel
-            histoire["description courte"] = ancienne_description
-            histoire["description longue"] = ancien_pourquoi
+    # Inversion du dictionnaire pour un accès direct par nom de station
+    additions_by_station = {}
+    for tag, stations in specific_additions.items():
+        for station in stations:
+            if station not in additions_by_station:
+                additions_by_station[station] = []
+            additions_by_station[station].append(tag)
 
-    # La sérialisation transforme l'objet Python en chaîne de caractères formatée pour l'exportation
-    with open(chemin_fichier_sortie, 'w', encoding='utf-8') as fichier_export:
-        # Le paramètre ensure_ascii=False garantit la préservation des accents et caractères typographiques français
-        json.dump(base_donnees, fichier_export, ensure_ascii=False, indent=4)
+    # Parcours et mise à jour de chaque station
+    for station_name, station_info in data.items():
+        current_tags = station_info.get("tags", [])
+        new_tags = set()
 
-if __name__ == "__main__":
-    # L'exécution de la fonction déclenche la lecture, la mutation en mémoire, puis l'écriture du nouveau fichier
-    restructurer_base_donnees("data.json", "data_restructuree.json", donnees_externes_importees)
+        # Application des fusions et remplacements
+        for tag in current_tags:
+            if tag in tag_replacements:
+                # Gestion de la scission Palatial / Institutionnel
+                if tag == "Le patrimoine palatial et institutionnel" and station_name in civic_institutions:
+                    new_tags.add("Institutions Civiques et Politiques")
+                else:
+                    new_tags.add(tag_replacements[tag])
+            else:
+                new_tags.add(tag)
+
+        # Application des ajouts spécifiques
+        if station_name in additions_by_station:
+            for new_tag in additions_by_station[station_name]:
+                new_tags.add(new_tag)
+
+        # Mise à jour de la liste des étiquettes (triée par ordre alphabétique pour la cohérence)
+        station_info["tags"] = sorted(list(new_tags))
+
+    # Sauvegarde des données mises à jour
+    with open(output_filepath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+# Exécution du script (à adapter selon les noms exacts de vos fichiers)
+update_station_tags('data.json', 'data.json')
