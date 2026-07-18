@@ -1,0 +1,30 @@
+{
+    "station": "Victor Hugo",
+    "theme": "Personne",
+    "sous_theme": "Auteur",
+    "pourquoi_ce_nom": "Victor Hugo est humoristiquement renommée « Victor Hugo Lloris » en hommage au gardien de but Hugo Lloris, capitaine de la sélection française au cours de cette 21e édition de la compétition. Selon les estimations de la RATP, la station a vu entrer 3 841 033 voyageurs en 2019, ce qui la place à la 128e position des stations de métro pour sa fréquentation.",
+    "informations": "Victor Hugo, né le 7 ventôse an X (26 février 1802) à Besançon et mort le 22 mai 1885 à Paris, est un poète, dramaturge, romancier et dessinateur français associé au romantisme. Il est considéré comme l'un des écrivains de la langue française et de la littérature mondiale les plus importants. Hugo est aussi une personnalité politique et un intellectuel engagé qui a un rôle idéologique majeur et occupe une place marquante dans l'histoire des lettres françaises au XIXe siècle.",
+    "personne": {
+        "nom": "Victor Hugo",
+        "annee_naissance": 1802,
+        "annee_deces": 1885,
+        "siecles_vecus": [
+            "XIXe siècle"
+        ]
+    },
+    "source_station": {
+        "titre": "Victor Hugo (métro de Paris)",
+        "url": "https://fr.wikipedia.org/wiki/Victor_Hugo_(m%C3%A9tro_de_Paris)",
+        "resume": "Victor Hugo est une station de la ligne 2 du métro de Paris, située dans le 16e arrondissement de Paris."
+    },
+    "source_origine": {
+        "titre": "Victor Hugo",
+        "url": "https://fr.wikipedia.org/wiki/Victor_Hugo"
+    },
+    "confiance": {
+        "page_station": "élevée",
+        "origine_nom": "moyenne",
+        "classification": "moyenne"
+    },
+    "avertissements": []
+}

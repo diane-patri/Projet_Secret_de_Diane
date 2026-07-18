@@ -1,0 +1,217 @@
+{
+    "Parcours par Lignes": {
+        "Ligne 1": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "1",
+            "type_recherche": "inclusion",
+            "description": "La première ligne historique traversant la capitale d'est en ouest."
+        },
+        "Ligne 2": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "2",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 2."
+        },
+        "Ligne 3": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "3",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 3."
+        },
+        "Ligne 4": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "4",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 4."
+        },
+        "Ligne 5": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "5",
+            "type_recherche": "inclusion",
+            "description": "Les stations de l'axe nord-sud oriental du réseau."
+        },
+        "Ligne 6": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "6",
+            "type_recherche": "inclusion",
+            "description": "Les stations du parcours semi-aérien contournant Paris par le sud."
+        },
+        "Ligne 7": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "7",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 7."
+        },
+        "Ligne 8": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "8",
+            "type_recherche": "inclusion",
+            "description": "La ligne reliant les franges sud-ouest et sud-est de la métropole."
+        },
+        "Ligne 9": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "9",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 9."
+        },
+        "Ligne 12": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "12",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 12."
+        },
+        "Ligne 13": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "13",
+            "type_recherche": "inclusion",
+            "description": "L'axe majeur traversant la capitale du nord au sud."
+        },
+        "Ligne 14": {
+            "chemin_donnee": "geographie.lignes",
+            "valeur_recherchee": "14",
+            "type_recherche": "inclusion",
+            "description": "Les stations jalonnant le tracé de la ligne 14."
+        }
+    },
+    "Exploration Géographique": {
+        "Paris (Intra-muros)": {
+            "chemin_donnee": "geographie.commune",
+            "valeur_recherchee": "Paris",
+            "type_recherche": "exact",
+            "description": "L'ensemble des stations implantées dans les arrondissements parisiens."
+        },
+        "Banlieue : Aubervilliers": {
+            "chemin_donnee": "geographie.commune",
+            "valeur_recherchee": "Aubervilliers",
+            "type_recherche": "exact",
+            "description": "Les stations desservant la commune d'Aubervilliers en Seine-Saint-Denis."
+        },
+        "Banlieue : Boulogne-Billancourt": {
+            "chemin_donnee": "geographie.commune",
+            "valeur_recherchee": "Boulogne-Billancourt",
+            "type_recherche": "exact",
+            "description": "Le réseau desservant la commune limitrophe de Boulogne-Billancourt."
+        },
+        "Banlieue : Levallois-Perret": {
+            "chemin_donnee": "geographie.commune",
+            "valeur_recherchee": "Levallois-Perret",
+            "type_recherche": "exact",
+            "description": "Les stations desservant la commune de Levallois-Perret dans les Hauts-de-Seine."
+        },
+        "Banlieue : Saint-Denis": {
+            "chemin_donnee": "geographie.commune",
+            "valeur_recherchee": "Saint-Denis",
+            "type_recherche": "exact",
+            "description": "Les stations desservant le pôle urbain de Saint-Denis au nord de la capitale."
+        },
+        "Banlieue : Villejuif": {
+            "chemin_donnee": "geographie.commune",
+            "valeur_recherchee": "Villejuif",
+            "type_recherche": "exact",
+            "description": "Les stations desservant la commune de Villejuif dans le Val-de-Marne."
+        },
+        "Territoires Extramuros": {
+            "chemin_donnee": "geographie.code_insee",
+            "valeur_recherchee": "75056",
+            "type_recherche": "different",
+            "description": "Toutes les stations franchissant les limites historiques de la capitale."
+        }
+    },
+
+    "Thématiques Transversales": {
+        "Thématique : Arts et Culture": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Arts et Culture",
+            "type_recherche": "inclusion",
+            "description": "Le rassemblement des figures artistiques et intellectuelles."
+        },
+        "Thématique : Écrivains et Philosophes": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Écrivains et Philosophes",
+            "type_recherche": "inclusion",
+            "description": "Les maîtres de la pensée et de la littérature classique ou contemporaine."
+        },
+        "Thématique : Les Femmes Illustres": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Les Femmes Illustres",
+            "type_recherche": "inclusion",
+            "description": "Les odonymes honorant le matrimoine historique et culturel."
+        },
+        "Thématique : Figures de la Résistance": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Les figures de la Résistance",
+            "type_recherche": "inclusion",
+            "description": "Les personnalités ayant marqué la lutte de libération durant la Seconde Guerre mondiale."
+        },
+        "Thématique : Histoire et Politique": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Histoire et Politique",
+            "type_recherche": "inclusion",
+            "description": "Les figures d'État, les institutions et les événements structurants."
+        },
+        "Thématique : Révolution et République": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Révolution et République",
+            "type_recherche": "inclusion",
+            "description": "Les lieux et acteurs fondamentaux de l'histoire républicaine française."
+        },
+        "Thématique : Sciences et Techniques": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Sciences et Techniques",
+            "type_recherche": "inclusion",
+            "description": "Les savants et institutions ayant contribué aux progrès scientifiques."
+        },
+        "Thématique : Victoires et Batailles": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Les victoires et batailles militaires",
+            "type_recherche": "inclusion",
+            "description": "Les grands faits d'armes célébrés par la toponymie parisienne."
+        }
+    },
+    "Urbanisme et Architecture": {
+        "Architecture : Les Grandes Gares": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Architecture urbaine : Les grandes gares",
+            "type_recherche": "inclusion",
+            "description": "Les pôles d'interconnexion ferroviaire majeurs de la capitale."
+        },
+        "Architecture : Édifices Religieux": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "L'architecture religieuse",
+            "type_recherche": "inclusion",
+            "description": "Les stations nommées d'après les lieux de culte remarquables."
+        },
+        "Monuments et Lieux Emblématiques": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Monuments et Lieux Emblématiques",
+            "type_recherche": "inclusion",
+            "description": "Les sites patrimoniaux et institutionnels forgeant l'identité parisienne."
+        },
+        "Topographie : Les Portes de Paris": {
+            "chemin_donnee": "tags",
+            "valeur_recherchee": "Topographie et Urbanisme",
+            "type_recherche": "inclusion",
+            "description": "Les anciennes barrières d'octroi marquant l'entrée dans la capitale."
+        }
+    },
+    "Chronologie Historique": {
+        "Chronologie : Le Siècle des Lumières": {
+            "chemin_donnee": "histoire.siecles",
+            "valeur_recherchee": "XVIIIe siècle",
+            "type_recherche": "inclusion",
+            "description": "Les personnalités et événements rattachés au XVIIIe siècle."
+        },
+        "Chronologie : L'Ère Industrielle": {
+            "chemin_donnee": "histoire.siecles",
+            "valeur_recherchee": "XIXe siècle",
+            "type_recherche": "inclusion",
+            "description": "Les personnalités et événements rattachés au XIXe siècle."
+        },
+        "Chronologie : L'Époque Contemporaine": {
+            "chemin_donnee": "histoire.siecles",
+            "valeur_recherchee": "XXe siècle",
+            "type_recherche": "inclusion",
+            "description": "Les personnalités et événements rattachés au XXe siècle."
+        }
+    }
+}

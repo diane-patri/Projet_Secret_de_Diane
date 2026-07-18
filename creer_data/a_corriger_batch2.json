@@ -1,0 +1,1633 @@
+[
+    {
+        "station": "Fort d'Aubervilliers",
+        "theme": "Lieu géographique",
+        "sous_theme": "Capitale",
+        "pourquoi_ce_nom": "Fort d'Aubervilliers est une station de la ligne 7 du métro de Paris, située sur la commune d'Aubervilliers à sa limite avec la ville de Pantin. == Situation == La station est implantée sous l'avenue Jean-Jaurès (RD 932) à son intersection avec l'avenue de la Division-Leclerc et la rue Danielle-Casanova, ces deux dernières voies formant la route D 27.",
+        "informations": "Le fort d'Aubervilliers est une ancienne fortification de Paris, construite en 1843 à Aubervilliers, en limite de Pantin et de Bobigny, afin de contrôler le passage sur la Route de Flandre, prolongement de l'actuelle avenue de Flandres, sur la RN 2. Le fort d'Aubervilliers fait partie des ouvrages décidés en 1840 par Thiers afin de protéger la capitale et, le cas échéant, mater ses rébellions[réf. nécessaire].",
+        "personne": null
+    },
+    {
+        "station": "Franklin D. Roosevelt",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Puis la station est rebaptisée Franklin D. Roosevelt le à la suite du changement de nom de l’avenue Victor-Emmanuel III au profit davenue Franklin-D.-Roosevelt, en hommage à Franklin Delano Roosevelt, chef d’État d'un pays allié lors de la Seconde Guerre mondiale, remplaçant celui d'un pays ennemi (l’Italie) bien qu’allié durant la Première Guerre mondiale.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Front Populaire",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Désignée initialement sous le nom « Proudhon - Gardinoux, en référence à l'intersection de la rue Proudhon et de la rue des Gardinoux », le nom de la place est sujet à débat pendant plusieurs années : Des élus ont souhaité après la mort du poète martiniquais Aimé Césaire, donner son nom à une station de métro. Le maire de Drancy propose alors qu'il soit donné à cette station .",
+        "informations": "Le Front populaire est, en France, une coalition politique de gauche qui a été formée en vue des élections législatives de 1936 autour du Parti radical, de la Section française de l'Internationale ouvrière (SFIO) et du Parti communiste. Remportant une majorité de sièges au sein de la XVIe législature de la Troisième République, elle donne naissance à quatre gouvernements entre juin 1936 et avril 1938. Le premier est dirigé par le socialiste Léon Blum, les deux suivants par le radical Camille Chautemps et le dernier par Léon Blum à nouveau.",
+        "personne": {
+            "nom": "Front populaire (France)",
+            "annee_naissance": 1936,
+            "annee_deces": 1936,
+            "siecles_vecus": [
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Gabriel Péri",
+        "theme": "Personne",
+        "sous_theme": "Résistant",
+        "pourquoi_ce_nom": "Son nom découle de sa proximité avec l'avenue éponyme qui rend hommage au journaliste et homme politique français Gabriel Péri (1902-1941). Dans le cadre du programme « Renouveau du métro » de la RATP, le hall d'accueil de la station est partiellement rénové le , tandis que la faïence blanche et orange des quais dans le style décoratif « Andreu-Motte » est renouvelée à l'identique courant 2023.",
+        "informations": "Gabriel Péri né le 9 février 1902 à Toulon et mort pour la France le 15 décembre 1941 au Mont-Valérien (Suresnes), est un journaliste et homme politique français. Membre du Comité central du Parti communiste français, responsable du service de politique étrangère de L'Humanité et député de Seine-et-Oise, il est arrêté comme résistant par la police française et fusillé comme otage par les Allemands au fort du Mont-Valérien.",
+        "personne": {
+            "nom": "Gabriel Péri",
+            "annee_naissance": 1902,
+            "annee_deces": 1941,
+            "siecles_vecus": [
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Gaîté",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Gaîté est une station de la ligne 13 du métro de Paris, située dans le de Paris. == Situation == La station est établie à la limite administrative entre le quartier du Montparnasse à l'est et le quartier de Plaisance au sud, non loin de leurs limites respectives avec le quartier Necker à l'ouest (ce dernier secteur appartenant au ).",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Gallieni",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue Gallieni à Bagnolet, laquelle rend hommage à Joseph Gallieni, élevé à la dignité de maréchal de France à titre posthume en 1921. La station porte comme sous-titre Parc de Bagnolet en raison de sa proximité avec l'extrémité nord-ouest du parc Jean-Moulin–Les Guilands, situé sur le territoire des communes de Bagnolet et de Montreuil.",
+        "informations": "Joseph Gallieni, né le 24 avril 1849 à Saint-Béat (Haute-Garonne) et mort le 27 mai 1916 à Versailles, est un général, maréchal de France et administrateur colonial français. Il prend une part active à l'expansion et à la consolidation de l'empire colonial, notamment en Afrique. Il fonde une méthode qui associe la brutalité, comme avec la répression de l'insurrection des Menalamba à Madagascar, au développement économique après une conquête progressive des territoires.",
+        "personne": {
+            "nom": "Joseph Gallieni",
+            "annee_naissance": 1849,
+            "annee_deces": 1916,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Gambetta",
+        "theme": "Personne",
+        "sous_theme": "Personnalité politique",
+        "pourquoi_ce_nom": "La station tire sa dénomination de la place Gambetta ainsi que de l'avenue du même nom, ces voies rendant hommage à Léon Gambetta (1838-1882), homme politique, membre du gouvernement de la défense nationale en 1870, président du Conseil et député du arrondissement.",
+        "informations": "Léon Gambetta, né le 2 avril 1838 à Cahors (Lot) et mort le 31 décembre 1882 à Sèvres (Seine-et-Oise), est un homme d'État français. Grande figure de l'enracinement de la Troisième République, il est président du Conseil du 14 novembre 1881 au 30 janvier 1882. Issu d'un milieu provincial modeste, il obtient une licence de droit à l'université de Paris, puis s'établit comme avocat.",
+        "personne": {
+            "nom": "Léon Gambetta",
+            "annee_naissance": 1838,
+            "annee_deces": 1882,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Gare d'Austerlitz",
+        "theme": "Personne",
+        "sous_theme": "Résistant",
+        "pourquoi_ce_nom": "Elle doit son nom inaugural de Gare d'Orléans à sa proximité avec la gare précitée, telle que celle-ci était alors dénommée, étant à cette époque la tête de ligne de la Compagnie du chemin de fer de Paris à Orléans (PO) qui donnait accès à la ville d'Orléans. Cette dernière a également donné indirectement son toponyme à la station Porte d'Orléans sur la ligne 4.",
+        "informations": "Paris est la capitale de la France (de facto) et le chef-lieu de la région Île-de-France. Elle est située au centre du Bassin parisien, sur une boucle de la Seine, entre les confluents avec la Marne et l'Oise. Le site est occupé à partir du IIIe siècle avant notre ère sous le nom Lutèce par le peuple gaulois des Parisii, qui donne plus tard son nom à la ville.",
+        "personne": {
+            "nom": "Paris",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Gare de l'Est",
+        "theme": "Personne",
+        "sous_theme": "Personnalité politique",
+        "pourquoi_ce_nom": "== Histoire == thumb|left|Sortie de la station, au temps des autobus de la [[Compagnie générale des omnibus (CGO).]] La station porte le nom de la gare de l'Est sous laquelle elle est construite. Son nom complet est d'ailleurs Gare de l'Est - Verdun, du nom de l'avenue de Verdun toute proche.",
+        "informations": "La gare de Paris-Est, dite aussi gare de l'Est (initialement appelée gare de Strasbourg), est l'une des six grandes gares terminus du réseau de la Société nationale des chemins de fer français (SNCF) à Paris. Elle se trouve dans le quartier Saint-Vincent-de-Paul, dans le 10e arrondissement, non loin de la gare du Nord. Sa façade ferme la perspective de l'axe nord-sud percé par le baron Haussmann, préfet de la Seine, et constitué principalement par le boulevard de Strasbourg.",
+        "personne": {
+            "nom": "Gare de Paris-Est",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Gare de Lyon",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "La station de la ligne 1 est ouverte le et doit son nom à la gare de Lyon toute proche. Elle a été construite avec une longueur de , au lieu des des autres stations de la ligne avant leur agrandissement lors de la transformation en métro sur pneus de la ligne.",
+        "informations": "Paris-Gare-de-Lyon est l'une des six grandes gares terminus du réseau de la Société nationale des chemins de fer français (SNCF) à Paris, en France. C'est aussi une gare du réseau RER d'Île-de-France. Souvent appelée simplement Gare de Lyon, elle est située dans le 12e arrondissement, principalement dans le quartier des Quinze-Vingts, le sud-est des voies et des quais étant situé dans le quartier de Bercy.",
+        "personne": null
+    },
+    {
+        "station": "Gare du Nord",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station porte le nom de la gare du Nord, gare du réseau SNCF en dessous de laquelle elle est située. Celle-ci tire elle-même son nom du fait qu'elle permet de se rendre dans le Nord de la France.",
+        "informations": "La liaison Gare du Nord – Gare de l'Est est une liaison piétonnière en surface et une future liaison piétonnière souterraine dans le nord de Paris, reliant la gare du Nord et la gare de l'Est. Le cheminement en surface est ouvert fin 2023, tandis que la construction de la partie souterraine, plusieurs fois repoussée, doit être achevée début 2027.",
+        "personne": null
+    },
+    {
+        "station": "Garibaldi",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Garibaldi, laquelle rend hommage à , né Joseph-Marie Garibaldi (1807-1882), général italien ayant pris part à la défense de la France lors de la guerre franco-allemande de 1870. La station n'est initialement desservie que par deux rames sur trois compte tenu du déséquilibre de fréquentation en faveur de l'antenne sur laquelle elle se situe, provoqué par l'extension de cette dernière jusqu'à Carrefour Pleyel et atteignant jusqu'à 70 % aux heures de pointe.",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "George V",
+        "theme": "Personne",
+        "sous_theme": "Personnalité politique",
+        "pourquoi_ce_nom": "Bush au palais de Buckingham, des « admirateurs » de ce dernier rebaptisent la station George W - Souverain de Grande-Bretagne au moyen d'autocollants apposés aux plaques nominatives . Le , la RATP remplace la moitié des plaques nominatives sur les quais, le temps d'une journée, afin de rendre hommage à la reine Élisabeth II du Royaume-Uni, dont les funérailles se déroulent le jour même.",
+        "informations": "George V, né George Frederick Ernest Albert le 3 juin 1865 et mort le 20 janvier 1936, est roi du Royaume-Uni et des dominions (Canada, Terre-Neuve, Australie, Nouvelle-Zélande, Afrique du Sud, Irlande), ainsi qu'empereur des Indes du 6 mai 1910 jusqu'à sa mort. George est le petit-fils de la reine Victoria et du prince Albert, et le cousin germain du tsar Nicolas II et de l'empereur allemand Guillaume II, du roi Haakon VII de Norvège, du roi Christian X de Danemark, du grand-duc Ernest Louis de Hesse mais aussi et par alliance du roi Alphonse XIII d'Espagne, du roi de Suède Gustave VI. De 1877 à 1891, il servit dans la Royal Navy et atteint le grade de Captain.",
+        "personne": {
+            "nom": "George V",
+            "annee_naissance": 1865,
+            "annee_deces": 1936,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Glacière",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Glacière est une station de la ligne 6 du métro de Paris, située dans le de Paris. == Situation == Établie en aérien, la station surplombe le boulevard Auguste-Blanqui, au nord-ouest de son intersection avec la rue de la Glacière.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Goncourt",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue des Goncourt, laquelle porte le nom des frères Edmond de Goncourt (1822-1896) et Jules de Goncourt (1830-1870), historiens français et créateurs de l'académie Goncourt qui décerne le prix Goncourt aux auteurs d'expression française. La station porte comme sous-titre Hôpital Saint-Louis, du nom de l'hôpital de l'AP-HP, situé à au nord et nommé ainsi en souvenir du roi Louis IX.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Grands Boulevards",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Grands Boulevards est une station des lignes 8 et 9 du métro de Paris, située à la limite des 2 et 9 arrondissements de Paris. == Situation == La station est implantée sous l'extrémité occidentale du boulevard Poissonnière, entre l'intersection avec les rues Montmartre et du Faubourg-Montmartre d'une part et le débouché des rues Saint-Fiacre et Rougemont.",
+        "informations": "Les boulevards constituent une part importante de l'identité urbaine et sociale de Paris. Ils ont été construits à l'initiative du pouvoir central, à l'emplacement des fortifications concentriques successives de la ville lorsque celles-ci devenaient obsolètes. Le nom de « boulevard » vient du néerlandais bolwerc, « ouvrage de planches », désignant d'abord le rempart, puis le terre-plein du rempart.",
+        "personne": null
+    },
+    {
+        "station": "Guy Môquet",
+        "theme": "Personne",
+        "sous_theme": "Personnalité",
+        "pourquoi_ce_nom": "Cette dernière tient son nom d’un lieu-dit, la Mercade, situé à la Chapelle Saint-Denis, car il s'y tenait un marché, marcadus, à l’époque de la foire du Lendit. Antérieurement, cette voie a également donné son nom à la station Marcadet sur la ligne 4, devenue l'actuelle station Marcadet - Poissonniers à la suite de sa fusion avec la station Poissonniers de l'ex-ligne A du Nord-Sud (actuelle ligne 12 du métro) en 1931.",
+        "informations": "Guy Prosper Eustache Môquet, né le 26 avril 1924 à Paris et mort le 22 octobre 1941 à Châteaubriant (Loire-Inférieure), est un militant communiste, célèbre pour avoir été le plus jeune des quarante-huit otages fusillés, le 22 octobre 1941, à Châteaubriant, Nantes et Paris en représailles après la mort de Karl Hotz. Son nom, plus particulièrement associé à celui des vingt-sept fusillés du camp de Châteaubriant, est passé dans l'histoire comme un symbole des héros et des martyrs français de l'Occupation allemande durant la Seconde Guerre mondiale.",
+        "personne": {
+            "nom": "Guy Môquet",
+            "annee_naissance": 1924,
+            "annee_deces": 1941,
+            "siecles_vecus": [
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Havre-Caumartin",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "=== Origine des noms === La station doit sa dénomination initiale de Caumartin à son implantation au croisement de la rue de Caumartin, laquelle rend hommage au marquis de Saint-Ange, Antoine-Louis Lefebvre de Caumartin (1725-1803), prévôt des marchands de Paris au et lui-même à l'origine d'une partie du tracé de la rue précitée, dont il autorisa le percement le . Le toponyme du Havre, rajouté en 1926, souligne la proximité de la station avec la rue du Havre.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Hoche",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Hoche, laquelle rend hommage à Lazare Hoche (1768-1797), général de la Révolution française. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais ont été rénovés le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Hôpital Bicêtre",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Hôpital Bicêtre est une station de la ligne 14 du métro de Paris, située sur la commune du Kremlin-Bicêtre dans le département du Val-de-Marne, près de la limite de Gentilly. == Situation == Située sur le prolongement sud de la ligne 14 inauguré en , elle est implantée sur le territoire de la commune du Kremlin-Bicêtre (à quelques mètres de la limite communale de Gentilly), le long de la rue Gabriel-Péri et de l'autoroute A6b .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Hôtel de Ville",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Hôtel de Ville est une station des lignes 1 et 11 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au cœur du quartier Saint-Merri, au nord de la place de l'Hôtel-de-Ville - esplanade de la Libération, les quais étant établis : * sur la ligne 1, sous la rue de Rivoli entre la place de l'Hôtel-de-Ville et la rue de Lobau, selon un axe approximativement orienté est-ouest ; * sur la ligne 11, sous la rue du Renard entre la rue de Rivoli et la rue du Cloître-Saint-Merri, dans un axe approximativement orienté nord-sud.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Iéna",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Iéna est une station de la ligne 9 du métro de Paris, située dans le de Paris. == Situation == La station est établie sous la place d'Iéna, selon l'axe de l'avenue du Président-Wilson.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Invalides",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La station est proche de l'hôtel des Invalides duquel elle tire son nom : elle se trouve exactement sous l'esplanade des Invalides, au niveau de la rue de l'Université. Au nord de l'entrée de la station se trouvent la gare des Invalides, sur la ligne C du RER avec qui elle assure des correspondances, et l'aérogare d'Air France.",
+        "informations": "L'hôtel des Invalides est un monument parisien, situé dans le 7e arrondissement, dont la construction est ordonnée par Louis XIV par l'édit royal du 24 février 1670, pour accueillir les invalides de ses armées. Demeuré fidèle à cette mission, il abrite en plus de l'Institution nationale des invalides, la cathédrale Saint-Louis des Invalides, plusieurs musées et une nécropole militaire avec notamment le tombeau de Napoléon Ier. Siège de hautes autorités militaires comme le gouverneur militaire de Paris, il rassemble aussi nombre d'organismes dédiés à la mémoire des anciens combattants et au soutien des soldats blessés.",
+        "personne": {
+            "nom": "Hôtel des Invalides",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Jacques Bonsergent",
+        "theme": "Personne",
+        "sous_theme": "Personnalité",
+        "pourquoi_ce_nom": "Elle doit sa dénomination initiale de Lancry à sa proximité avec la rue de Lancry, laquelle porte le nom de famille de l'ancien propriétaire du lieu sur lequel elle fut percée en 1777 : le sieur Lancry. Le , elle change de toponyme au profit de Jacques Bonsergent, à la suite de l'attribution du nom « Place Jacques-Bonsergent » à l'intersection des rues Lucien-Sampaix, de Lancry et Albert-Thomas avec le boulevard de Magenta, sous lequel la station est établie.",
+        "informations": "Jacques Marie Georges Bonsergent , né le 13 septembre 1912 à Foveno, dans la commune de Missiriac dans le Morbihan, et mort le 23 décembre 1940 à Paris 12e, est un civil français fusillé pendant la Seconde Guerre mondiale.",
+        "personne": {
+            "nom": "Jacques Bonsergent",
+            "annee_naissance": 1912,
+            "annee_deces": 1940,
+            "siecles_vecus": [
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Jasmin",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Jasmin, laquelle rend hommage au poète français Jacques Boé, dit Jasmin (1798-1864), un des principaux auteurs occitans du début du . Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés le .",
+        "informations": "Le mot jasmin désigne les plantes dicotylédones appartenant au genre Jasminum. Ce sont des plantes à fleurs de la famille des Oleaceae. Le jasmin est, avec la rose, pour ce qui est des espèces odorantes et capiteuses, une des deux fleurs reines de la parfumerie.",
+        "personne": {
+            "nom": "Jasmin",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Jaurès",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "En parallèle, la station Berlin de la ligne B du réseau Nord-Sud (devenue l'actuelle ligne 13 en 1931) est rebaptisée Liège le pour les mêmes raisons, tandis que le nom de Jean Jaurès sera également attribué à la station Boulogne - Jean Jaurès, inaugurée en 1980 sur la ligne 10. Le , la RATP détourne le nom de la station en l'intégrant à une phrase humoristique afin de faire un poisson d'avril le temps d'une journée , comme dans huit autres stations sur le réseau .",
+        "informations": "Jean Jaurès ([ʒɑ̃ ʒo.ʁɛs]), né le 3 septembre 1859 à Castres et mort assassiné le 31 juillet 1914 à Paris, est un journaliste et homme politique français. Issu d'une famille de la petite bourgeoisie castraise, il passe son enfance et sa jeunesse à Castres, réalisant de brillantes études. Il intègre ensuite l'École normale supérieure et obtient l'agrégation de philosophie.",
+        "personne": {
+            "nom": "Jean Jaurès",
+            "annee_naissance": 1859,
+            "annee_deces": 1914,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Javel - André Citroën",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination initiale de Javel à son implantation au nord-ouest du quartier de Javel, lequel fait référence à un ancien hameau qui a également donné son nom à la fabrique d'hypochlorite de sodium — vendue sous le nom d'eau de Javel — qui s'y trouvait au siècle. Dans la nuit du 26 au , la station est transférée à la ligne 10 à la suite du remaniement des lignes 8, 10 et de l'ancienne ligne 14 (devenue une partie de l'actuelle ligne 13 en 1976), tandis que la ligne 8 est redirigée en parallèle vers son terminus actuel de Balard depuis La Motte-Picquet - Grenelle.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Jourdain",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue du Jourdain, laquelle fait référence au Jourdain, qui est un fleuve du Moyen-Orient ; cette voie est ainsi nommée du fait de son débouché au fronton de l'église Saint-Jean-Baptiste de Belleville, car les différentes paroisses de Belleville qui se succédèrent à son emplacement au fil des siècles furent toutes dédiées à saint Jean-Baptiste qui, comme son nom l’indique, baptisa le Christ dans les eaux du Jourdain. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station ainsi que l'éclairage des quais sont rénovés le .",
+        "informations": "Le Jourdain (en arabe : نهر الأردن, Nahr al-Urdun, qui veut dire descendre, en hébreu ירדן Yarden, mais aussi נהר הירדן, Nehar haYarden qui veut dire la « rivière de la peine, du jugement ») est un fleuve du Moyen-Orient qui s'écoule sur 360 km du mont Hermon au Liban jusqu'à la mer Morte. Sa vallée est la plus basse du monde, puisqu'il se jette dans la mer Morte à l'altitude de 421 mètres sous le niveau des océans. La Jordanie et les hauteurs du Golan bordent le fleuve à l'est, tandis que la Cisjordanie (territoire palestinien occupé) et Israël se trouvent à l'ouest.",
+        "personne": {
+            "nom": "Jourdain",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Jules Joffrin",
+        "theme": "Personne",
+        "sous_theme": "Personnalité politique",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation sous la place Jules-Joffrin, laquelle rend hommage à Jules Joffrin (1846-1890) qui fut conseiller municipal et député du de Paris. Le , la ligne A devient l'actuelle ligne 12 du métro à la suite de l'absorption de la société du Nord-Sud le par sa concurrente, la Compagnie du chemin de fer métropolitain de Paris (dite CMP), qui gère la concession de l'essentiel des autres lignes du réseau.",
+        "informations": "Jules Joffrin, né le 16 mars 1846 à Vendeuvre-sur-Barse (Aube) et mort le 15 septembre 1890 à Paris, est un ouvrier mécanicien, militant socialiste sous le Second Empire puis membre de la Commune de Paris. Sous la Troisième République, il devient homme politique et l'un des chefs de file des socialistes possibilistes, dirigés par Paul Brousse.",
+        "personne": {
+            "nom": "Jules Joffrin",
+            "annee_naissance": 1846,
+            "annee_deces": 1890,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Jussieu",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Jussieu est une station des lignes 7 et 10 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au cœur du quartier Saint-Victor, sous la place Jussieu, laquelle se trouve au débouché de la rue Linné sur la rue Jussieu.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Kléber",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation sous le nord de l'avenue Kléber, laquelle rend hommage à Jean-Baptiste Kléber (1753-1800), général français qui s'est illustré lors des guerres de la Révolution française, notamment lors de la guerre de Vendée et la campagne d'Égypte. En 2019, sont entrés à cette station ce qui la place à la des stations de métro pour sa fréquentation sur 302 .",
+        "informations": "L’avenue Kléber est une artère du 16e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "L'Haÿ-les-Roses",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "L'Haÿ-les-Roses est une station de la ligne 14 du métro de Paris. Elle est implantée sur le territoire de la commune de L'Haÿ-les-Roses au croisement de la rue de Bicêtre, de la rue de Lallier et de la rue Paul Hochart.",
+        "informations": "L'Haÿ-les-Roses (/la.i le ʁoz/) est une commune située dans le département du Val-de-Marne en région Île-de-France, en France. Elle se trouve à l'extrémité occidentale du département, à la limite des Hauts-de-Seine. Devenue sous-préfecture en 1972, la ville est ainsi un chef-lieu d'arrondissement du Val-de-Marne.",
+        "personne": null
+    },
+    {
+        "station": "La Chapelle",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Nommé d'après une ancienne chapelle dédiée à sainte Geneviève, il fut annexé à Paris en 1860 pour devenir l'actuel quartier de la Chapelle, et a également donné indirectement son nom à la station Porte de la Chapelle, ancien terminus de la ligne 12. La station a fait l'objet d'un prototype du style décoratif « Andreu-Motte » — adopté par un tiers des stations du réseau entre 1974 et 1984 — ici adapté aux stations aériennes de la ligne 2, avec l'application d'une peinture violette sur les huisseries des baies vitrées, la pose d'un carrelage blanc plat sur les allèges qui les surmontent ainsi que l'installation de sièges « Motte » blancs.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "La Courneuve - 8 Mai 1945",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La Courneuve - 8 Mai 1945 est une station de la ligne 7 du métro de Paris, dont elle est le terminus nord, située sur la commune de La Courneuve, sous la place du 8-Mai-1945. == Situation == La station est établie sous l'avenue Paul-Vaillant-Couturier (RD 932) au niveau de la place du 8-Mai-1945, à l'intersection avec l'avenue Jean-Jaurès et l'avenue Lénine, ces deux dernières voies formant la RD 986.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "La Défense",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La Défense est une station de la ligne 1 du métro de Paris, située sur la commune de Puteaux, dans le département des Hauts-de-Seine. == Situation == La station est située sous la dalle du quartier d'affaires de La Défense, entre le CNIT et le centre commercial Les 4 Temps.",
+        "informations": "La Défense est un quartier d'affaires situé dans la métropole du Grand Paris en Île-de-France, deuxième quartier d'affaires le plus attractif en Europe, après la Cité de Londres, et 4e dans le monde. Le quartier abrite notamment les sièges de nombreuses entreprises françaises et étrangères ainsi que l'autorité bancaire européenne. Il est situé en banlieue nord-ouest de Paris, dans le département des Hauts-de-Seine, sur les territoires des communes de Puteaux, Courbevoie, Nanterre et La Garenne-Colombes, à l'extrémité occidentale de l'axe historique qui commence au palais du Louvre et se poursuit par l'avenue des Champs-Élysées, l'arc de triomphe de l'Étoile et au-delà jusqu'au pont de Neuilly et l'Arche de la Défense.",
+        "personne": {
+            "nom": "La Défense",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "La Dhuys",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Elle doit son nom à la proximité de la rue de la Dhuys à Noisy-le-Sec, elle-même portant le nom d'une rivière de l'Aisne, la Dhuis, dont l'eau est captée pour alimenter Paris via l'aqueduc de la Dhuis. Son nom de projet initial était La Boissière.",
+        "informations": "L'aqueduc de la Dhuis (également écrit Dhuys) et prononcé [d̪yiz] est un aqueduc souterrain d'Île-de-France et d'Aisne en France, construit entre 1863 et 1865. Il sert à fournir en eau les communes du Val d'Europe, dont le complexe Disneyland Paris à l'est de l'Île-de-France. À sa construction il permettait de desservir Paris en eau potable à partir de la Dhuis.",
+        "personne": null
+    },
+    {
+        "station": "La Fourche",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Sa dénomination fait référence au lieu-dit « La Fourche » qui, en surface, désigne le carrefour en Y entre l'avenue de Clichy et l'avenue de Saint-Ouen. C'est à cet endroit précis que les deux branches nord de la ligne se séparent, le terme de « fourche » désignant ces dernières par métonymie.",
+        "informations": "L'avenue de Saint-Ouen est une voie des 17e et 18e arrondissements de Paris.",
+        "personne": null
+    },
+    {
+        "station": "La Motte-Picquet - Grenelle",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La première voie rend hommage à l’amiral Toussaint-Guillaume Picquet de La Motte (1720-1791), tandis que la seconde renvoie à l'ancienne commune de Grenelle qu'elle délimitait par le nord jusqu'à son annexion à Paris en 1860, trente ans à peine après sa création. Ce village a également donné indirectement son nom à la station Charles Michels de la ligne 10 à travers son appellation inaugurale de Beaugrenelle jusqu'en 1945, ainsi qu'à l'actuelle station Bir-Hakeim de la ligne 6 jusqu'en 1949.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "La Muette",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la chaussée de la Muette, au sein du quartier éponyme, dont le nom fait référence au château de la Muette à quelques centaines de mètres au nord-ouest. Le nom de la station est sous-titré Musée Marmottan-Monet, du nom du musée situé à proximité, sur les plaques énumérant les stations desservies qui sont disposées dans les couloirs.",
+        "informations": "La chaussée de la Muette est une voie du 16e arrondissement de Paris, en France.",
+        "personne": null
+    },
+    {
+        "station": "La Tour-Maubourg",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec le boulevard de La Tour-Maubourg, lequel rend hommage au marquis Victor de Faÿ de Latour-Maubourg (1768-1850), ministre de la Guerre et gouverneur des Invalides (ces dernières se situant à l'est de la station et du boulevard précités). Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs d'accès et de sortie ainsi que l'éclairage des quais sont rénovés le .",
+        "informations": "Le boulevard de La Tour-Maubourg est une des artères du 7e arrondissement de Paris, partant de la Seine pour rejoindre la place Vauban. Elle longe les Invalides.",
+        "personne": null
+    },
+    {
+        "station": "Lamarck - Caulaincourt",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle est finalement baptisée Lamarck à son inauguration, car l'édicule d'accès débouche sur la rue Lamarck, ainsi nommée en hommage au naturaliste français Jean-Baptiste de Lamarck (1744-1829). Puis elle porte le nom de Lamarck (Caulaincourt) en raison de sa proximité avec la rue Caulaincourt, laquelle rend hommage au général Armand de Caulaincourt, duc de Vicence (1773-1827) et défenseur du quartier lors de la bataille de Paris en 1814.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Laumière",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec l'avenue de Laumière, laquelle rend hommage au général d'artillerie français Xavier Jean Marie Clément Vernhet de Laumière (1812-1863). Comme un tiers des stations du réseau entre 1974 et 1984, les quais sont modernisés par l'adoption du style décoratif « Andreu-Motte », de couleur verte avec le maintien des faïences biseautées d'origine en l'occurrence.",
+        "informations": "L'avenue de Laumière est une avenue du 19e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Le Kremlin-Bicêtre",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Le Kremlin-Bicêtre est une station de la ligne 7 du métro de Paris, située sur la commune du Kremlin-Bicêtre. == Histoire == La station est ouverte le , lors de la première phase de la création d'une branche de la ligne 7 qui se détache à Maison Blanche en direction de Villejuif.",
+        "informations": "Le Kremlin-Bicêtre est une commune française de la métropole du Grand Paris, située dans le département du Val-de-Marne en région Île-de-France.",
+        "personne": null
+    },
+    {
+        "station": "Le Peletier",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Le Peletier, laquelle rend hommage à Louis Le Peletier de Mortefontaine (1730-1799), avant-dernier prévôt des marchands de Paris, de 1784 à 1789. Dans le cadre du programme « Renouveau du métro » de la RATP, les quais de la station sont rénovés en 2005, de même que les couloirs d'accès le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Ledru-Rollin",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue Ledru-Rollin, laquelle rend hommage à l’avocat et homme politique français Alexandre Auguste Ledru, dit Ledru-Rollin (1807-1874). La station fait partie des trois points d'arrêt choisis en tant que prototypes du style décoratif « Andreu-Motte » avec Pont-Neuf sur la ligne 7 et Voltaire sur la ligne 9, dont les composants sont testés dès 1974 sur les quais .",
+        "informations": "L'avenue Ledru-Rollin est une voie située dans les quartiers Sainte-Marguerite et de la Roquette du 11e arrondissement de Paris et celui des Quinze-Vingts du 12e arrondissement.",
+        "personne": null
+    },
+    {
+        "station": "Les Agnettes",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle porte le nom du lieu-dit où elle se situe, à la limite d'Asnières-sur-Seine et de Gennevilliers. En 2019, sont entrés à cette station.",
+        "informations": "Asnières-sur-Seine (prononcé /a.njɛʁ.syʁ.sɛn/), anciennement Asnières jusqu'au 15 février 1968, est une commune française du département des Hauts-de-Seine en région Île-de-France.",
+        "personne": {
+            "nom": "Asnières-sur-Seine",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Les Gobelins",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "== À proximité == * Manufacture des Gobelins ; * Square René-Le Gall ; * Place en Hommage-aux-Femmes-Victimes-de-Violences ; * Mobilier national. == Notes et références == == Bibliographie == * Pierre Miquel, Petite histoire des stations de métro, Éditions Albin Michel, 1993.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Les Halles",
+        "theme": "Lieu géographique",
+        "sous_theme": "Capitale",
+        "pourquoi_ce_nom": "Les Halles est une station de la ligne 4 du métro de Paris, située dans le de Paris. Ouverte en 1908 par la Compagnie du chemin de fer métropolitain de Paris, elle offre alors une desserte des halles de Paris.",
+        "informations": "La gare de Châtelet - Les Halles est une gare ferroviaire française située dans le 1er arrondissement de Paris. Elle est mise en service en 1977 par la Régie autonome des transports parisiens (RATP). C'est une gare intégralement souterraine et située en plein cœur de la capitale, desservie par trois lignes du réseau express régional d'Île-de-France (RER) et offrant une correspondance avec cinq lignes de métro.",
+        "personne": null
+    },
+    {
+        "station": "Les Sablons",
+        "theme": "Personne",
+        "sous_theme": "Personnalité politique",
+        "pourquoi_ce_nom": "Les Sablons est une station de la ligne 1 du métro de Paris, située sur la commune de Neuilly-sur-Seine, dans le département des Hauts-de-Seine. == Situation == La station est implantée sous l'avenue Charles-de-Gaulle (N 13), à Neuilly, au niveau de la rue Louis-Philippe d'une part et de la rue d'Orléans d'autre part.",
+        "informations": "Le quartier des Sablons est un quartier de la ville du Mans de 10 000 habitants environ en 2020. Ce quartier est divisé en deux parties délimitées par le Boulevard Nicolas Cugnot. Les Sablons sont situés au Sud-Est du centre-ville, non loin du quartier Jean Jaurès et de Pontlieue.",
+        "personne": {
+            "nom": "Les Sablons",
+            "annee_naissance": 2020,
+            "annee_deces": 2018,
+            "siecles_vecus": [
+                "XXIe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Liberté",
+        "theme": "Événement historique",
+        "sous_theme": "Révolution ou insurrection",
+        "pourquoi_ce_nom": "Liberté est une station de la ligne 8 du métro de Paris, située sur la commune de Charenton-le-Pont. == Situation == La station est implantée sous la rue de Paris, ancienne nationale 6 déclassée, à hauteur de la place des Marseillais, soit au nord-est de l'intersection avec l'avenue de la Liberté.",
+        "informations": "La triade Liberté, Égalité, Fraternité est la devise officielle de la République française depuis l'article 4 de la Constitution de 1848 de la IIe République, inscrite à partir du centenaire de la prise de la Bastille qui devient fête nationale sur les frontons des édifices publics sous la IIIe République et reprise dans l'article 2 de la Constitution de 1958 de la Ve République. Elle est aussi la devise officielle de la république d’Haïti, mentionnée dans l'article 4 de la Constitution haïtienne de 1987. Déjà affirmées dans certains textes antérieurs tels que la Constitution du Massachusetts (1780), la liberté et l'égalité (sans la fraternité) des hommes sont posées comme principes en France dans l'article 1 de la Déclaration des droits de l'homme et du citoyen de 1789, déclaration qui est mentionnée dans le préambule de la Constitution de la Cinquième République française : « Article Premier.",
+        "personne": null
+    },
+    {
+        "station": "Liège",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Au début de la Première Guerre mondiale, le , elle est fermée ; à sa réouverture le de la même année, elle est, ainsi que la rue éponyme, débaptisée pour prendre le nom de la ville belge, nom donné afin de célébrer la résistance héroïque de cette ville lors de l'attaque allemande . L’appellation culinaire « café liégeois » en lieu et place de « café viennois » a la même origine .",
+        "informations": null,
+        "personne": {
+            "nom": "Liège",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Louis Blanc",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la rue Louis-Blanc, laquelle rend hommage à l’homme politique Louis Jean Joseph Blanc (1811-1882), journaliste et historien français. Le , l'antenne vers ou depuis Pré-Saint-Gervais de la est isolée du reste de la ligne, et exploitée depuis lors comme ligne indépendante sous l'indicatif .",
+        "informations": null,
+        "personne": {
+            "nom": "Louis Blanc",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Louise Michel",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "Le , elle change de nom au profit de Louise Michel, en même temps que la rue Vallier, renommée en hommage à l'institutrice communarde Louise Michel, surnommée la Vierge rouge, qui écrivit des romans sociaux ainsi que ses mémoires . La station est depuis lors la cinquième d'une série de huit du réseau à s'être vue attribuer le nom d'une femme, après Barbès - Rochechouart (lignes 2 et 4), Madeleine (lignes 8, 12 et 14), Chardon-Lagache (ligne 10) et Boucicaut (ligne 8) ; suivront par la suite les stations Pierre et Marie Curie (ligne 7) , Barbara (ligne 4) et Bagneux - Lucie Aubrac (lignes 4 et future ligne 15).",
+        "informations": null,
+        "personne": {
+            "nom": "Louise Michel",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Lourmel",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la rue de Lourmel, ainsi nommée en hommage au général de brigade français Frédéric Henri Le Normand de Lourmel (1811-1854). Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs d'accès et de sortie ainsi que l'éclairage des quais sont rénovés le .",
+        "informations": "Frédéric Henry Le Normand de Lourmel, né le 12 juillet 1811 à Pontivy et tué le 7 novembre 1854 à la bataille d'Inkerman en Crimée, est un général de brigade français.",
+        "personne": {
+            "nom": "Frédéric Henri Le Normand de Lourmel",
+            "annee_naissance": 1811,
+            "annee_deces": 1854,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Louvre - Rivoli",
+        "theme": "À vérifier",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Louvre - Rivoli est une station de la ligne 1 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous la rue de Rivoli, à l'ouest de son intersection avec la rue du Louvre.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Mabillon",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Mabillon, laquelle rend hommage au bénédictin Jean Mabillon (1632-1707), moine mauriste, écrivain et érudit, éditeur de textes religieux. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Madeleine",
+        "theme": "Monument ou institution",
+        "sous_theme": "Monument",
+        "pourquoi_ce_nom": "Madeleine est une station des lignes 8, 12 et 14 du métro de Paris, située à la limite des et de Paris. Il s'agit de l'une des huit stations de métro à porter le nom d'une femme, Marie de Magdala, alias Marie Madeleine, les sept autres femmes étant Marguerite de Rochechouart, Louise Michel, Marie Curie, Marguerite Boucicaut, Amélie Lagache , Barbara et Lucie Aubrac.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Mairie d'Aubervilliers",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Mairie d'Aubervilliers est une station de la ligne 12 du métro de Paris. Elle a été mise en service le .",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Mairie d'Issy",
+        "theme": "À vérifier",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Mairie d'Issy est une station de la ligne 12 du métro de Paris, située sur la commune d'Issy-les-Moulineaux. Elle possède la particularité de marier plusieurs styles de décorations : le style « Nord-Sud », le style « CMP » et le style « Ouï-dire ».",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Mairie d'Ivry",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Mairie d'Ivry est une station de la ligne 7 du métro de Paris, située sur la commune d'Ivry-sur-Seine. == Histoire == La station est ouverte le 1946.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Mairie de Clichy",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Mairie de Clichy est une station de la ligne 13 du métro de Paris, située sur le territoire de la commune de Clichy. == Situation == La station est implantée sous la rue Martre (D 19) entre la rue Villeneuve et la rue Charles-et-René-Auffray.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Mairie de Montreuil",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Mairie de Montreuil est une station de la ligne 9 du métro de Paris, située sur la commune de Montreuil. C'est le terminus oriental de cette ligne.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Mairie de Montrouge",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Mairie de Montrouge est une station de la ligne 4 du métro de Paris, située à Montrouge, au sud de Paris. Ouverte le , elle était, jusqu'au (lors du prolongement de la ligne à Bagneux), le terminus sud de cette ligne et la du métro de Paris .",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Mairie de Saint-Ouen",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Mairie de Saint-Ouen est une station des lignes 13 et 14 du métro de Paris, située sur le territoire de la commune de Saint-Ouen-sur-Seine, dans le département de la Seine-Saint-Denis. Elle se trouve à proximité de Saint-Denis, à seulement 400 mètres du quartier Pleyel, situé à Saint-Denis.",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Mairie des Lilas",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Mairie des Lilas est une station de la ligne 11 du métro de Paris, située sur la commune des Lilas. == Situation == La station est implantée sous l'amorce du boulevard de la Liberté, à l'est de la place du Colonel-Fabien, laquelle fait l'angle avec la rue de Paris (D 117).",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Maison Blanche",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation au sein du quartier de la Maison-Blanche, lequel tient son nom d'une auberge nommée « Maison Blanche ». La rue de la Maison-Blanche se trouve à plusieurs centaines de mètres au nord, à proximité de la station voisine Tolbiac.",
+        "informations": "Le quartier de la Maison-Blanche est le 51e quartier administratif de Paris situé dans le 13e arrondissement. Il est limité au nord par le boulevard Auguste-Blanqui, à l'est par l'avenue de Choisy, au sud par les communes du Kremlin-Bicêtre et de Gentilly et à l'ouest par la rue de l'Amiral-Mouchez et la rue de la Santé. Ce quartier était la partie nord de la commune de Gentilly, le Petit-Gentilly, annexé à Paris en 1860.",
+        "personne": {
+            "nom": "Quartier de la Maison-Blanche",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Maisons-Alfort - Les Juilliottes",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation sur le territoire de la commune de Maisons-Alfort, dans le quartier des Juilliottes, lequel tire son nom des jeunes femmes qui venaient ramasser les champignons dans les anciennes carrières devenues champignonnières, au mois de Juillet, qu'on appelait ainsi \"les juilliottes\", ou selon une autre source, des anciennes « terres de Juliotte » sur lesquelles il a été créé . Il s'agissait à l'origine d'un quartier principalement composé de terrains vagues et de petits terrils, conséquence d'anciennes carrières, qui furent excavées ou traversées de pilotis afin d'y aménager, au début des années 1970, un ensemble immobilier composé de logements, de bureaux ainsi qu'un petit centre commercial.",
+        "informations": "Maisons-Alfort est une commune française du Val-de-Marne, en Île-de-France. Elle se situe dans la banlieue sud-est de Paris, à trois kilomètres de la capitale (et à 600 mètres du Bois de Vincennes, Paris 12e), sur la rive sud de la Marne. Son positionnement lui permet un accès rapide à plusieurs axes majeurs de communications franciliens que sont l'A4 au nord ou l'A86 au sud.",
+        "personne": {
+            "nom": "Maisons-Alfort",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Maisons-Alfort - Stade",
+        "theme": "À vérifier",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Maisons-Alfort - Stade est une station de la ligne 8 du métro de Paris, située sur la commune de Maisons-Alfort. == Situation == La station est établie sous l'avenue du Général-Leclerc (D 19), à hauteur de l'amorce de la rue Chevreul.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Malakoff - Plateau de Vanves",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Sa dénomination définitive vient de son implantation à la limite des territoires de Malakoff d'une part et de Vanves d'autre part ; le terme de « Plateau » fait référence au quartier du Plateau de Vanves, situé dans la partie nord de cette dernière commune à environ 60 mètres d'altitude. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station ont été partiellement modernisés le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Malakoff - Rue Étienne Dolet",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle tire sa dénomination définitive de sa relative proximité avec la rue Étienne-Dolet, laquelle rend hommage à Étienne Dolet (1509-1546), écrivain, poète, imprimeur, humaniste et philologue français, auteur de commentaires sur la langue latine et de poèmes. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station ont été partiellement modernisés le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Malesherbes",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit son nom à sa proximité avec le boulevard Malesherbes, lequel reçut sa dénomination sous la Restauration afin de rendre hommage à l'académicien français Chrétien Guillaume de Lamoignon de Malesherbes (1721-1794), magistrat, botaniste et homme d'État qui fut guillotiné sous la Terreur. Dans les années 1930, l'entrée principale de la station voit son édicule Guimard d'origine remplacé par un entourage en fer forgé dans le style décoratif Dervaux, d'aspect plus sobre.",
+        "informations": "Le boulevard Malesherbes est une voie des 8e et 17e arrondissements de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Maraîchers",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue des Maraîchers, laquelle tient son nom des jardins maraîchers qui la bordaient jadis , dont la production la plus célèbre était la pêche de Montreuil. Dans le cadre du programme « Renouveau du métro » de la RATP, la station est rénovée le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Marcadet - Poissonniers",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "=== Origine des noms === La station doit sa dénomination de Marcadet à sa proximité avec la rue Marcadet, laquelle tient son nom d’un lieu-dit, la Mercade, situé à la Chapelle Saint-Denis, car il s'y tenait un marché, marcadus, à l’époque de la foire du Lendit. Par la suite, cette rue avait également donné son nom à l'actuelle station Guy Môquet sur la ligne 13, initialement baptisée Carrefour Marcadet, puis renommée Marcadet - Balagny avant de prendre son nom actuel à l'issue de la Seconde Guerre mondiale.",
+        "informations": "La rue Marcadet est une rue du 18e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Marcel Sembat",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation au nord-est de la place Marcel-Sembat, laquelle rend hommage au journaliste Marcel Sembat (1862-1922) qui fut député socialiste du 18 arrondissement de Paris (quartier des Grandes-Carrières) de 1893 jusqu'à sa mort, responsable de La Petite République de 1892 à 1897 et ministre des Travaux publics de 1914 à 1916. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station ainsi que l'éclairage des quais ont été rénovés le .",
+        "informations": "Marcel Sembat, né le 19 octobre 1862 à Bonnières-sur-Seine et mort le 5 septembre 1922 à Chamonix, est un homme politique socialiste et ministre français.",
+        "personne": {
+            "nom": "Marcel Sembat",
+            "annee_naissance": 1862,
+            "annee_deces": 1922,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Marx Dormoy",
+        "theme": "Personne",
+        "sous_theme": "Résistant",
+        "pourquoi_ce_nom": "=== Origine des noms === La station doit sa dénomination initiale de Torcy à sa proximité avec la rue de Torcy, laquelle rend hommage au marquis Jean-Baptiste Colbert de Torcy (1665-1746), neveu de Colbert. Le , elle change de nom au profit de Marx Dormoy, simultanément à la partie sud de la rue de la Chapelle, renommée rue Marx-Dormoy en l'honneur de Marx Dormoy (1888-1941), homme politique français, assassiné à Montélimar par des cagoulards à l'âge de 52 ans.",
+        "informations": "Marx Dormoy, né le 1er août 1888 à Montluçon et mort assassiné le 26 juillet 1941 à Montélimar, est un résistant, et homme politique socialiste français. Membre de la Section française de l'Internationale ouvrière (SFIO), il est notamment président du conseil général de l'Allier de 1931 à 1933, sous-secrétaire d'État à la présidence du Conseil de juin à novembre 1936 et ministre de l'Intérieur de novembre 1936 à janvier 1938, puis à nouveau en mars-avril 1938.",
+        "personne": {
+            "nom": "Marx Dormoy",
+            "annee_naissance": 1888,
+            "annee_deces": 1941,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Maubert - Mutualité",
+        "theme": "À vérifier",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Maubert - Mutualité est une station de la ligne 10 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous le boulevard Saint-Germain, à l'ouest de la place Maubert.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Ménilmontant",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Ménilmontant est une station de la ligne 2 du métro de Paris, située à la limite des 11 et 20 arrondissements de Paris. == Situation == La station est établie à la limite administrative entre le quartier de la Folie-Méricourt au nord-ouest, le quartier Saint-Ambroise au sud-ouest, le quartier de Belleville au nord-est et le quartier du Père-Lachaise au sud-est.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Michel-Ange - Auteuil",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Michel-Ange d'une part, laquelle rend hommage à Michel-Ange (1475-1564), sculpteur, peintre et architecte italien, ainsi qu'avec la rue d'Auteuil d'autre part, ainsi nommée en tant que principale voie de circulation de l'ancien village d'Auteuil. Le premier a également donné son nom à la station voisine Michel-Ange - Molitor, tandis que le toponyme du second a été repris par les stations encadrantes de la ligne : Porte d'Auteuil et Église d'Auteuil.",
+        "informations": "Dans son acception classique, l'architecte est d'abord un artiste et un technicien (dans la profession des architectes de l'État, du gouvernement, du département ou de la ville) spécialisé dans la conception des constructions (bâtiments, ouvrages d'art...). Répondant aux besoins – appelé programme – de son client, il traduit en dessins expressifs et techniques une réflexion sur l'espace attribué à une construction, un abri ou un signal. Il compose une œuvre dans l'espace à l'aide des moyens essentiels que sont la lumière, les volumes et les matériaux puis conduit le chantier.",
+        "personne": {
+            "nom": "Architecte",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Michel-Ange - Molitor",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Michel-Ange d'une part, laquelle rend hommage à Michel-Ange (1475-1564), sculpteur, peintre et architecte italien, ainsi qu'avec la rue Molitor d'autre part, nommée en l'honneur du comte Gabriel-Jean-Joseph Molitor (1770-1849), maréchal de France . Le premier a également donné son nom à la station voisine Michel-Ange - Auteuil, tandis que le second a donné le sien à la station fantôme Porte Molitor, située à proximité et jamais ouverte au public.",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Michel Bizot",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue du Général-Michel-Bizot, laquelle rend hommage au général de division Michel Bizot (1795-1855). Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés le .",
+        "informations": "Michel Brice Bizot, né le 3 octobre 1795 (11 vendémiaire an IV) à Bitche et mort le 15 avril 1855 durant le siège de Sébastopol, est un général de division français.",
+        "personne": {
+            "nom": "Michel Bizot",
+            "annee_naissance": 1795,
+            "annee_deces": 1855,
+            "siecles_vecus": [
+                "XVIIIe siècle",
+                "XIXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Mirabeau",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "Mirabeau est une station de la ligne 10 du métro de Paris, située dans le de Paris. == Situation == La station est établie à l'est du quartier d'Auteuil, à proximité de la Seine, laquelle marque la limite administrative avec le (quartier de Javel).",
+        "informations": "Honoré Gabriel Riqueti, aussi orthographié Riquetti, « comte » de Mirabeau, plus communément appelé Mirabeau, né le 9 mars 1749 dans le château de Bignon-Mirabeau, dans le Loiret, et mort le 2 avril 1791 à Paris, est un écrivain, diplomate, journaliste et homme politique français, figure de la Révolution. Après une jeunesse marquée par le libertinage, plusieurs années de prison, une liaison adultérine, et des pamphlets, il embrasse l'idée de réformer la société française dans son ensemble : il est l'un des pères fondateurs de la Révolution française, partisan d'une monarchie constitutionnelle. Surnommé « l'Hercule de la liberté », « l'Orateur du peuple » et « la Torche de Provence », il reste le premier symbole de l’éloquence parlementaire en France.",
+        "personne": {
+            "nom": "Honoré-Gabriel Riqueti de Mirabeau",
+            "annee_naissance": 1749,
+            "annee_deces": 1791,
+            "siecles_vecus": [
+                "XVIIIe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Miromesnil",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à la rue de Miromesnil dont elle assure la desserte, laquelle rend hommage au magistrat Armand Thomas Hue de Miromesnil (1723-1796) , garde des Sceaux de 1774 à 1787. Il fit abolir la question préparatoire, c'est-à-dire les tortures infligées à un accusé pendant la procédure pour lui arracher les aveux de son crime quand sa culpabilité, déjà établie, reste insuffisante pour pouvoir le condamner à mort.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Monceau",
+        "theme": "Lieu géographique",
+        "sous_theme": "Quartier",
+        "pourquoi_ce_nom": "Monceau est une station de la ligne 2 du métro de Paris, située dans le 8 arrondissement de Paris, à la limite du 17 arrondissement. == Situation == La station est implantée à la limite administrative entre le quartier de l'Europe au sud-est et le quartier de la Plaine-de-Monceaux au nord-est.",
+        "informations": "Le quartier de la Plaine-de-Monceaux (ou quartier de la Plaine-Monceau dans l'usage actuel) est le 66e quartier administratif de Paris situé dans le 17e arrondissement.",
+        "personne": null
+    },
+    {
+        "station": "Montgallet",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Montgallet, laquelle porte le nom d'un ancien propriétaire des terrains sur laquelle cette voie a été tracée. vignette|gauche|Carreau en souvenir de l'opération « Renouveau du métro ».",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Montparnasse Bienvenue",
+        "theme": "Personne",
+        "sous_theme": "Résistant",
+        "pourquoi_ce_nom": "Le , la station Avenue du Maine de la ligne 5 est renommée Bienvenüe, en même temps que la place du Maine prend le nom de place Bienvenüe, en hommage à l'ingénieur Fulgence Bienvenüe, créateur du métro parisien. Le , la station Bienvenüe de la ligne 14 est ouverte, en même temps que cette dernière, et permet de relier Porte de Vanves.",
+        "informations": "Paris est la capitale de la France (de facto) et le chef-lieu de la région Île-de-France. Elle est située au centre du Bassin parisien, sur une boucle de la Seine, entre les confluents avec la Marne et l'Oise. Le site est occupé à partir du IIIe siècle avant notre ère sous le nom Lutèce par le peuple gaulois des Parisii, qui donne plus tard son nom à la ville.",
+        "personne": {
+            "nom": "Paris",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Montreuil - Hôpital",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Montreuil - Hôpital est une station de la ligne 11 du métro de Paris, située à cheval sur les communes de Montreuil et Noisy-le-Sec. Il s'agit de la du métro de Paris .",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Mouton-Duvernet",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Mouton-Duvernet est une station de la ligne 4 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au nord du quartier du Petit-Montrouge, sous l'avenue du Général-Leclerc à hauteur de la rue Mouton-Duvernet, les quais étant établis entre cette dernière voie et l'amorce de la rue Ernest-Cresson.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Nation",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle tient son nom de la place de la Nation, ainsi dénommée depuis 1880 en l'honneur de la Fête nationale . Le patronyme de la station de la ligne 9 est sous-titré Place des Antilles, du nom de la place située à proximité de celle de la Nation, le long du cours de Vincennes.",
+        "informations": "La fête nationale commémore un événement historique, politique ou culturel lié à l'histoire d'une nation, dont l'importance justifie généralement le renouvellement ininterrompu de festivités annuelles, mais qui peut aussi faire l'objet d'une célébration ponctuelle.",
+        "personne": {
+            "nom": "Fête nationale",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Nationale",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Nationale, laquelle rend hommage à la Garde nationale, une milice civique bourgeoise créée lors de la Révolution française et installée dans le secteur, qui a connu différentes organisations depuis lors . Le patronyme de cette rue renvoie plus spécifiquement à sa forme de 1848, la voie ayant été ainsi baptisée après la Révolution de 1848 afin de célébrer l'avènement de la Deuxième République.",
+        "informations": null,
+        "personne": {
+            "nom": "Révolution française",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Notre-Dame-de-Lorette",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Notre-Dame-de-Lorette est une station de la ligne 12 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au nord-est du quartier de la Chaussée-d'Antin, à proximité de ses limites administratives avec le quartier Saint-Georges au nord, le quartier du Faubourg-Montmartre à l'est ainsi que le quartier de Rochechouart au nord-est.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Notre-Dame-des-Champs",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Par jeu de mots, Notre-Dame-des-Champs est ainsi humoristiquement renommée « Notre Didier Deschamps » en hommage au sélectionneur des Bleus Didier Deschamps, lequel est simultanément honoré à la station Champs-Élysées - Clemenceau sur les lignes 1 et 13. N-D des Champs.jpg| Notre-Dame-des-Champs métro Didier Deschamps 3.jpg| === Fréquentation === Selon les estimations de la RATP, la station a vu entrer , ce qui la place à la des stations de métro pour sa fréquentation sur 302 .",
+        "informations": "Un jeu de mots est en général n'importe quel jeu de langue qui manipule les mots ou des sonorités et en particulier celui qui consiste à créer deux mots ou deux phrases homophones (le plus souvent humoristique) ayant un sens différent. Il est généralement considéré comme un procédé poétique. Si le jeu de mots résulte d'un hasard malencontreux, on parlera de kakemphaton.",
+        "personne": {
+            "nom": "Jeu de mots",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Oberkampf",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Oberkampf, laquelle rend hommage à Christophe-Philippe Oberkampf (1738-1815), industriel français d’origine allemande, célèbre fondateur de la manufacture royale de toiles imprimées de Jouy-en-Josas où était fabriquée la toile de Jouy. Le , la station de la ligne 9 est ouverte à son tour avec l'inauguration de son cinquième prolongement, depuis le terminus provisoire de Richelieu - Drouot jusqu'à Porte de Montreuil.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Odéon",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec le carrefour de l'Odéon, aménagé au nord du quartier éponyme et de la rue du même nom, cette dernière voie conduisant au fronton du théâtre de l'Odéon, dont le toponyme fait référence aux odéons de la Grèce antique.",
+        "informations": "Le carrefour de l'Odéon est une place située dans le quartier de l'Odéon dans le 6e arrondissement de Paris. Il est fréquemment confondu avec la place Henri-Mondor, attenante et délimitée par le boulevard Saint-Germain, qui est distincte de ce dernier au cadastre.",
+        "personne": null
+    },
+    {
+        "station": "Olympiades",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La station tire son nom de l'ensemble d'immeubles et de la dalle situés à proximité, au cœur du , et ainsi dénommés du fait que chaque tour y possède le nom d'une ville ayant accueilli les Jeux olympiques. Le nom choisi a d'ailleurs provoqué des tensions entre la RATP, la Ville de Paris et le Comité national olympique et sportif français (propriétaire du nom) ; un accord début a permis de trouver un compromis sur l'utilisation de cette marque déposée dans le cadre restreint du transport public .",
+        "informations": "Les Jeux olympiques (JO), aussi appelés Jeux olympiques modernes, puisqu'ils prolongent la tradition des jeux olympiques de la Grèce antique, sont des événements sportifs internationaux majeurs, regroupant les sports d’été ou d’hiver, auxquels des milliers d’athlètes participent à travers différentes compétitions tous les quatre ans, pour chaque olympiade moderne. Originellement tenus dans le centre religieux d’Olympie, dans la Grèce antique du VIIIe siècle av. J.-C.",
+        "personne": {
+            "nom": "Jeux olympiques",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Opéra",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Opéra est une station des lignes 3, 7 et 8 du métro de Paris, située à la limite du quartier Gaillon du et du quartier de la Chaussée-d'Antin du 9 arrondissement de Paris. == Situation == vignette|gauche|Plan de superposition des trois lignes sous la place de l'Opéra.",
+        "informations": "La place de l'Opéra est une place de Paris située dans le 9e arrondissement.",
+        "personne": null
+    },
+    {
+        "station": "Ourcq",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'amorce de la rue de l'Ourcq, laquelle tire son nom du voisinage du canal de l'Ourcq qu'elle enjambe au moyen du pont de la rue de l'Ourcq. Les quais font l'objet d'une modernisation après 1988 par l'adoption du style décoratif « Ouï-dire », de couleur rouge et complété d'une petite œuvre d'art en l'occurrence.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Palais Royal - Musée du Louvre",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "En 1989, la station est rebaptisée Palais-Royal - Musée du Louvre afin de souligner la desserte de la nouvelle entrée principale du musée du Louvre par la pyramide de Pei, par opposition à la station Louvre - Rivoli (anciennement Louvre) qui desservait l'ancienne entrée par la colonnade du Louvre. Dans le cadre de l'automatisation de la ligne 1, ses quais ont été rehaussés durant le week-end du 7 et , puis équipés de portes palières en .",
+        "informations": "Le musée du Louvre est un musée parisien situé au sein du palais du Louvre dans le 1er arrondissement. Il a le statut de musée national en France. Ordonnées en neuf départements, ses collections présentent l'art occidental du Moyen Âge à 1848, celui des civilisations antiques qui l'ont précédé et influencé (orientales, égyptienne, grecque, étrusque et romaine), les arts des premiers chrétiens et ceux de l'islam.",
+        "personne": {
+            "nom": "Musée du Louvre",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Parmentier",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue Parmentier, laquelle rend hommage à l'agronome Antoine Parmentier (1737-1813), connu pour son action de promotion en faveur de la consommation de la pomme de terre, dont il découvrit les vertus, dans l'alimentation humaine. Dans les années 1960, les quais font l'objet d'une modernisation par la mise en place d'un carrossage métallique sur les piédroits, doté de montants horizontaux de couleur vert d'eau ainsi que de cadres publicitaires dorés, éclairés par le haut.",
+        "informations": "L’avenue Parmentier est une avenue des 10e et 11e arrondissements de Paris, en France.",
+        "personne": null
+    },
+    {
+        "station": "Passy",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Passy est une station de la ligne 6 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sur la rue Marietta-Alboni, entre le square Alboni, la place de Costa-Rica et l'avenue du Président-Kennedy.",
+        "informations": "Passy est une ancienne commune de la Seine, dont la majeure partie du territoire fut rattachée à Paris le 1er janvier 1860. Son territoire correspond depuis cette date à ceux des quartiers de la Muette, de la Porte-Dauphine et de la partie ouest de Chaillot, situés au nord du quartier d'Auteuil dans le 16e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Pasteur",
+        "theme": "Personne",
+        "sous_theme": "Scientifique",
+        "pourquoi_ce_nom": "Elle rend hommage à Louis Pasteur, biologiste et chimiste français qui fonda la science de la microbiologie, mit en évidence le rôle des germes dans les maladies, inventa le processus de pasteurisation et développa les vaccins contre plusieurs maladies, dont la rage. Les quais de la ligne 6 sont rénovés en style « Mouton » dans les années 1970 tandis que ceux de la ligne 12 sont rénovés en 1976 en style « Motte ».",
+        "informations": "Louis Pasteur, né le 27 décembre 1822 à Dole (Jura) et mort le 28 septembre 1895 à Marnes-la-Coquette (Hauts-de-Seine, à cette époque en Seine-et-Oise), est un scientifique français, chimiste et physicien de formation. Sa carrière scientifique commence avec l'expérimentation progressive sur les minéraux, les insectes, puis les végétaux, en microbiologie. Il se tourne ensuite vers l'étude de la fermentation alcoolique, et enfin vers la santé humaine avec la vaccination contre la rage, qui le rend célèbre.",
+        "personne": {
+            "nom": "Louis Pasteur",
+            "annee_naissance": 1822,
+            "annee_deces": 1895,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Pelleport",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Pelleport, laquelle rend hommage au vicomte Pierre de Pelleport (1773-1855), général d'Empire et défenseur du quartier en 1814. À partir de 1940, sous l'Occupation allemande, le chef-surveillant de la station Lucien Noël met en place un réseau de résistants.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Père Lachaise",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Père Lachaise est une station des lignes 2 et 3 du métro de Paris, située à la limite des 11 et 20 arrondissements de Paris. == Situation == La station, malgré son nom, n'est pas située devant l'entrée principale du cimetière éponyme, mais devant une porte secondaire.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Pereire",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec le boulevard Pereire, lequel rend hommage aux frères Pereire, Émile (1800-1875) et Isaac (1806-1880), fondateurs de la compagnie des chemins de fer du Midi. La station porte comme sous-titre Maréchal Juin, du fait de son implantation sous la place du Maréchal-Juin, dénommée ainsi par arrêté municipal du , en l'honneur du maréchal français Alphonse Juin (1888-1967).",
+        "informations": "Les frères Pereire — Émile (1800-1875) et Isaac (1806-1880) — sont des entrepreneurs et hommes d'affaires français du XIXe siècle. Ils ont eu un rôle capital dans le « décollage industriel » de la France du Second Empire. Ils créèrent et développèrent de nombreuses entreprises dans, notamment, la banque, l'immobilier commercial et résidentiel, les chemins de fer, les transports maritimes et les assurances.",
+        "personne": null
+    },
+    {
+        "station": "Pernety",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Pernety, laquelle rend hommage au vicomte Joseph Marie de Pernety (1766-1856), général français de la Révolution et de l’Empire, qui était le propriétaire des terrains sur lesquels la voie précitée fut ouverte. Le , à la suite de la fusion de la avec l'actuelle , la station est transférée à cette dernière, laquelle est alors prolongée par phases successives depuis son terminus sud initial de Saint-Lazare et relie dorénavant Saint-Denis - Basilique (actuelle station Basilique de Saint-Denis) au nord-est ou Porte de Clichy au nord-ouest à Châtillon - Montrouge au sud.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Philippe Auguste",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue Philippe-Auguste, laquelle rend hommage au roi Philippe II, dit Philippe Auguste (1180-1223), septième roi de la dynastie des Capétiens. Il s'agit de la seule station du métro de Paris à porter le nom d'un roi de France.",
+        "informations": "L’avenue Philippe-Auguste est une avenue du 11e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Picpus",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Picpus est une station de la ligne 6 du métro de Paris, située dans le de Paris. == Situation == La station est établie sous l'avenue de Saint-Mandé, à l'ouest de l'intersection avec le boulevard de Picpus.",
+        "informations": "Le boulevard de Picpus [pikpys] est une voie située dans les quartiers du Bel-Air et de Picpus du 12e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Pierre et Marie Curie",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination initiale de Pierre Curie à sa proximité avec la rue éponyme , alors dénommée en hommage à Pierre Curie (1859-1906) physicien français, principalement connu pour ses travaux en radioactivité, en magnétisme et en piézoélectricité. La desserte, alors assurée par l'ensemble des circulations de la ligne, ne l'est plus que par un train sur deux à compter de l'inauguration le d'une nouvelle antenne vers Le Kremlin-Bicêtre (actuelle branche vers Villejuif - Louis-Aragon), laquelle se détache de la ligne au-delà de la station Maison Blanche.",
+        "informations": null,
+        "personne": {
+            "nom": "Radioactivité",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Pigalle",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station doit sa dénomination à son implantation sous la place Pigalle, en plein cœur du quartier Pigalle auquel cette dernière a donné son nom, ainsi qu'à sa proximité avec la rue Jean-Baptiste-Pigalle (anciennement rue Pigalle) où vécut le sculpteur éponyme de 1714 à 1785. Le , la moitié des plaques nominatives sur les quais de la ligne 2 sont remplacées par la RATP pour faire un poisson d'avril le temps d'une journée, tout en mettant les Jeux olympiques et paralympiques d'été de 2024 à l'honneur, comme dans treize autres stations sur le réseau.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Place d'Italie",
+        "theme": "Personne",
+        "sous_theme": "Résistant",
+        "pourquoi_ce_nom": "Il doit son nom au cinéma grand écran Gaumont, qui a fermé début 2006 * Centre commercial Italie 2 * Quartier de la Butte-aux-Cailles Place d'Italie métro Paris ligne 6 par Cramos.JPG| Édicule Métro Place d'Italie.JPG| Wagon isolé à Place d'Italie.JPG| Ligne-5-Place-d'Italie-1.jpg| Plaque de la bouche de métro Place d'Italie côté avenue d'Italie.JPG| == Notes et références == == Bibliographie == * Pierre Miquel, Petite histoire des stations de métro, Éditions Albin Michel, 1993 ; nouvelle édition revue et augmentée, 2013, .",
+        "informations": "Paris est la capitale de la France (de facto) et le chef-lieu de la région Île-de-France. Elle est située au centre du Bassin parisien, sur une boucle de la Seine, entre les confluents avec la Marne et l'Oise. Le site est occupé à partir du IIIe siècle avant notre ère sous le nom Lutèce par le peuple gaulois des Parisii, qui donne plus tard son nom à la ville.",
+        "personne": {
+            "nom": "Paris",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Place de Clichy",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Elle doit son nom à son implantation sous la place de Clichy, dont la dénomination rappelle que son emplacement correspond à l'ancienne barrière de Clichy, aux portes du Paris d'alors délimité par le mur des Fermiers généraux, qui donnait accès au village de Clichy. Ce dernier a également donné son toponyme aux stations Porte de Clichy (lignes 13 et 14) et Mairie de Clichy (ligne 13).",
+        "informations": "La place de Clichy (parfois appelée place Clichy) se trouve dans le nord-ouest de la ville de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Place des Fêtes",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station doit sa dénomination à son implantation sous la place des Fêtes, dont le nom rappelle les manifestations publiques locales que l'ancienne commune de Belleville y organisait jadis. Elle est ainsi une des quatre stations du réseau dont le toponyme intègre le mot « Place » en préfixe, avec Place de Clichy (lignes 2 et 13), Place d'Italie (lignes 5, 6 et 7) et Place Monge (ligne 7).",
+        "informations": "Place des Fêtes est un toponyme qui peut renvoyer : à la place des Fêtes elle-même, située dans le 19e arrondissement de Paris ; à la station de métro Place des Fêtes (lignes 7 bis et 11), qui la dessert.",
+        "personne": null
+    },
+    {
+        "station": "Place Monge",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Place Monge est une station de la ligne 7 du métro de Paris, située dans le de Paris. == Situation == La station est implantée en plein milieu du de Paris, sous la rue Monge au nord-est de la place éponyme que cette rue tangente à l'est.",
+        "informations": "La place Monge est une voie située dans le 5e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Plaisance",
+        "theme": "Lieu géographique",
+        "sous_theme": "Quartier",
+        "pourquoi_ce_nom": "Plaisance est une station de la ligne 13 du métro de Paris, située dans le de Paris. == Situation == La station est implantée à l'ouest du quartier de Plaisance, sous la rue Raymond-Losserand à son l'intersection avec la rue d'Alésia, les quais étant établis au sud du croisement précité.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Pointe du Lac",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Pointe du Lac est une station de la ligne 8 du métro de Paris, située sur la commune de Créteil. Il s'agit de la du métro de Paris , ouverte le .",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Poissonnière",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Poissonnière est une station de la ligne 7 du métro de Paris, située en limite des 9 et 10 arrondissements de Paris. == Situation == La station est implantée sous la rue La Fayette, à hauteur de son intersection avec la rue du Faubourg-Poissonnière.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Pont Cardinet",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station a été encore une fois utilisée pour relancer le tunnelier, rebaptisé Yolène, vers le nord. La station ouvre le .",
+        "informations": "La gare de Pont-Cardinet est une gare ferroviaire française, située dans le quartier des Batignolles, faisant partie du 17e arrondissement de Paris. C'est une gare de la Société nationale des chemins de fer français (SNCF), desservie par les trains de la ligne L du Transilien (réseau Paris-Saint-Lazare). Elle se situe à une distance de 1,7 km de la gare de Paris-Saint-Lazare.",
+        "personne": null
+    },
+    {
+        "station": "Pont de Levallois - Bécon",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Pont de Levallois - Bécon est une station de la ligne 3 du métro de Paris, située sur le territoire de la commune de Levallois-Perret (Hauts-de-Seine). C'est le terminus occidental de la ligne.",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Pont de Neuilly",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La station est baptisée Pont de Neuilly - Avenue de Madrid de 1940 à 1950 afin de souligner son implantation au croisement de l'avenue de Madrid, laquelle tire son nom de la capitale de l'Espagne.",
+        "informations": "Le pont de Neuilly est un pont routier (RN 13) et ferroviaire (ligne 1 du métro) qui traverse la Seine entre Neuilly-sur-Seine (sur la rive droite), Courbevoie et Puteaux (sur la rive gauche), dans le département français des Hauts-de-Seine. Face au quartier d'affaires de La Défense, il est dans l'alignement de l'axe historique parisien. Trois ponts ont successivement porté ce nom.",
+        "personne": {
+            "nom": "Pont de Neuilly",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Pont de Sèvres",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Pont de Sèvres est une station de la ligne 9 du métro de Paris, située dans la commune de Boulogne-Billancourt, à l'extrémité de l'avenue du Général-Leclerc. Il s'agit du terminus occidental de la ligne.",
+        "informations": "Le pont de Sèvres est un pont métallique routier mis en service en France en 1963. Enjambant la Seine entre Boulogne-Billancourt et Sèvres, dans le département des Hauts-de-Seine, il joint l'avenue du Général-Leclerc à la Grande-Rue. Il franchit également deux routes départementales et une ligne de tramway.",
+        "personne": {
+            "nom": "Pont de Sèvres",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Pont Marie (Cité des Arts)",
+        "theme": "À vérifier",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Métro Paris 07 *",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Pont Neuf",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Pont-Neuf est une station de la ligne 7 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous l'amorce du quai du Louvre, sur la rive droite de la Seine, au niveau du pont Neuf.",
+        "informations": "Le pont Neuf ou Pont-Neuf est, malgré son nom, actuellement le pont le plus ancien existant à Paris. Il traverse la Seine à la pointe ouest de l'île de la Cité. Construit à partir de la fin du XVIe siècle et terminé au début du XVIIe, il doit son nom à la nouveauté que constituait à l'époque un pont dénué d'habitations et pourvu de trottoirs protégeant les piétons de la boue et des chevaux.",
+        "personne": {
+            "nom": "Pont Neuf",
+            "annee_naissance": 1889,
+            "annee_deces": 1991,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Porte d'Auteuil",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "La station doit sa dénomination à son implantation sous la porte d'Auteuil, ouverture des fortifications de 1860 qui contrôlait la route de Boulogne, et dont le nom renvoie à l'ancien village d'Auteuil. Cette commune annexée à Paris et à Boulogne-Billancourt a également donné son toponyme aux stations précédentes de la ligne 10 en direction de Boulogne : Église d'Auteuil et Michel-Ange - Auteuil (cette dernière étant aussi desservie par la ligne 9).",
+        "informations": "La porte d'Auteuil est une porte de Paris située dans le 16e arrondissement à proximité immédiate du quartier d'Auteuil.",
+        "personne": null
+    },
+    {
+        "station": "Porte d'Italie",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte d'Italie est une station de la ligne 7 du métro de Paris, située dans le de Paris. == Situation == La station est implantée en légère courbe sous l'extrémité occidentale du boulevard Masséna, à l'est du carrefour de la porte d'Italie.",
+        "informations": "La porte d'Italie est une porte de Paris, en France.",
+        "personne": null
+    },
+    {
+        "station": "Porte d'Ivry",
+        "theme": "Lieu géographique",
+        "sous_theme": "Capitale",
+        "pourquoi_ce_nom": "Porte d'Ivry est une station de la ligne 7 du métro de Paris, située dans le de Paris. == Histoire == La station de métro est ouverte le 26 avril 1931.",
+        "informations": "La porte d’Ivry est l'une des portes de Paris, en France, située dans le quartier de la Gare du 13e arrondissement. Elle sépare Paris d'Ivry-sur-Seine dans le Val-de-Marne. Historiquement, elle est l'une des 17 portes percées dans l'enceinte de Thiers au milieu du XIXe siècle pour protéger la capitale.",
+        "personne": null
+    },
+    {
+        "station": "Porte d'Orléans",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte d'Orléans est une station de la ligne 4 du métro de Paris, située dans le de Paris. Elle en était le terminus méridional pendant plus d'un siècle jusqu'au premier prolongement de la ligne à la station Mairie de Montrouge le .",
+        "informations": "La porte d'Orléans est l'une des 17 portes percées dans l'enceinte de Thiers au milieu du XIXe siècle pour protéger Paris, en France.",
+        "personne": null
+    },
+    {
+        "station": "Porte Dauphine",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "La station porte comme sous-titre Maréchal de Lattre de Tassigny du fait de sa situation sous la place de même nom, laquelle rend hommage à Jean de Lattre de Tassigny (1889-1952), officier général français, héros de la Seconde Guerre mondiale et compagnon de la Libération, qui fut élevé à la dignité de maréchal de France à titre posthume. Ce sous-titre ne figure toutefois pas sur les plans.",
+        "informations": "La porte Dauphine est un des accès du 16e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Porte de Bagnolet",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la porte de Bagnolet, laquelle tire son nom du fait qu'elle côtoie la commune de Bagnolet. Celle-ci avait antérieurement donné son nom à la station Bagnolet de la ligne 2, renommée Alexandre Dumas le afin d'éviter toute confusion avec la station de la ligne 3, alors en construction et géographiquement plus proche de la ville précitée.",
+        "informations": "La porte de Bagnolet est une porte de Paris, en France.",
+        "personne": null
+    },
+    {
+        "station": "Porte de Champerret",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation sous la porte de Champerret, ancienne barrière de fortification du village de Champerret, localisée sur le champ de la propriété de Jean-Jacques Perret qui a donné son nom à ce hameau, lequel fut réuni au village de Levallois (lui-même nommé d'après son fondateur Nicolas Eugène Levallois) en 1867 pour former la commune de Levallois-Perret . Le , elle devient une station de passage avec la mise en service du second prolongement occidental de la ligne jusqu'à son terminus actuel de Pont de Levallois - Bécon.",
+        "informations": "La porte de Champerret est une porte de Paris du 17e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Porte de Charenton",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Charenton est une station de la ligne 8 du métro de Paris, située dans le de Paris. == Histoire == vignette|gauche|Quais vus en direction de Balard.",
+        "informations": "La porte de Charenton est une porte de Paris, située dans le 12e arrondissement, en France.",
+        "personne": null
+    },
+    {
+        "station": "Porte de Choisy",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Choisy est une station de la ligne 7 du métro de Paris, située dans le de Paris. == Situation == La station est établie sous le boulevard Masséna à l'est du carrefour de la porte de Choisy.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Clichy",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Porte de Clichy est une station des lignes 13 et 14 du métro de Paris, située dans le de Paris. Comme la station Porte des Lilas, elle se trouve à l'une des portes de Paris dont la desserte est assurée par deux lignes de métro distinctes.",
+        "informations": "L'avenue de la Porte-de-Clichy est une voie du 17e arrondissement de Paris, en France.",
+        "personne": null
+    },
+    {
+        "station": "Porte de Clignancourt",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Clignancourt est une station de la ligne 4 du métro de Paris, située dans le de Paris. C'est le terminus nord de la ligne.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de la Chapelle",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Celle-ci, baptisée d'après une ancienne chapelle dédiée à sainte Geneviève, a donné son appellation à l'actuel quartier de la Chapelle ainsi qu'à la station de métro La Chapelle, située sur la ligne 2. Le nom de la station figure en entier sur la céramique entre les anciens cadres publicitaires, mais la faïence surmontant ces derniers n'incorpore que le toponyme de La Chapelle par manque d'espace.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de la Villette",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "=== Origine des noms === La station doit sa dénomination à son implantation sous la porte de la Villette, laquelle fait référence à l'ancienne commune de La Villette, annexée à la ville de Paris par la loi du 16 juin 1859. Elle porte également comme sous-titre Cité des Sciences et de l'Industrie à la suite de l'inauguration en 1986 de l'établissement culturel, scientifique et technique situé à proximité, créé à l'initiative du président de la République française de l'époque, Valéry Giscard d'Estaing.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Montreuil",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Montreuil est une station de la ligne 9 du métro de Paris, située dans le de Paris. == Histoire == vignette|gauche|Les quais durant les années 1930.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Pantin",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Pantin est une station de la ligne 5 du métro de Paris, située dans le de Paris. == Situation == La station est implantée à la limite administrative entre le quartier du Pont-de-Flandre au nord et le quartier d'Amérique au sud.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Saint-Cloud",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Porte de Saint-Cloud est une station de la ligne 9 du métro de Paris, située dans le de Paris. == Situation == La station est située sous la place de la Porte-de-Saint-Cloud, entre le boulevard périphérique et le début de la rue Michel-Ange.",
+        "informations": "La place de la Porte-de-Saint-Cloud est une voie située dans le quartier d'Auteuil du 16e arrondissement de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Porte de Saint-Ouen",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Saint-Ouen est une station de la ligne 13 du métro de Paris, située à la limite des 17 et 18 arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier des Épinettes à l'ouest et le quartier des Grandes-Carrières à l'est, non loin de la commune de Saint-Ouen-sur-Seine.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Vanves",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Vanves est une station de la ligne 13 du métro de Paris, située dans le de Paris et à proximité du . == Situation == La station est implantée sous la place de la Porte-de-Vanves, à l'amorce de la rue Julia-Bartet.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Versailles",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Cette station dessert la place éponyme dont le terre-plein central porte le nom d'« Esplanade du 9-Novembre-1989 », date de la chute du mur de Berlin. Elle dessert aussi le parc des expositions de la porte de Versailles.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte de Vincennes",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte de Vincennes est une station de la ligne 1 du métro de Paris, située à la limite des 12 et 20 arrondissements de Paris. == Situation == vignette|gauche|Quai de la demi-station en direction de Château de Vincennes (métro de Paris)|Château de Vincennes en 2007 avant la rénovation.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte des Lilas",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la porte des Lilas, laquelle reprend le toponyme de la commune des Lilas à laquelle elle donne accès.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Porte Dorée",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville ou commune",
+        "pourquoi_ce_nom": "Porte Dorée est une station de la ligne 8 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous l'extrémité du boulevard Poniatowski, entre la rue de Picpus et l'avenue Daumesnil au droit de la place Édouard-Renard.",
+        "informations": "La porte Dorée ou porte de Picpus est l'une des 17 portes percées dans l'enceinte de Thiers (construite au milieu du XIXe siècle pour protéger Paris), située sur les boulevards des Maréchaux dans le quartier du Bel-Air du 12e arrondissement de Paris en France.",
+        "personne": null
+    },
+    {
+        "station": "Porte Maillot",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Porte Maillot est une station de la ligne 1 du métro de Paris ; elle est située à la limite des et arrondissements de Paris, à proximité de la porte Maillot. Les issues ouest de la station de métro desservent également Neuilly-sur-Seine.",
+        "informations": "La porte Maillot, située au milieu de l'axe historique de Paris, est l'un des accès de Paris par l'ouest et constitue un échangeur entre le boulevard périphérique, l'Étoile et la Défense, via l'avenue Charles-de-Gaulle à Neuilly-sur-Seine. Elle est située à la limite des 16e et 17e arrondissements, au croisement de l'avenue de la Grande-Armée avec le boulevard de l'Amiral-Bruix et le boulevard Gouvion-Saint-Cyr. À l'est de l'emplacement actuel de la porte Maillot, on trouvait la porte de Neuilly, qui était l’une des portes de l’ancienne enceinte de Thiers sur son tracé de 1844.",
+        "personne": {
+            "nom": "Porte Maillot",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Pré-Saint-Gervais",
+        "theme": "Événement historique",
+        "sous_theme": "Révolution ou insurrection",
+        "pourquoi_ce_nom": "Pré-Saint-Gervais est une station de la ligne 7 bis du métro de Paris, située dans le de Paris. == Situation == La station est établie au sud-est du quartier d'Amérique, sous le boulevard Sérurier à son intersection avec la rue de Mouzaïa, la rue Alphonse-Aulard et la rue de l'Inspecteur-Allès.",
+        "informations": "Le Pré-Saint-Gervais () est une commune française située dans le département de la Seine-Saint-Denis, en région Île-de-France. Elle fait partie de la première couronne de l'agglomération parisienne. C'est la commune la plus proche du centre de Paris, distante de seulement 5 km.",
+        "personne": null
+    },
+    {
+        "station": "Pyramides",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue des Pyramides, laquelle fait référence à la bataille des Pyramides qui vit la victoire de l’armée d’Orient commandée par le général Bonaparte sur les mamelouks de Mourad Bey, pendant la campagne d'Égypte en 1798. Du fait de la pénurie de carreaux de faïence liée à la Première Guerre mondiale, la station est provisoirement dotée d'un simple revêtement en maçonnerie à son ouverture.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Pyrénées",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation au débouché de la rue des Pyrénées, dont le nom fait référence à la chaîne de montagnes des Pyrénées, frontière naturelle entre l’Espagne et la France. En , sous l'Occupation allemande, les quais de la station servent d'abri anti-aérien pour la population parisienne, de même que vingt-sept autres stations lors de la Seconde Guerre mondiale, majoritairement concentrées sur les lignes 7, 11 et 12 du fait de leur importante profondeur .",
+        "informations": "Les Pyrénées sont une chaîne de montagnes du Sud-Ouest de l'Europe. Elles s'étendent en longueur selon une direction est-ouest sur une distance approximative de 430 kilomètres depuis la mer Méditerranée (cap de Creus) jusqu'au golfe de Gascogne (cap Higuer) et culminent à 3 404 mètres d'altitude au pic d'Aneto. Barrière géographique résultant de la collision des plaques ibérique et eurasiatique, les Pyrénées séparent la péninsule Ibérique, au sud, du reste de l'Europe continentale, au nord.",
+        "personne": {
+            "nom": "Pyrénées",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Quai de la Gare",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec le quai de la Gare sur la rive gauche de la Seine, ainsi baptisé en mémoire de la gare fluviale d'Ivry élevée près de l'hôpital de la Salpêtrière à partir de la fin du règne de Louis XV, et qui a donné son nom à l'actuel quartier de la Gare au nord-est duquel se trouve la station. Dans le cadre du programme « Renouveau du métro » de la RATP, la station a été entièrement rénovée dans le courant des années 2000.",
+        "informations": "Le quai de la Gare est un quai situé le long de la Seine, à Paris, dans le quartier de la Gare du 13e arrondissement.",
+        "personne": null
+    },
+    {
+        "station": "Quai de la Rapée",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Quai de la Rapée est une station de la ligne 5 du métro de Paris, située dans le de Paris. == Situation == La station se trouve en extérieur entre le pont routier Morland et la voie Georges-Pompidou, au nord-ouest du quai de la Rapée, au-dessus du canal Saint-Martin dont elle surplombe l'une des écluses débouchant sur la Seine par un viaduc métallique à treillis, le pont-métro Morland.",
+        "informations": "Le quai de la Rapée est une voie située le long de la Seine à Paris dans le 12e arrondissement de Paris. Son nom actuel vient du Sieur de la Rapée, un commissaire de guerre sous Louis XV.",
+        "personne": null
+    },
+    {
+        "station": "Quatre Septembre",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit son nom à son implantation sous la rue du Quatre-Septembre, ainsi dénommée en mémoire des événements du , date à laquelle la Troisième République fut proclamée. La station est ainsi la première du réseau dont le toponyme commémore une date symbolique ; elle est rejointe en 1987 par la station La Courneuve - 8 Mai 1945, actuel terminus de la ligne 7.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Rambuteau",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la rue Rambuteau, laquelle rend hommage à Claude-Philibert Barthelot de Rambuteau, préfet du département de la Seine de 1833 à 1848, qui décide en 1834 de percer cette même rue à travers le centre médiéval. Elle porte comme sous-titre Centre Georges Pompidou à la suite de la création en 1977 du Centre national d'art et de culture Georges-Pompidou (communément appelé « Centre Pompidou ») à proximité, nommé ainsi en l'honneur du président de la République à l'origine du projet.",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Ranelagh",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue du Ranelagh, ainsi baptisée parce qu'elle débouche à son extrémité occidentale sur le jardin du même nom, lui-même nommé d'après Richard Jones, dit Lord Ranelagh (1641-1712), homme politique et diplomate irlandais. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés le .",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "Raspail",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle est située sous le boulevard Raspail dont le nom rend hommage à François-Vincent Raspail, chimiste et homme politique français du . vignette|gauche|La station lors du percement de la ligne 2 Sud, actuelle ligne 6, en 1902.",
+        "informations": "Le boulevard Raspail est un boulevard des 6e, 7e et 14e arrondissements de Paris.",
+        "personne": null
+    },
+    {
+        "station": "Réaumur - Sébastopol",
+        "theme": "Personne",
+        "sous_theme": "Scientifique",
+        "pourquoi_ce_nom": "La première voie précitée rend hommage à René-Antoine Ferchault de Réaumur (1683-1757), physicien et naturaliste français, tandis que la seconde porte le toponyme de la ville de Sébastopol, en Crimée, afin de perpétuer le souvenir du long siège de Sébastopol (1854-1855) et la prise de ce port de guerre par l'armée anglo-française, qui constituent les principaux évènements de la guerre de Crimée (1853-1856). === Modernisations === Entre et , les quais de la ligne 4 sont rallongés de 75 à 90 mètres, comme ceux de l'essentiel des stations de cette ligne en parallèle de sa conversion au roulement pneumatique, ceci afin de permettre l'accueil de nouvelles rames MP 59 dotées de six voitures, contre cinq pour l'ancien matériel fer Sprague-Thomson.",
+        "informations": "Un physicien est un scientifique qui étudie le champ de la physique, c'est-à-dire la science analysant les constituants fondamentaux de l'Univers (sur toutes les échelles) et les forces qui les relient.",
+        "personne": {
+            "nom": "Physicien",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Rennes",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation au croisement de la rue de Rennes, laquelle porte le nom de la ville de Rennes et débouche face à l'emplacement de l'ancienne gare de Paris-Montparnasse avant sa reconstruction dans les années 1960, rappelant ainsi l'une des principales destinations ferroviaires de cette gare. Le , la ligne A devient la ligne 12 à la suite de l'absorption de la société du Nord-Sud le par sa concurrente : la Compagnie du chemin de fer métropolitain de Paris (dite CMP).",
+        "informations": null,
+        "personne": null
+    },
+    {
+        "station": "République",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La station doit sa dénomination à son implantation sous la place de la République, ainsi baptisée dans le cadre du projet d'érection de l'actuelle statue de la République en son centre, en délibération depuis 1878 au conseil municipal de Paris.",
+        "informations": "Le conseil municipal de Paris est l'assemblée délibérante de la ville de Paris ayant existé du 20 avril 1834 au 31 décembre 1967, lorsque Paris était une commune du département de la Seine. Il est remplacé au 1er janvier 1968 par le Conseil de Paris qui cumule les fonctions de conseil municipal et de conseil général.",
+        "personne": {
+            "nom": "Conseil municipal de Paris",
+            "annee_naissance": 1834,
+            "annee_deces": 1967,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Reuilly - Diderot",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "C'est à cette occasion que la station est renommée Reuilly - Diderot du fait de sa position sous le boulevard Diderot, lui-même rebaptisé en 1879 afin d'honorer Denis Diderot (1713-1784), écrivain et philosophe du siècle des Lumières. .",
+        "informations": null,
+        "personne": {
+            "nom": "Siècle des Lumières",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Richard-Lenoir",
+        "theme": "Autre",
+        "sous_theme": "À vérifier",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation sous le boulevard Richard-Lenoir, lequel rend hommage au manufacturier français François Richard (1765-1839) qui était l’associé de Joseph Lenoir-Dufresne (1768-1806). À la mort de ce dernier, il adopta partiellement son nom en souvenir de la firme qu’ils avaient fondée conjointement et s’appela dorénavant « François Richard-Lenoir ».",
+        "informations": "Le boulevard Richard-Lenoir est un boulevard du 11e arrondissement de Paris qui relie la place de la Bastille au boulevard Jules-Ferry. Il abrite le long marché de la Bastille et recouvre une partie du canal Saint-Martin.",
+        "personne": null
+    },
+    {
+        "station": "Richelieu - Drouot",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "Richelieu - Drouot est une station des lignes 8 et 9 du métro de Paris, située à la limite des 2 et 9 arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier Vivienne au sud et le quartier du Faubourg-Montmartre au nord.",
+        "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+        "personne": {
+            "nom": "France",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        }
+    },
+    {
+        "station": "Riquet",
+        "theme": "Personne",
+        "sous_theme": "Militaire",
+        "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la rue Riquet, laquelle rend hommage à l’ingénieur français Pierre Paul Riquet, baron de Bonrepos (1604-1680), qui conçut et réalisa le canal du Midi à travers le Sud de la France entre la Garonne et la mer Méditerranée. Depuis le , la station est de nouveau desservie par l'ensemble des circulations de la ligne à la suite du débranchement de l'antenne vers Pré-Saint-Gervais, laquelle constitue depuis lors une navette indépendante, l'actuelle ligne 7 bis, en raison de sa moindre fréquentation par rapport à la branche de Porte de la Villette, qui aboutit à un important terminus de lignes d'autobus de banlieue.",
+        "informations": "Pierre-Paul Riquet, seigneur de Bonrepos, né en 1609 à Béziers dans la province de Languedoc (aujourd'hui Occitanie) et mort le 1er octobre 1680 à Toulouse, est un fermier général des gabelles et entrepreneur français qui a conçu et réalisé le canal du Midi dans le Sud de la France entre la Garonne et la mer Méditerranée.",
+        "personne": {
+            "nom": "Pierre-Paul Riquet",
+            "annee_naissance": 1609,
+            "annee_deces": 1680,
+            "siecles_vecus": [
+                "XVIIe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Robespierre",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Robespierre, laquelle rend hommage à Maximilien de Robespierre (1758-1794), avocat et homme politique français, qui fut l'une des principales figures de la Révolution française et demeure aussi l'un des personnages les plus controversés de cette période. La mairie de Montreuil, communiste, a donné son nom en 1936 à la station (alors en construction), à l'initiative de Jacques Duclos .",
+        "informations": "Maximilien de Robespierre, ou Maximilien Robespierre, est un avocat et homme politique français né le 6 mai 1758 à Arras (Artois, aujourd'hui Pas-de-Calais) et mort guillotiné le 28 juillet 1794 à Paris, place de la Révolution (actuelle place de la Concorde). Il est l'une des principales figures de la Révolution française et demeure l'un des personnages les plus controversés de cette période. Maximilien de Robespierre est l'aîné d'une fratrie de cinq enfants.",
+        "personne": {
+            "nom": "Maximilien de Robespierre",
+            "annee_naissance": 1758,
+            "annee_deces": 1794,
+            "siecles_vecus": [
+                "XVIIIe siècle"
+            ]
+        }
+    },
+    {
+        "station": "Romainville - Carnot",
+        "theme": "Personne",
+        "sous_theme": "Personnalité politique",
+        "pourquoi_ce_nom": "La station doit sa dénomination à son implantation à proximité de la place Carnot, qui rend hommage à Sadi Carnot (1837-1894), président de la République française de 1887 à sa mort. Elle est ainsi la quatrième station sur le réseau dont le nom reprend celui d'un président de la République française comme les stations Félix Faure (ligne 8), Charles de Gaulle - Étoile (lignes 1, 2 et 6) et Bibliothèque François-Mitterrand (ligne 14).",
+        "informations": "Le président de la République française est le chef de l'État en France. Il exerce les plus hautes fonctions du pouvoir exécutif de la République française avec le gouvernement. Officiellement, sous la Ve République, le président partage le pouvoir exécutif avec le Premier ministre : on parle de régime semi-présidentiel.",
+        "personne": {
+            "nom": "Président de la République française",
+            "annee_naissance": 1848,
+            "annee_deces": 1852,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        }
+    }
+]

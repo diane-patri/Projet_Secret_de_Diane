@@ -1,0 +1,30 @@
+{
+    "station": "Philippe Auguste",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue Philippe-Auguste, laquelle rend hommage au roi Philippe II, dit Philippe Auguste (1180-1223), septième roi de la dynastie des Capétiens. Il s'agit de la seule station du métro de Paris à porter le nom d'un roi de France.",
+    "informations": "L’enceinte de Philippe Auguste est un système de fortification urbaine construit à Paris, à partir de la fin du XIIe siècle. Cette deuxième enceinte médiévale est la plus ancienne dont on connaisse le tracé avec précision. Très partiellement intégrée dans les constructions ultérieures, cette enceinte a laissé plus de vestiges que les fortifications suivantes, notamment l'enceinte de Charles V et l'enceinte des Fossés Jaunes remplacés par les grands boulevards après 1670, le mur des Fermiers Généraux et l'enceinte de Thiers également à l'origine de ceintures de boulevards au XIXe siècle et au XXe siècle.",
+    "personne": {
+        "nom": "Enceinte de Philippe Auguste",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    },
+    "source_station": {
+        "titre": "Philippe Auguste (métro de Paris)",
+        "url": "https://fr.wikipedia.org/wiki/Philippe_Auguste_(m%C3%A9tro_de_Paris)",
+        "resume": "Philippe Auguste est une station de la ligne 2 du métro de Paris, située à la limite des 11e et 20e arrondissements de Paris."
+    },
+    "source_origine": {
+        "titre": "Enceinte de Philippe Auguste",
+        "url": "https://fr.wikipedia.org/wiki/Enceinte_de_Philippe_Auguste"
+    },
+    "confiance": {
+        "page_station": "élevée",
+        "origine_nom": "moyenne",
+        "classification": "moyenne"
+    },
+    "avertissements": [
+        "Annee de naissance non detectee."
+    ]
+}

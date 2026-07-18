@@ -1,0 +1,1567 @@
+[
+    {
+        "station": "Abbesses",
+        "theme": "Lieu géographique",
+        "sous_theme": "Place",
+        "pourquoi_ce_nom": "Origine du nom [ modifier | modifier le code ] La station doit sa dénomination à son implantation sous la place des Abbesses , laquelle fait référence aux dirigeantes de l' abbaye des Dames de Montmartre , figures du quartier à l'époque, et dont plusieurs ont des rues à leur nom dans les 9 et 18 arrondissements, comme Marguerite de Rochechouart , Louise-Émilie de La Tour d'Auvergne , Catherine de La Rochefoucauld ou Marie-Éléonore de Bellefond . Abbesses se situe en première position des stations du réseau classées par ordre alphabétique.",
+        "informations": "La place des Abbesses est située sur la butte Montmartre, dans le quartier de Clignancourt du 18e arrondissement de Paris. Elle fait référence aux dirigeantes de l'abbaye des Dames de Montmartre.",
+        "personne": null,
+        "source_station": {
+            "titre": "Abbesses (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Abbesses_(m%C3%A9tro_de_Paris)",
+            "resume": "Abbesses est une station de la ligne 12 du métro de Paris, située dans le 18e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Aimé Césaire",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "Dénomination [ modifier | modifier le code ] Après la mort du poète martiniquais Aimé Césaire en 2008, des élus ont souhaité donner son nom à une station de métro. Jean-Christophe Lagarde , maire de Drancy , a proposé alors qu'il soit donné à la station un moment nommée Proudhon - Gardinoux mais, la RATP exigeant que l' odonymie du quartier soit en rapport avec le nom de la station, le STIF a décidé en 2011 que la station Proudhon - Gardinoux porterait le nom Front populaire .",
+        "informations": "Aimé Césaire, né le 26 juin 1913 à Basse-Pointe (Martinique) et mort le 17 avril 2008 à Fort-de-France, en Martinique, est un écrivain et homme politique français, à la fois député, maire, poète, dramaturge, essayiste et biographe. Fondateur et représentant majeur du mouvement littéraire de la négritude — avec Léopold Sédar Senghor et Léon-Gontran Damas —, anticolonialiste résolu, il mène en parallèle une carrière politique en tant que député de la Martinique et maire de Fort-de-France durant cinquante-six années consécutives, de 1945 à 2001. Il est l’époux de Suzanne Roussi-Césaire.",
+        "personne": {
+            "nom": "Aimé Césaire",
+            "annee_naissance": 1913,
+            "annee_deces": 2008,
+            "siecles_vecus": [
+                "XXe siècle",
+                "XXIe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Aimé Césaire (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Aim%C3%A9_C%C3%A9saire_(m%C3%A9tro_de_Paris)",
+            "resume": "Aimé Césaire est une station de la ligne 12 du métro de Paris. Avec Mairie d'Aubervilliers, elle a été mise en service le 31 mai 2022. C'est la 307e station du métro de Paris."
+        }
+    },
+    {
+        "station": "Alexandre Dumas",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "Le 13 septembre 1970, afin d'éviter toute confusion avec la nouvelle station Porte de Bagnolet de la ligne 3, ouverte lors de son prolongement à l'est jusqu'à Gallieni le 2 avril 1971, la station de la ligne 2 est rebaptisée Alexandre Dumas en référence à la rue Alexandre-Dumas, située à quelques centaines de mètres plus au sud, laquelle rend hommage à l'écrivain Alexandre Dumas (1802-1870). Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés le 12 mai 2005.",
+        "informations": "Alexandre Dumas (dit aussi Alexandre Dumas père) est un écrivain français né le 24 juillet 1802 à Villers-Cotterêts (Aisne) et mort le 5 décembre 1870 au hameau de Puys, ancienne commune de Neuville-lès-Dieppe, aujourd'hui intégrée à Dieppe (Seine-Maritime). Il est le fils de Marie-Louise Labouret (1769–1838) et Thomas Alexandre Dumas (1762-1806) (né à Saint-Domingue, actuelle Haïti), dit le général Dumas. Il est aussi le père des écrivains Henry Bauër (1851-1915) et Alexandre Dumas (1824-1895), dit Dumas fils, auteur de La Dame aux camélias.",
+        "personne": {
+            "nom": "Alexandre Dumas",
+            "annee_naissance": 1802,
+            "annee_deces": 1870,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Alexandre Dumas (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Alexandre_Dumas_(m%C3%A9tro_de_Paris)",
+            "resume": "Alexandre Dumas est une station de la ligne 2 du métro de Paris, située à la limite des 11e et 20e arrondissements de Paris."
+        }
+    },
+    {
+        "station": "Alma - Marceau",
+        "theme": "Lieu géographique / Personne",
+        "sous_theme": "Bataille / Militaire",
+        "pourquoi_ce_nom": "La station reprend d'autre part le nom de l'avenue Marceau, ainsi baptisée en hommage au général François Séverin Marceau-Desgravier (1769-1796), qui combattit les révoltés vendéens au cours de la période révolutionnaire. Comme c’est le cas pour un tiers des stations du réseau entre 1974 et 1984, ses quais sont modernisés en style « Andreu-Motte », en l'occurrence dans une nuance de bleu qui ne sera pas reconduite.",
+        "informations": "La bataille de l'Alma s'est déroulée en 1854 pendant la guerre de Crimée. François Séverin Marceau était un général de la Révolution française.",
+        "personne": {
+            "nom": "François Séverin Marceau",
+            "annee_naissance": 1769,
+            "annee_deces": 1796,
+            "siecles_vecus": [
+                "XVIIIe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Alma - Marceau (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Alma_-_Marceau_(m%C3%A9tro_de_Paris)",
+            "resume": "Alma - Marceau est une station de la ligne 9 du métro de Paris, située à la limite des 8e et 16e arrondissements de Paris."
+        }
+    },
+    {
+        "station": "Alésia",
+        "theme": "Lieu géographique",
+        "sous_theme": "Bataille",
+        "pourquoi_ce_nom": "Alésia est une station de la ligne 4 du métro de Paris, située dans le quartier du Petit-Montrouge du 14e arrondissement de Paris. == Situation == La station est établie sous la place Victor-et-Hélène-Basch et ses abords, dominés par l'église Saint-Pierre de Montrouge.",
+        "informations": "Le siège d'Alésia est une bataille décisive de la fin de la guerre des Gaules qui voit la défaite d'une coalition de peuples gaulois menée par Vercingétorix face à l'armée romaine de Jules César. Elle se déroule entre les mois de juillet et de septembre 52 av. J.-C.",
+        "personne": null,
+        "source_station": {
+            "titre": "Alésia (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Al%C3%A9sia_(m%C3%A9tro_de_Paris)",
+            "resume": "Alésia est une station de la ligne 4 du métro de Paris, située dans le quartier du Petit-Montrouge du 14e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Anatole France",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "== Histoire == Cette station doit son nom à la rue Anatole-France (anciennement rue de Cormeille) que la ligne 3 dessert. Cette rue de Levallois-Perret rend hommage à François Anatole Thibault, dit Anatole France (1844-1924), écrivain français, académicien et prix Nobel de littérature en 1921.",
+        "informations": "Anatole France, pour l'état civil François Anatole Thibault, né le 16 avril 1844 à Paris et mort le 12 octobre 1924 à Saint-Cyr-sur-Loire (Indre-et-Loire), est un écrivain français. Il est considéré comme l’un des plus grands de l'époque de la Troisième République, dont il a également été un des plus importants critiques littéraires. Il devient une des consciences les plus significatives de son temps en s’engageant en faveur de nombreuses causes sociales et politiques du début du XXe siècle.",
+        "personne": {
+            "nom": "Anatole France",
+            "annee_naissance": 1844,
+            "annee_deces": 1924,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Anatole France (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Anatole_France_(m%C3%A9tro_de_Paris)",
+            "resume": "Anatole France est une station de la ligne 3 du métro de Paris, située sur le territoire de la commune de Levallois-Perret."
+        }
+    },
+    {
+        "station": "Anvers",
+        "theme": "Lieu géographique",
+        "sous_theme": "Ville",
+        "pourquoi_ce_nom": "Anvers est une station de la ligne 2 du métro de Paris, située à la limite des 9e et 18e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier de Rochechouart au sud et le quartier de Clignancourt au nord.",
+        "informations": "Anvers (prononcé /ɑ̃.vɛʁs/, en néerlandais : Antwerpen [ˀant.ˈwɛʁ.pn]) est une ville belge dans la Région flamande, chef-lieu de la province d'Anvers et de l'arrondissement administratif du même nom, située au cœur de la Dorsale européenne. Le 1er janvier 2026, la commune d’Anvers était la plus peuplée de Belgique, devant Gand et Charleroi, avec 565 615 habitants. L’agglomération anversoise compte 1 250 000 habitants, ce qui la classe deuxième de Belgique, après Bruxelles.",
+        "personne": null,
+        "source_station": {
+            "titre": "Anvers (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Anvers_(m%C3%A9tro_de_Paris)",
+            "resume": "Anvers est une station de la ligne 2 du métro de Paris, située à la limite des 9e et 18e arrondissements de Paris."
+        }
+    },
+    {
+        "station": "Argentine",
+        "theme": "Lieu géographique",
+        "sous_theme": "Pays",
+        "pourquoi_ce_nom": "Le 24 mars 2006, une plaque commémorative est inaugurée sur le tympan occidental du quai en direction de La Défense, portant la mention en espagnol Nunca más (signifiant littéralement en français : « Plus jamais »), « en hommage aux citoyens argentins et français enlevés, détenus et disparus en Argentine sous la dictature militaire (1976-1983) » et « à toutes les victimes de la répression ». Une petite exposition sur l'Argentine a également été ouverte au milieu du quai direction Château De Vincennes.",
+        "informations": "L'Argentine (prononcé en français : [aʁʒɑ̃tin] ; prononcé en espagnol : [aɾxenˈtina] ), en forme longue la République argentine (prononcé en espagnol : [reˈpuβlika aɾxenˈtina]), est un pays d'Amérique du Sud partageant ses frontières avec le Chili à l'ouest, la Bolivie et le Paraguay au nord, le Brésil et l'Uruguay au nord-est, et enfin l'océan Atlantique à l'est et au sud. Son territoire américain continental couvre une grande partie du Cône Sud. L'Argentine est une république fédérale ayant un régime présidentiel.",
+        "personne": null,
+        "source_station": {
+            "titre": "Argentine (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Argentine_(m%C3%A9tro_de_Paris)",
+            "resume": "Argentine est une station de la ligne 1 du métro de Paris, située à la limite du quartier de Chaillot du 16e arrondissement et du quartier des Ternes du 17e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Arts et Métiers",
+        "theme": "Institution",
+        "sous_theme": "Enseignement",
+        "pourquoi_ce_nom": "Arts et Métiers est une station des lignes 3 et 11 du métro de Paris, située dans le 3e arrondissement de Paris. == Situation == La station est implantée à l'intersection des rues Beaubourg, Réaumur et de Turbigo, au sein du quartier des Arts-et-Métiers, les quais étant établis : sur la ligne 3, en courbe sous l'angle formé par ces deux dernières rues et orientée est-ouest ; sur la ligne 11, plus à l'est selon l'axe approximativement orienté est-ouest de la rue Réaumur.",
+        "informations": "L'École nationale supérieure d'arts et métiers (ENSAM, de nom de marque Arts et Métiers Sciences et Technologies, Arts et Métiers ParisTech ou Arts et Métiers) est l'une des 204 écoles d'ingénieurs françaises accréditées au 1er septembre 2020 à délivrer un diplôme d'ingénieur. Elle fait partie de ParisTech, réseau qui regroupe quelques grandes écoles d'ingénieurs de la région parisienne. Arts et Métiers est une école d'ingénieurs de France, fondée en 1780 par le duc de La Rochefoucauld-Liancourt.",
+        "personne": null,
+        "source_station": {
+            "titre": "Arts et Métiers (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Arts_et_M%C3%A9tiers_(m%C3%A9tro_de_Paris)",
+            "resume": "Arts et Métiers est une station des lignes 3 et 11 du métro de Paris, située dans le 3e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Asnières - Gennevilliers - Les Courtilles",
+        "theme": "Lieu géographique",
+        "sous_theme": "Quartier",
+        "pourquoi_ce_nom": "Les Courtilles est une station de la ligne 13 du métro de Paris, située à la limite des communes d'Asnières-sur-Seine et Gennevilliers. Cette 299e station du métro de Paris, ouverte le 14 juin 2008, est, depuis cette date, le terminus de la ligne 13 sur sa branche nord-ouest.",
+        "informations": "Les Courtilles fait référence à un quartier situé à la limite d'Asnières-sur-Seine et de Gennevilliers.",
+        "personne": null,
+        "source_station": {
+            "titre": "Les Courtilles (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Les_Courtilles_(m%C3%A9tro_de_Paris)",
+            "resume": "Les Courtilles est une station de la ligne 13 du métro de Paris, située à la limite des communes d'Asnières-sur-Seine et Gennevilliers. Cette 299e station du métro de Paris, ouverte le 14 juin 2008, est, depuis cette date, le terminus de la ligne 13 sur sa branche nord-ouest."
+        }
+    },
+    {
+        "station": "Assemblée Nationale",
+        "theme": "Institution",
+        "sous_theme": "Politique",
+        "pourquoi_ce_nom": "Assemblée nationale (anciennement Chambre des députés) est une station de la ligne 12 du métro de Paris, située dans le 7e arrondissement de Paris. == Situation == La station se trouve entre les stations Concorde et Solférino.",
+        "informations": "L'Assemblée nationale est le nom souvent donné au Parlement d'un État dans le système monocaméral ou à sa chambre basse dans le système législatif bicaméral. Il est utilisé dans plus d'un tiers de tous les pays du monde (voir liste plus bas : 75 pays sur environ 195 pays reconnus dans le monde). Le terme est notamment présent dans les pays francophones ou dans ceux qui ont été une colonie française, mais pas seulement.",
+        "personne": null,
+        "source_station": {
+            "titre": "Assemblée nationale (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Assembl%C3%A9e_nationale_(m%C3%A9tro_de_Paris)",
+            "resume": "Assemblée nationale (anciennement Chambre des députés) est une station de la ligne 12 du métro de Paris, située dans le 7e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Aubervilliers - Pantin - Quatre Chemins",
+        "theme": "Lieu géographique",
+        "sous_theme": "Carrefour",
+        "pourquoi_ce_nom": "Aubervilliers - Pantin - Quatre Chemins est une station de la ligne 7 du métro de Paris, située à la limite des communes d'Aubervilliers et de Pantin, sous l'avenue Jean-Jaurès. == Situation == La station est implantée sous l'avenue Jean-Jaurès (RD 932) au nord-est de l'intersection avec l'avenue Édouard-Vaillant et l'avenue de la République, ces deux dernières voies formant la route D 20.",
+        "informations": "Le lieu-dit des Quatre Chemins est un carrefour majeur entre les communes d'Aubervilliers et de Pantin.",
+        "personne": null,
+        "source_station": {
+            "titre": "Aubervilliers - Pantin - Quatre Chemins (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Aubervilliers_-_Pantin_-_Quatre_Chemins_(m%C3%A9tro_de_Paris)",
+            "resume": "Aubervilliers - Pantin - Quatre Chemins est une station de la ligne 7 du métro de Paris, située à la limite des communes d'Aubervilliers et de Pantin, sous l'avenue Jean-Jaurès."
+        }
+    },
+    {
+        "station": "Avenue Émile Zola",
+        "theme": "Personne",
+        "sous_theme": "Auteur",
+        "pourquoi_ce_nom": "Avenue Émile-Zola est une station de la ligne 10 du métro de Paris, située dans le 15e arrondissement de Paris. == Situation == La station est implantée sous l'extrémité orientale de l'avenue Émile-Zola, à l'ouest de son débouché sur l'intersection avec la rue du Commerce, la rue Fondary et la rue Frémicourt qui prolonge ladite avenue vers l'est, au sein du quartier de Grenelle.",
+        "informations": "Émile Zola est un écrivain et journaliste français, considéré comme le chef de file du naturalisme.",
+        "personne": {
+            "nom": "Émile Zola",
+            "annee_naissance": 1840,
+            "annee_deces": 1902,
+            "siecles_vecus": [
+                "XIXe siècle",
+                "XXe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Avenue Émile-Zola (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Avenue_%C3%89mile-Zola_(m%C3%A9tro_de_Paris)",
+            "resume": "Avenue Émile-Zola est une station de la ligne 10 du métro de Paris, située dans le 15e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Avron",
+        "theme": "Lieu géographique",
+        "sous_theme": "Plateau",
+        "pourquoi_ce_nom": "Avron est une station de la ligne 2 du métro de Paris, située à la limite des 11e et 20e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier Sainte-Marguerite à l'ouest et le quartier de Charonne à l'est.",
+        "informations": "Le nom de la station fait référence à la rue d'Avron, qui elle-même tire son nom du plateau d'Avron, un relief de Seine-Saint-Denis ayant eu un rôle défensif pendant la guerre de 1870.",
+        "personne": null,
+        "source_station": {
+            "titre": "Avron (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Avron_(m%C3%A9tro_de_Paris)",
+            "resume": "Avron est une station de la ligne 2 du métro de Paris, située à la limite des 11e et 20e arrondissements de Paris."
+        }
+    },
+    {
+        "station": "Aéroport d'Orly",
+        "theme": "Lieu géographique",
+        "sous_theme": "Aéroport",
+        "pourquoi_ce_nom": "Construite dans le cadre du Grand Paris Express, Aéroport d'Orly est une station terminus de la ligne 14 du métro de Paris, située au sein de l'enceinte de l'aéroport d'Orly, sur le territoire de la commune de Paray-Vieille-Poste. Elle doit être également la station terminus de la ligne 18 en 2027.",
+        "informations": "L'aéroport de Paris-Orly est l'un des principaux aéroports français, situé au sud de Paris.",
+        "personne": null,
+        "source_station": {
+            "titre": "Aéroport d'Orly (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/A%C3%A9roport_d%27Orly_(m%C3%A9tro_de_Paris)",
+            "resume": "Construite dans le cadre du Grand Paris Express, Aéroport d'Orly est une station terminus de la ligne 14 du métro de Paris, située au sein de l'enceinte de l'aéroport d'Orly, sur le territoire de la commune de Paray-Vieille-Poste. Elle doit être également la station terminus de la ligne 18 en 2027."
+        }
+    },
+    {
+        "station": "Bagneux - Lucie Aubrac",
+        "theme": "Personne",
+        "sous_theme": "Résistante",
+        "pourquoi_ce_nom": "La dénomination de la station rend hommage à Lucie Aubrac (1912 - 2007), professeure d'histoire, militante communiste, pacifiste, et résistante durant la Seconde Guerre mondiale. Elle doit sa dénomination à la demande de la commune de Bagneux, afin qu'Île-de-France Mobilités accepte que les franciliens choisissent le nom de la station de métro.",
+        "informations": "Lucie Aubrac est une figure majeure de la Résistance intérieure française pendant la Seconde Guerre mondiale.",
+        "personne": {
+            "nom": "Lucie Aubrac",
+            "annee_naissance": 1912,
+            "annee_deces": 2007,
+            "siecles_vecus": [
+                "XXe siècle",
+                "XXIe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Bagneux - Lucie Aubrac (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Bagneux_-_Lucie_Aubrac_(m%C3%A9tro_de_Paris)",
+            "resume": "Bagneux - Lucie Aubrac est une station de la ligne 4 du métro de Paris, située sur le territoire de la commune de Bagneux. Elle est mise en service le 13 janvier 2022 et devient le terminus sud de cette ligne. C'est la 306e station du métro de Paris."
+        }
+    },
+    {
+        "station": "Balard",
+        "theme": "Personne",
+        "sous_theme": "Scientifique",
+        "pourquoi_ce_nom": "Balard est une station de la ligne 8 du métro de Paris, dont elle constitue le terminus occidental, située dans le 15e arrondissement de Paris. == Situation == La station est implantée aux abords de la porte de Sèvres, située au sud du quartier de Javel.",
+        "informations": "Antoine-Jérôme Balard, né le 30 septembre 1802 à Montpellier et mort le 30 mars 1876 à Paris, est un pharmacien et chimiste français, célèbre pour avoir découvert le brome en 1826.",
+        "personne": {
+            "nom": "Antoine-Jérôme Balard",
+            "annee_naissance": 1802,
+            "annee_deces": 1876,
+            "siecles_vecus": [
+                "XIXe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Balard (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Balard_(m%C3%A9tro_de_Paris)",
+            "resume": "Balard est une station de la ligne 8 du métro de Paris, dont elle constitue le terminus occidental, située dans le 15e arrondissement de Paris."
+        }
+    },
+    {
+        "station": "Barbara",
+        "theme": "Personne",
+        "sous_theme": "Artiste",
+        "pourquoi_ce_nom": "Lors de sa séance de décembre 2016, le Conseil de Paris émet le vœu que la RATP dénomme la future station de la ligne 14 située au Pont Cardinet du nom de « Pont Cardinet - Barbara » et étudie l'installation dans celle-ci d’une exposition permanente en hommage à Barbara. Ce souhait n'a pas eu de suite mais une station de métro située à la limite de Montrouge et de Bagneux, portant uniquement le nom de la chanteuse, est ouverte le 13 janvier 2022 sur le prolongement sud de la ligne 4 du métro de Paris.",
+        "informations": "Barbara (à ses débuts Barbara Brodi, officiellement Monique Serf) est une autrice-compositrice-interprète française, née le 9 juin 1930 à Paris 17e et morte le 24 novembre 1997 à Neuilly-sur-Seine (Hauts-de-Seine). Sa poésie, servie par l'harmonie de ses compositions et la finesse de ses interprétations, lui assure un public fidèle quarante ans durant. Nombre de ses chansons sont devenues des classiques de la chanson française, notamment : Une petite cantate, Dis, quand reviendras-tu ?, Nantes, Göttingen, La Dame brune, L'Aigle noir, Marienbad ou encore Ma plus belle histoire d'amour.",
+        "personne": {
+            "nom": "Barbara",
+            "annee_naissance": 1930,
+            "annee_deces": 1997,
+            "siecles_vecus": [
+                "XXe siècle"
+            ]
+        },
+        "source_station": {
+            "titre": "Barbara (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Barbara_(m%C3%A9tro_de_Paris)",
+            "resume": "Barbara est une station de la ligne 4 du métro de Paris, située à la limite de Bagneux et Montrouge. Elle est mise en service le 13 janvier 2022."
+        }
+    },
+    {
+        "station": "Barbès - Rochechouart",
+        "theme": "Personnes",
+        "sous_theme": "Politique / Religieuse",
+        "pourquoi_ce_nom": "=== Origine des noms === La station doit sa dénomination initiale de Boulevard Barbès à sa proximité avec la voie précitée, laquelle rend hommage à l'homme politique français Armand Barbès (1809-1870). Le nom de Rochechouart, rajouté le 15 octobre 1907, provient du voisinage du boulevard de Rochechouart (actuel boulevard Marguerite-de-Rochechouart), dont le toponyme honore la religieuse Marguerite de Rochechouart de Montpipeau (1665-1727).",
+        "informations": "Armand Barbès était un homme politique français. Marguerite de Rochechouart était une religieuse, abbesse de Montmartre.",
+        "personne": {
+            "nom": "Armand Barbès et Marguerite de Rochechouart",
+            "annee_naissance": null,
+            "annee_deces": null,
+            "siecles_vecus": []
+        },
+        "source_station": {
+            "titre": "Barbès - Rochechouart (métro de Paris)",
+            "url": "https://fr.wikipedia.org/wiki/Barb%C3%A8s_-_Rochechouart_(m%C3%A9tro_de_Paris)",
+            "resume": "Barbès - Rochechouart est une station des lignes 2 et 4 du métro de Paris, située à la limite des 9e, 10e et 18e arrondissements de Paris."
+        }
+    },
+    [
+        {
+            "station": "Basilique de Saint-Denis",
+            "theme": "Lieu géographique",
+            "sous_theme": "Édifice religieux",
+            "pourquoi_ce_nom": "Basilique de Saint-Denis est une station de la ligne 13 du métro de Paris, située dans le centre-ville de Saint-Denis, dans le département de la Seine-Saint-Denis. == Histoire == La station est ouverte le 20 juin 1976, en même temps que l'unification de la ligne 13 avec l'ancienne ligne 14.",
+            "informations": "La basilique de Saint-Denis est un édifice religieux majeur situé dans le centre-ville de la commune éponyme.",
+            "personne": null,
+            "source_station": {
+                "titre": "Basilique de Saint-Denis (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Basilique_de_Saint-Denis_(m%C3%A9tro_de_Paris)",
+                "resume": "Basilique de Saint-Denis est une station de la ligne 13 du métro de Paris, située dans le centre-ville de Saint-Denis, dans le département de la Seine-Saint-Denis."
+            }
+        },
+        {
+            "station": "Bastille",
+            "theme": "Édifice",
+            "sous_theme": "Forteresse",
+            "pourquoi_ce_nom": "Bastille est une station des lignes 1, 5 et 8 du métro de Paris, située en limite des 4e, 11e et 12e arrondissements de Paris. == Situation == La station est implantée sous la place de la Bastille, les quais étant établis : sur la ligne 1, au sud de la place, en extérieur au-dessus du canal Saint-Martin (entre les stations Saint-Paul et Gare de Lyon) ; sur la ligne 5, à l'ouest de la place entre le boulevard Richard-Lenoir et le boulevard Bourdon (entre les stations Bréguet - Sabin et Quai de la Rapée sans compter la station fantôme Arsenal) ; sur la ligne 8, nord de la place entre le boulevard Beaumarchais et la rue du Faubourg-Saint-Antoine (entre les stations Chemin Vert et Ledru-Rollin).",
+            "informations": "La bastille Saint-Antoine, souvent appelée simplement la Bastille, et anciennement les fort et bastide Saint-Anthoine lez Paris, est une forteresse construite au XIVe siècle, à l'emplacement du débouché de la rue Saint-Antoine sur l’actuelle place de la Bastille à Paris. Devenue une prison, considérée comme le symbole du despotisme monarchique, elle fut totalement détruite lors de la Révolution française dont elle fut un des évènements déclencheurs.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bastille (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bastille_(m%C3%A9tro_de_Paris)",
+                "resume": "Bastille est une station des lignes 1, 5 et 8 du métro de Paris, située en limite des 4e, 11e et 12e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Bel-Air",
+            "theme": "Lieu géographique",
+            "sous_theme": "Quartier",
+            "pourquoi_ce_nom": "Bel-Air est une station de la ligne 6 du métro de Paris, située dans le 12e arrondissement de Paris. == Situation == La station est située sur le boulevard de Picpus, entre les quartiers de Picpus et du Bel-Air.",
+            "informations": "La station tire son nom du quartier du Bel-Air, situé dans le 12e arrondissement de Paris.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bel-Air (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bel-Air_(m%C3%A9tro_de_Paris)",
+                "resume": "Bel-Air est une station de la ligne 6 du métro de Paris, située dans le 12e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Belleville",
+            "theme": "Lieu géographique",
+            "sous_theme": "Quartier",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation au croisement de la rue de Belleville et du boulevard de Belleville, au nord-ouest du quartier éponyme, lequel fait référence à l'ancien village de Belleville ; la rue précitée en constituait la voie principale, tandis que le boulevard la délimitait par l'ouest. Le 28 avril 1935, la station de la ligne 11 est ouverte avec l'inauguration de son premier tronçon entre son terminus occidental actuel de Châtelet et la station Porte des Lilas.",
+            "informations": "Belleville était un ancien village avant son annexion par Paris, devenu aujourd'hui un quartier emblématique de la capitale.",
+            "personne": null,
+            "source_station": {
+                "titre": "Belleville (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Belleville_(m%C3%A9tro_de_Paris)",
+                "resume": "Belleville est une station des lignes 2 et 11 du métro de Paris, située à la limite des 10e, 11e, 19e et 20e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Bercy",
+            "theme": "Lieu géographique",
+            "sous_theme": "Quartier",
+            "pourquoi_ce_nom": "Bercy est une station des lignes 6 et 14 du métro de Paris, située dans le 12e arrondissement de Paris. == Situation == La station est implantée au carrefour de la rue de Bercy, sous laquelle se trouve la ligne 14, au sud, et du boulevard de Bercy sous lequel est établie la ligne 6, à l'est du carrefour.",
+            "informations": "La station dessert le quartier de Bercy, historiquement connu pour ses entrepôts de vin sur les bords de Seine.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bercy (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bercy_(m%C3%A9tro_de_Paris)",
+                "resume": "Bercy est une station des lignes 6 et 14 du métro de Paris, située dans le 12e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Bibliothèque François Mitterrand",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Son nom définitif vient du site François-Mitterrand de la Bibliothèque nationale de France, situé à proximité et nommé en hommage à François Mitterrand (1916-1996), président de la République, qui fut à l'origine de la construction du site. == Services aux voyageurs == === Accès === La station possède quatre accès principaux (nos 1 à 4, accès à la salle d’échanges RER C + ligne 14) donnant accès par un ascenseur et par des escaliers mécaniques à la rue du Chevaleret, l'avenue de France, la rue René-Goscinny et la rue Neuve-Tolbiac.",
+            "informations": "François Mitterrand fut président de la République française de 1981 à 1995. Il a initié de grands travaux présidentiels, dont la construction de la nouvelle Bibliothèque nationale de France.",
+            "personne": {
+                "nom": "François Mitterrand",
+                "annee_naissance": 1916,
+                "annee_deces": 1996,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Bibliothèque François-Mitterrand (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_Fran%C3%A7ois-Mitterrand_(m%C3%A9tro_de_Paris)",
+                "resume": "Bibliothèque François-Mitterrand est une station de la ligne 14 du métro de Paris, située dans le 13e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Billancourt",
+            "theme": "Lieu géographique",
+            "sous_theme": "Ville",
+            "pourquoi_ce_nom": "Billancourt est une station de la ligne 9 du métro de Paris, située sur la commune de Boulogne-Billancourt. == Situation == La station est implantée sous l'avenue du Général-Leclerc (D 910), au sud-est de l'intersection avec la rue de Billancourt et la rue de la Ferme.",
+            "informations": "Billancourt est un ancien village qui a fusionné avec Boulogne-sur-Seine pour former la commune de Boulogne-Billancourt.",
+            "personne": null,
+            "source_station": {
+                "titre": "Billancourt (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Billancourt_(m%C3%A9tro_de_Paris)",
+                "resume": "Billancourt est une station de la ligne 9 du métro de Paris, située sur la commune de Boulogne-Billancourt."
+            }
+        },
+        {
+            "station": "Bir-Hakeim",
+            "theme": "Lieu géographique",
+            "sous_theme": "Bataille",
+            "pourquoi_ce_nom": "Quai Jacques-Chirac : sur le quai est installé un monument en hommage au général Diego Brosset et aux morts de la 1re division française libre, dont la 1re brigade combattit à Bir-Hakeim en 1942. == Notes et références == == Voir aussi == === Articles connexes === Liste des stations du métro de Paris Portail du métro Portail des transports en Île-de-France Portail de Paris",
+            "informations": "Bir Hakeim (en arabe بئر حكيم ; littéralement « puits du sage »), parfois orthographié anciennement Bir Hacheim ou Bir Acheim, est un ancien point d'eau désaffecté au milieu du désert de Libye, au sud de Tobrouk, auprès duquel avait jadis existé un fortin ottoman.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bir-Hakeim (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bir-Hakeim_(m%C3%A9tro_de_Paris)",
+                "resume": "Bir-Hakeim est une station de la ligne 6 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Blanche",
+            "theme": "Lieu géographique",
+            "sous_theme": "Voie",
+            "pourquoi_ce_nom": "Blanche est une station de la ligne 2 du métro de Paris, située à la limite des 9e et 18e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier Saint-Georges au sud et le quartier des Grandes-Carrières au nord.",
+            "informations": "La station doit son nom à la rue Blanche, ainsi nommée car elle était autrefois traversée par des charrettes transportant du plâtre en provenance des carrières de Montmartre, laissant une pellicule blanche sur la chaussée.",
+            "personne": null,
+            "source_station": {
+                "titre": "Blanche (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Blanche_(m%C3%A9tro_de_Paris)",
+                "resume": "Blanche est une station de la ligne 2 du métro de Paris, située à la limite des 9e et 18e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Bobigny - Pablo Picasso",
+            "theme": "Personne",
+            "sous_theme": "Artiste",
+            "pourquoi_ce_nom": "Bobigny - Pablo Picasso est une station de la ligne 5 du métro de Paris, dont elle est le terminus nord, située sur la commune de Bobigny. == Situation == La station est située dans le centre-ville de Bobigny, un quartier caractérisé par un habitat collectif dense avec des tours d'habitation ainsi qu'un grand nombre d'équipements publics.",
+            "informations": "La station rend hommage à Pablo Picasso, célèbre peintre, dessinateur et sculpteur espagnol ayant passé la majeure partie de sa vie en France.",
+            "personne": {
+                "nom": "Pablo Picasso",
+                "annee_naissance": 1881,
+                "annee_deces": 1973,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Bobigny - Pablo Picasso (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bobigny_-_Pablo_Picasso_(m%C3%A9tro_de_Paris)",
+                "resume": "Bobigny - Pablo Picasso est une station de la ligne 5 du métro de Paris, dont elle est le terminus nord, située sur la commune de Bobigny."
+            }
+        },
+        {
+            "station": "Bobigny-Pantin - Raymond Queneau",
+            "theme": "Personne",
+            "sous_theme": "Auteur",
+            "pourquoi_ce_nom": "Elle doit une partie de son intitulé à la rue Raymond-Queneau, toute proche, dont le nom rend hommage à l'écrivain français Raymond Queneau (1903-1976), l’un des auteurs ayant rendu célèbre la RATP, avec Zazie dans le métro ainsi que Exercices de style, dont une partie de l'intrigue prend place dans un bus parisien. === Fréquentation === Nombre de voyageurs entrés à cette station : == Services aux voyageurs == === Accès === Deux accès permettent de se diriger vers les quais de la station de métro.",
+            "informations": "Raymond Queneau était un romancier, poète et dramaturge français, cofondateur du groupe littéraire l'Oulipo.",
+            "personne": {
+                "nom": "Raymond Queneau",
+                "annee_naissance": 1903,
+                "annee_deces": 1976,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Bobigny - Pantin - Raymond Queneau (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bobigny_-_Pantin_-_Raymond_Queneau_(m%C3%A9tro_de_Paris)",
+                "resume": "Bobigny - Pantin - Raymond Queneau est une station de la ligne 5 du métro de Paris, située à la limite des communes de Pantin et de Bobigny, dans le quartier du Petit-Pantin."
+            }
+        },
+        {
+            "station": "La Dhuys",
+            "theme": "Lieu géographique",
+            "sous_theme": "Cours d'eau",
+            "pourquoi_ce_nom": "== Histoire == Elle doit son nom à la proximité de la rue de la Dhuys à Noisy-le-Sec, elle-même portant le nom d'une rivière de l'Aisne, la Dhuis, dont l'eau est captée pour alimenter Paris via l'aqueduc de la Dhuis. Son nom de projet initial était La Boissière.",
+            "informations": "La Dhuis (ou Dhuys) est une rivière française dont les eaux ont été captées au XIXe siècle pour alimenter Paris en eau potable.",
+            "personne": null,
+            "source_station": {
+                "titre": "La Dhuys (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/La_Dhuys_(m%C3%A9tro_de_Paris)",
+                "resume": "La Dhuys est une station de la ligne 11 du métro de Paris, à la limite des communes de Montreuil et Rosny-sous-Bois. Il s'agit de la 312e station du métro de Paris."
+            }
+        },
+        {
+            "station": "Bolivar",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue Simon-Bolivar, laquelle rend hommage au général et homme d’État vénézuélien Simón Bolívar (1783-1830), surnommé le Libertador, qui fut le principal dirigeant de la lutte pour l’indépendance de l’Amérique du Sud contre l’Espagne. Durant la Première Guerre mondiale, la station, de même que l'ensemble des stations les plus profondes du réseau, est aménagée en abri anti-aérien.",
+            "informations": "Simón Bolívar a joué un rôle décisif dans l'émancipation des colonies espagnoles d'Amérique du Sud au début du XIXe siècle.",
+            "personne": {
+                "nom": "Simón Bolívar",
+                "annee_naissance": 1783,
+                "annee_deces": 1830,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Bolivar (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bolivar_(m%C3%A9tro_de_Paris)",
+                "resume": "Bolivar est une station de la ligne 7 bis du métro de Paris, située dans le 19e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Bonne Nouvelle",
+            "theme": "Édifice",
+            "sous_theme": "Édifice religieux",
+            "pourquoi_ce_nom": "Elle tire sa dénomination de son implantation au nord du quartier de Bonne-Nouvelle, sous le boulevard éponyme qui doit son nom au voisinage de l'église Notre-Dame-de-Bonne-Nouvelle. À l'occasion des célébrations du centenaire du métro, la station est rénovée en 2000 dans le cadre du programme « Renouveau du métro » de la RATP, et partiellement décorée sur le thème du cinéma en référence à la salle du Grand Rex, située à proximité.",
+            "informations": "Le nom fait référence à l'église Notre-Dame-de-Bonne-Nouvelle, dédiée à l'Annonciation.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bonne-Nouvelle (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bonne-Nouvelle_(m%C3%A9tro_de_Paris)",
+                "resume": "Bonne-Nouvelle est une station des lignes 8 et 9 du métro de Paris, située à la limite des 2e, 9e et 10e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Botzaris",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Botzaris est une station de la ligne 7 bis du métro de Paris, située dans le 19e arrondissement de Paris. == Situation == La station se trouve à la limite administrative entre le quartier du Combat à l'ouest et le quartier d'Amérique à l'est.",
+            "informations": "La station tire son nom de la rue Botzaris, qui rend hommage à Markos Botzaris, héros de la guerre d'indépendance grecque.",
+            "personne": {
+                "nom": "Markos Botzaris",
+                "annee_naissance": 1790,
+                "annee_deces": 1823,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Botzaris (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Botzaris_(m%C3%A9tro_de_Paris)",
+                "resume": "Botzaris est une station de la ligne 7 bis du métro de Paris, située dans le 19e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Boucicaut",
+            "theme": "Personne",
+            "sous_theme": "Philanthrope",
+            "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec l'ancien hôpital Boucicaut d'une part et la courte rue Boucicaut (actuelle rue Marguerite-Boucicaut) d'autre part, ainsi nommés en hommage au couple de philanthropes Marguerite et Aristide Boucicaut, fondateurs de l'hôpital précité. La station est ainsi la quatrième d'une série de huit à s'être vue attribuer le nom d'une femme, après Barbès - Rochechouart (lignes 2 et 4), Madeleine (lignes 8, 12 et 14) et Chardon-Lagache (ligne 10).",
+            "informations": "Aristide et Marguerite Boucicaut furent également les fondateurs du grand magasin Le Bon Marché à Paris.",
+            "personne": {
+                "nom": "Marguerite et Aristide Boucicaut",
+                "annee_naissance": null,
+                "annee_deces": null,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Boucicaut (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Boucicaut_(m%C3%A9tro_de_Paris)",
+                "resume": "Boucicaut est une station de la ligne 8 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Boulogne Jean Jaurès",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "La station doit sa dénomination d'une part à son implantation sur le territoire communal de Boulogne-Billancourt, et, d'autre part, à sa proximité avec le boulevard Jean-Jaurès, lequel rend hommage à Jean Jaurès (1859-1914), orateur et parlementaire socialiste assassiné à l'aube de la Première Guerre mondiale dont il s'opposait au déclenchement. Son nom fut également attribué à la station Jaurès sur les lignes 2, 5 et 7 bis, rebaptisée en son honneur le lendemain de son assassinat, en août 1914.",
+            "informations": "Jean Jaurès est une figure majeure du socialisme français, fondateur du journal L'Humanité.",
+            "personne": {
+                "nom": "Jean Jaurès",
+                "annee_naissance": 1859,
+                "annee_deces": 1914,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Boulogne - Jean Jaurès (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Boulogne_-_Jean_Jaur%C3%A8s_(m%C3%A9tro_de_Paris)",
+                "resume": "Boulogne - Jean Jaurès est une station de la ligne 10 du métro de Paris, située sur la commune de Boulogne-Billancourt."
+            }
+        },
+        {
+            "station": "Boulogne Pont de Saint-Cloud",
+            "theme": "Édifice",
+            "sous_theme": "Pont",
+            "pourquoi_ce_nom": "Boulogne – Pont de Saint-Cloud est une station de la ligne 10 du métro de Paris, située sur la commune de Boulogne-Billancourt. C'est le terminus ouest de la ligne ainsi que la station la plus occidentale de l'ensemble du réseau métropolitain parisien.",
+            "informations": "La station tire son nom de sa proximité avec le pont de Saint-Cloud, qui enjambe la Seine pour relier Boulogne-Billancourt à Saint-Cloud.",
+            "personne": null,
+            "source_station": {
+                "titre": "Boulogne - Pont de Saint-Cloud (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Boulogne_-_Pont_de_Saint-Cloud_(m%C3%A9tro_de_Paris)",
+                "resume": "Boulogne – Pont de Saint-Cloud est une station de la ligne 10 du métro de Paris, située sur la commune de Boulogne-Billancourt. C'est le terminus ouest de la ligne ainsi que la station la plus occidentale de l'ensemble du réseau métropolitain parisien."
+            }
+        },
+        {
+            "station": "Bourse",
+            "theme": "Édifice",
+            "sous_theme": "Institution",
+            "pourquoi_ce_nom": "Bourse est une station de la ligne 3 du métro de Paris, située dans le 2e arrondissement de Paris. == Situation == La station est implantée à l'est du quartier Vivienne à proximité de sa limite administrative avec le quartier du Mail.",
+            "informations": "La station dessert le Palais Brongniart, édifice qui a historiquement abrité la Bourse de Paris.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bourse (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Bourse_(m%C3%A9tro_de_Paris)",
+                "resume": "Bourse est une station de la ligne 3 du métro de Paris, située dans le 2e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Brochant",
+            "theme": "Personne",
+            "sous_theme": "Scientifique",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Brochant, laquelle rend hommage au géologue et minéralogiste français André Brochant de Villiers (1772-1840), directeur de la manufacture de Saint-Gobain et membre de l’Académie des sciences. Le 27 mars 1931, la ligne B devient l'actuelle ligne 13 du métro à la suite de l'absorption de la société du Nord-Sud le 1er janvier 1930 par sa concurrente, la Compagnie du chemin de fer métropolitain de Paris (dite CMP), qui gère la concession de l'essentiel des autres lignes du réseau.",
+            "informations": "André Brochant de Villiers fut un acteur important du développement de la géologie en France.",
+            "personne": {
+                "nom": "André Brochant de Villiers",
+                "annee_naissance": 1772,
+                "annee_deces": 1840,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Brochant (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Brochant_(m%C3%A9tro_de_Paris)",
+                "resume": "Brochant est une station de la ligne 13 du métro de Paris, située dans le 17e arrondissement de Paris, à la limite des quartiers des Épinettes et des Batignolles."
+            }
+        },
+        {
+            "station": "Bréguet-Sabin",
+            "theme": "Personnes",
+            "sous_theme": "Scientifique / Politique",
+            "pourquoi_ce_nom": "Elle doit sa dénomination d'une part à sa proximité avec la rue Bréguet, laquelle rend hommage à la famille Breguet (sans accent), dont l’horloger d’origine suisse Abraham Louis Breguet (1747-1823), qui fut l’inventeur de montres à remontoir automatique pour l’astronomie. La station reprend d'autre part la seconde moitié du nom de la rue Saint-Sabin, qui honore quant à elle la mémoire de Charles-Pierre d'Angelesme de Saint-Sabin, échevin de Paris de 1775 à 1777.",
+            "informations": "La station fusionne les noms de deux rues voisines rendant hommage à des figures historiques distinctes de la fin du XVIIIe siècle.",
+            "personne": {
+                "nom": "Abraham Louis Breguet et Charles-Pierre d'Angelesme de Saint-Sabin",
+                "annee_naissance": null,
+                "annee_deces": null,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Bréguet - Sabin (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Br%C3%A9guet_-_Sabin_(m%C3%A9tro_de_Paris)",
+                "resume": "Bréguet - Sabin est une station de la ligne 5 du métro de Paris, située dans le 11e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Buttes Chaumont",
+            "theme": "Lieu géographique",
+            "sous_theme": "Parc",
+            "pourquoi_ce_nom": "Buttes Chaumont est une station de la ligne 7 bis du métro de Paris, située dans le 19e arrondissement de Paris. == Situation == La station est implantée en lisière méridionale du parc des Buttes-Chaumont, sous la rue Botzaris au débouché de la rue du Plateau, au cœur du quartier du Combat.",
+            "informations": "Le parc des Buttes-Chaumont est l'un des plus grands espaces verts de Paris, inauguré sous Napoléon III.",
+            "personne": null,
+            "source_station": {
+                "titre": "Buttes Chaumont (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Buttes_Chaumont_(m%C3%A9tro_de_Paris)",
+                "resume": "Buttes Chaumont est une station de la ligne 7 bis du métro de Paris, située dans le 19e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Buzenval",
+            "theme": "Lieu géographique",
+            "sous_theme": "Bataille",
+            "pourquoi_ce_nom": "Buzenval est une station de la ligne 9 du métro de Paris, située dans le 20e arrondissement de Paris. == Situation == La station est implantée au sein du quartier de Charonne, sous la rue d'Avron à l'intersection avec la rue de Buzenval.",
+            "informations": "La rue de Buzenval fait référence au lieu-dit Buzenval à Rueil-Malmaison, célèbre pour la bataille qui s'y est déroulée en 1871 pendant la guerre franco-allemande.",
+            "personne": null,
+            "source_station": {
+                "titre": "Buzenval (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Buzenval_(m%C3%A9tro_de_Paris)",
+                "resume": "Buzenval est une station de la ligne 9 du métro de Paris, située dans le 20e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Bérault",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Bérault est une station de la ligne 1 du métro de Paris, située à la limite des communes de Saint-Mandé et de Vincennes. == Situation == La station est située sous l'avenue de Paris à Vincennes au niveau de la place Bérault et de l'avenue du Petit-Parc.",
+            "informations": "La place Bérault honore la mémoire d'un ancien adjoint au maire de la ville de Vincennes.",
+            "personne": null,
+            "source_station": {
+                "titre": "Bérault (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/B%C3%A9rault_(m%C3%A9tro_de_Paris)",
+                "resume": "Bérault est une station de la ligne 1 du métro de Paris, située à la limite des communes de Saint-Mandé et de Vincennes."
+            }
+        },
+        {
+            "station": "Cadet",
+            "theme": "Personne",
+            "sous_theme": "Agriculture",
+            "pourquoi_ce_nom": "La décoration est culturelle et reprend les couleurs ainsi que les motifs du drapeau des États-Unis ; cette scénographie a été choisie en référence à l'implantation de la station sous la rue La Fayette, dont la dénomination rend hommage au général ayant combattu aux côtés des Américains lors de leur guerre d'indépendance. Ainsi, les carreaux en céramique blancs, bleus ou rouges sont plats et recouvrent les piédroits, la voûte ainsi que les tympans ; en outre, ils ont la particularité de n'être décalés d'une rangée à l'autre que d'un quart dans le sens de la verticale sur les piédroits, et d'être posés verticalement sur les tympans.",
+            "informations": "Malgré la description architecturale de la station liée à La Fayette, le nom Cadet provient de la rue éponyme, honorant la famille Cadet de maîtres-jardiniers du XVIe siècle.",
+            "personne": null,
+            "source_station": {
+                "titre": "Cadet (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cadet_(m%C3%A9tro_de_Paris)",
+                "resume": "Cadet est une station de la ligne 7 du métro de Paris, située dans le 9e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Cambronne",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Cambronne est une station de la ligne 6 du métro de Paris, située dans le 15e arrondissement de Paris. == Situation == Établie en aérien, la station surplombe le terre-plein central du boulevard Garibaldi, à l'ouest de la place Cambronne.",
+            "informations": "La station honore Pierre Cambronne, général de l'Empire, célèbre pour sa participation à la bataille de Waterloo.",
+            "personne": {
+                "nom": "Pierre Cambronne",
+                "annee_naissance": 1770,
+                "annee_deces": 1842,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Cambronne (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cambronne_(m%C3%A9tro_de_Paris)",
+                "resume": "Cambronne est une station de la ligne 6 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Campo-Formio",
+            "theme": "Lieu géographique",
+            "sous_theme": "Traité",
+            "pourquoi_ce_nom": "Elle doit sa dénomination par métonymie à sa proximité avec la rue de Campo-Formio, laquelle rend hommage à la ville italienne de Campoformido (baptisée Campo-Formio à cette époque) en Frioul-Vénétie Julienne qui vit, en 1797, la signature du traité de Campo-Formio entre l’Autriche et Bonaparte. La France obtenait la Belgique, une partie de la rive gauche du Rhin, les îles Ioniennes et la reconnaissance de la République cisalpine.",
+            "informations": "Le traité de Campo-Formio marque la fin de la Première Coalition victorieuse de la France lors des guerres de la Révolution.",
+            "personne": null,
+            "source_station": {
+                "titre": "Campo-Formio (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Campo-Formio_(m%C3%A9tro_de_Paris)",
+                "resume": "Campo-Formio est une station de la ligne 5 du métro de Paris, située dans le 13e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Cardinal Lemoine",
+            "theme": "Personne",
+            "sous_theme": "Religieux",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation au croisement de la rue du Cardinal-Lemoine, laquelle rend hommage au cardinal français Jean Lemoine (1250-1313), cardinal-légat du pape Boniface VIII, du fait de son percement sur le terrain qui formait autrefois l'enclos du collège de ce nom fondé en 1302. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais ont été rénovés le 20 novembre 2006.",
+            "informations": "Jean Lemoine était un ecclésiastique de premier plan au Moyen Âge et a fondé un collège parisien portant son nom.",
+            "personne": {
+                "nom": "Jean Lemoine",
+                "annee_naissance": 1250,
+                "annee_deces": 1313,
+                "siecles_vecus": [
+                    "XIIIe siècle",
+                    "XIVe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Cardinal Lemoine (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cardinal_Lemoine_(m%C3%A9tro_de_Paris)",
+                "resume": "Cardinal Lemoine est une station de la ligne 10 du métro de Paris, située dans le 5e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Carrefour Pleyel",
+            "theme": "Lieu géographique",
+            "sous_theme": "Carrefour",
+            "pourquoi_ce_nom": "Saint-Denis–Pleyel est une station du métro de Paris située à Saint-Denis sur la ligne 14 qui est son terminus depuis le 24 juin 2024. Elle devrait également être le terminus des lignes 16 et 17 à partir de 2027 et assurer une correspondance avec la ligne 15 en 2031.",
+            "informations": "Le carrefour Pleyel est un carrefour routier important situé à Saint-Denis (Seine-Saint-Denis), dans le quartier de la Plaine Saint-Denis, à proximité de Saint-Ouen. Le nom vient du compositeur et fabricant de pianos Ignaz Pleyel.",
+            "personne": null,
+            "source_station": {
+                "titre": "Saint-Denis Pleyel (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Saint-Denis_Pleyel_(m%C3%A9tro_de_Paris)",
+                "resume": "Saint-Denis–Pleyel est une station du métro de Paris située à Saint-Denis sur la ligne 14."
+            }
+        },
+        {
+            "station": "Censier - Daubenton",
+            "theme": "Personne",
+            "sous_theme": "Scientifique",
+            "pourquoi_ce_nom": "La station reprend d'autre part le nom de la rue Daubenton, laquelle rend hommage à Louis Jean-Marie Daubenton (1716-1799), naturaliste qui collabora avec Buffon pour son Histoire naturelle, et qui fut le premier directeur du Muséum national d'histoire naturelle face auquel débouche la rue précitée. Jusqu'en 1965, la station était dénommée Censier - Daubenton - Halle aux cuirs, le troisième et dernier nom faisant référence à l'un des anciens marchés des tanneurs qui furent nombreux à s'implanter en bordure de la Bièvre, affluent de la Seine qui courait à travers le secteur.",
+            "informations": "Louis Jean-Marie Daubenton a apporté une contribution majeure aux sciences naturelles sous le siècle des Lumières.",
+            "personne": {
+                "nom": "Louis Jean-Marie Daubenton",
+                "annee_naissance": 1716,
+                "annee_deces": 1799,
+                "siecles_vecus": [
+                    "XVIIIe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Censier - Daubenton (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Censier_-_Daubenton_(m%C3%A9tro_de_Paris)",
+                "resume": "Censier - Daubenton est une station de la ligne 7 du métro de Paris, située dans le 5e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Champs-Élysées - Clemenceau",
+            "theme": "Lieu géographique / Personne",
+            "sous_theme": "Voie / Politique",
+            "pourquoi_ce_nom": "=== Origine des noms === La station doit sa dénomination à sa proximité avec l'avenue des Champs-Élysées, laquelle tire son nom des champs Élysées, le lieu des Enfers où séjournaient les âmes vertueuses dans la mythologie grecque, ainsi qu'à son implantation sous la place Clemenceau, cette dernière voie rendant hommage à Georges Clemenceau (1841-1929), homme politique français et président du Conseil. La station porte comme sous-titre Grand Palais, du nom du monument parisien éponyme, situé à proximité, qui abrite régulièrement des salons ainsi que des expositions.",
+            "informations": "Cette station possède un double toponyme associant l'avenue mythique parisienne au célèbre chef du gouvernement durant la Première Guerre mondiale.",
+            "personne": {
+                "nom": "Georges Clemenceau",
+                "annee_naissance": 1841,
+                "annee_deces": 1929,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Champs-Élysées - Clemenceau (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Champs-%C3%89lys%C3%A9es_-_Clemenceau_(m%C3%A9tro_de_Paris)",
+                "resume": "Champs-Élysées - Clemenceau est une station des lignes 1 et 13 du métro de Paris, située dans le 8e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Chardon Lagache",
+            "theme": "Personnes",
+            "sous_theme": "Philanthrope",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Chardon-Lagache, laquelle rend hommage aux époux Pierre-Alfred Chardon (1807-1879) et Amélie Lagache (1811-1887), fondateurs de la maison de retraite devenue l'actuel hôpital Sainte-Périne au no 1 de cette même rue. La station est ainsi la troisième d'une série de six sur le réseau à s'être vue attribuer le nom d'une femme, après Barbès - Rochechouart (lignes 2 et 4) et Madeleine (lignes 8, 12 et 14).",
+            "informations": "Le couple a consacré une grande part de sa fortune au développement d'institutions hospitalières et charitables.",
+            "personne": {
+                "nom": "Pierre-Alfred Chardon et Amélie Lagache",
+                "annee_naissance": null,
+                "annee_deces": null,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Chardon-Lagache (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Chardon-Lagache_(m%C3%A9tro_de_Paris)",
+                "resume": "Chardon-Lagache est une station de la ligne 10 du métro de Paris, située dans le 16e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Charenton - Écoles",
+            "theme": "Lieu géographique",
+            "sous_theme": "Ville",
+            "pourquoi_ce_nom": "Charenton - Écoles est une station de la ligne 8 du métro de Paris, située sur la commune de Charenton-le-Pont. == Situation == La station est construite sous la rue de Paris, le long de la place Aristide-Briand, à l'est de la commune.",
+            "informations": "La station permet de desservir l'est de la ville de Charenton-le-Pont, une commune du Val-de-Marne limitrophe de Paris.",
+            "personne": null,
+            "source_station": {
+                "titre": "Charenton - Écoles (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Charenton_-_%C3%89coles_(m%C3%A9tro_de_Paris)",
+                "resume": "Charenton - Écoles est une station de la ligne 8 du métro de Paris, située sur la commune de Charenton-le-Pont."
+            }
+        },
+        {
+            "station": "Charles de Gaulle - Étoile",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Le nom de Charles de Gaulle est ajouté en 1970 à la suite de la nouvelle désignation de la place précitée, laquelle rend hommage au résistant et président de la République Charles de Gaulle (1890-1970) à la suite de la mort du général survenue le 9 novembre de la même année. La station devient ainsi la deuxième d'une série de quatre sur le réseau dont l'appellation reprend le nom d'un ancien président de la République française, après Félix Faure sur la ligne 8 et Bibliothèque François-Mitterrand sur la ligne 14 ; suivra ensuite la station Romainville - Carnot sur l'extension de la ligne 11.",
+            "informations": "Charles de Gaulle a été le chef de la France Libre durant la Seconde Guerre mondiale puis le fondateur de la Cinquième République.",
+            "personne": {
+                "nom": "Charles de Gaulle",
+                "annee_naissance": 1890,
+                "annee_deces": 1970,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Charles de Gaulle - Étoile (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Charles_de_Gaulle_-_%C3%89toile_(m%C3%A9tro_de_Paris)",
+                "resume": "Charles de Gaulle - Étoile est une station des lignes 1, 2 et 6 du métro de Paris, implantée sous la place Charles-de-Gaulle."
+            }
+        },
+        {
+            "station": "Charles Michels",
+            "theme": "Personne",
+            "sous_theme": "Résistant",
+            "pourquoi_ce_nom": "=== Origine des noms === Elle doit sa dénomination initiale de Beaugrenelle à sa situation sous l'ancienne place Beaugrenelle, au sein du quartier homonyme dont le nom fait référence à l'ancien village de Grenelle. Le toponyme de ce dernier a été ajouté au nom de la station La Motte-Picquet - Grenelle (lignes 6, 8 et 10) en 1913, et fut également le nom inaugural de l'actuelle station Bir-Hakeim (ligne 6) jusqu'en 1949.",
+            "informations": "Charles Michels, né le 6 mars 1903 à Paris 13e et mort pour la France le 22 octobre 1941 à Châteaubriant en Loire-Atlantique (alors Loire-Inférieure), est un syndicaliste et militant communiste, député PC-SFIC du 15e arrondissement à Paris, connu pour avoir été l'un des 48 otages fusillés à Châteaubriant, Nantes et Paris en représailles après l'attentat à Nantes contre le Feldkommandant de la ville, Karl Hotz.",
+            "personne": {
+                "nom": "Charles Michels",
+                "annee_naissance": 1903,
+                "annee_deces": 1941,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Charles Michels (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Charles_Michels_(m%C3%A9tro_de_Paris)",
+                "resume": "Charles Michels est une station de la ligne 10 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Charonne",
+            "theme": "Lieu géographique",
+            "sous_theme": "Ville",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue de Charonne, laquelle porte le nom de l'ancienne commune de Charonne à laquelle elle conduisait, annexée à Paris en 1859 pour former notamment l'actuel quartier de Charonne, situé à plus de 700 mètres à l'est de la station. Cette dernière a ainsi la particularité de reprendre le toponyme d'un quartier qu'elle ne dessert pas directement.",
+            "informations": "L'ancienne commune de Charonne fut rattachée à la capitale au milieu du XIXe siècle lors de l'extension de Paris.",
+            "personne": null,
+            "source_station": {
+                "titre": "Charonne (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Charonne_(m%C3%A9tro_de_Paris)",
+                "resume": "Charonne est une station de la ligne 9 du métro de Paris, située dans le 11e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Chemin Vert",
+            "theme": "Lieu géographique",
+            "sous_theme": "Voie",
+            "pourquoi_ce_nom": "Chemin Vert est une station de la ligne 8 du métro de Paris, située à la limite des 3e et 11e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier des Archives à l'ouest, le quartier Saint-Ambroise au nord-est et le quartier de la Roquette à l'est.",
+            "informations": "La station hérite son nom de la rue du Chemin-Vert, qui remplaçait jadis un sentier serpentant à travers des espaces maraîchers.",
+            "personne": null,
+            "source_station": {
+                "titre": "Chemin Vert (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Chemin_Vert_(m%C3%A9tro_de_Paris)",
+                "resume": "Chemin Vert est une station de la ligne 8 du métro de Paris, située à la limite des 3e et 11e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Chevaleret",
+            "theme": "Lieu géographique",
+            "sous_theme": "Lieu-dit",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue du Chevaleret, laquelle tient son nom d'un lieu-dit de la commune d'Ivry-sur-Seine où elle était située autrefois. Dans le cadre du programme « Renouveau du métro » de la RATP, la station a été entièrement rénovée en 2003.",
+            "informations": "Le toponyme Chevaleret trouve ses origines dans un ancien domaine appartenant historiquement à la commune d'Ivry.",
+            "personne": null,
+            "source_station": {
+                "titre": "Chevaleret (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Chevaleret_(m%C3%A9tro_de_Paris)",
+                "resume": "Chevaleret est une station de la ligne 6 du métro de Paris, située dans le 13e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Chevilly-Larue (Marché International)",
+            "theme": "Lieu géographique",
+            "sous_theme": "Ville",
+            "pourquoi_ce_nom": "Chevilly-Larue est une station de la ligne 14 du métro de Paris. La station est localisée sur la commune de Chevilly-Larue, au sud de la ZAC du Triangle des Meuniers.",
+            "informations": "La station est implantée sur le territoire de la commune val-de-marnaise de Chevilly-Larue et assure la desserte du Marché International de Rungis (MIN).",
+            "personne": null,
+            "source_station": {
+                "titre": "Chevilly-Larue (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Chevilly-Larue_(m%C3%A9tro_de_Paris)",
+                "resume": "Chevilly-Larue est une station de la ligne 14 du métro de Paris. La station est localisée sur la commune de Chevilly-Larue, au sud de la ZAC du Triangle des Meuniers."
+            }
+        },
+        {
+            "station": "Château d'Eau",
+            "theme": "Édifice",
+            "sous_theme": "Infrastructure",
+            "pourquoi_ce_nom": "Château d'Eau est une station de la ligne 4 du métro de Paris, située dans le 10e arrondissement de Paris. == Situation == La station est située sous le boulevard de Strasbourg au niveau de la rue du Château-d'Eau.",
+            "informations": "Un château d'eau est une construction destinée à stocker l'eau potable. Elle est placée en général sur un sommet géographique pour permettre une distribution sous pression. La réserve d'eau joue un rôle de tampon entre le débit demandé par les abonnés et le débit fourni par la station de pompage.",
+            "personne": null,
+            "source_station": {
+                "titre": "Château d'Eau (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Eau_(m%C3%A9tro_de_Paris)",
+                "resume": "Château d'Eau est une station de la ligne 4 du métro de Paris, située dans le 10e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Château de Vincennes",
+            "theme": "Édifice",
+            "sous_theme": "Château",
+            "pourquoi_ce_nom": "La station doit son nom au château de Vincennes, château royal, situé à proximité.",
+            "informations": "Le château de Vincennes est une forteresse historique située dans la banlieue est de Paris, dont la construction s'est étalée du XIVe au XVIIe siècle, et qui abrite aujourd'hui le service historique de la Défense.",
+            "personne": null,
+            "source_station": {
+                "titre": "Château de Vincennes (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Vincennes_(m%C3%A9tro_de_Paris)",
+                "resume": "Château de Vincennes est une station de la ligne 1 du métro de Paris, située à la limite du 12e arrondissement de Paris et de la commune de Vincennes."
+            }
+        },
+        {
+            "station": "Château Landon",
+            "theme": "Lieu géographique",
+            "sous_theme": "Voie",
+            "pourquoi_ce_nom": "La rue du Château-Landon, au-dessus de la station, tient son nom de la présence d’un castel jadis construit pour un sieur Landon, sous Louis XIV, et devenu par la suite propriété de la congrégation voisine de Saint-Lazare.",
+            "informations": "Le nom fait référence à la rue du Château-Landon, une voie parisienne, et non à la commune du même nom située en Seine-et-Marne.",
+            "personne": null,
+            "source_station": {
+                "titre": "Château-Landon (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau-Landon_(m%C3%A9tro_de_Paris)",
+                "resume": "Château-Landon est une station de la ligne 7 du métro de Paris, située dans le 10e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Château Rouge",
+            "theme": "Lieu géographique",
+            "sous_theme": "Quartier",
+            "pourquoi_ce_nom": "Château Rouge est une station de la ligne 4 du métro de Paris, située dans le 18e arrondissement de Paris. La station est établie au sud-est du quartier de Clignancourt, non loin de ses limites administratives avec le quartier de la Goutte-d'Or à l'est.",
+            "informations": "La station tire son nom du quartier parisien de Château Rouge, un secteur populaire du 18e arrondissement de la capitale.",
+            "personne": null,
+            "source_station": {
+                "titre": "Château Rouge (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_Rouge_(m%C3%A9tro_de_Paris)",
+                "resume": "Château Rouge est une station de la ligne 4 du métro de Paris, située dans le 18e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Châtelet",
+            "theme": "Édifice",
+            "sous_theme": "Forteresse",
+            "pourquoi_ce_nom": "La station doit son nom à la place du Châtelet qu'elle dessert.",
+            "informations": "Le toponyme provient du Grand Châtelet, une ancienne forteresse édifiée sur la rive droite de la Seine pour protéger le pont au Change, détruite au début du XIXe siècle.",
+            "personne": null,
+            "source_station": {
+                "titre": "Châtelet (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2telet_(m%C3%A9tro_de_Paris)",
+                "resume": "Châtelet est une station des lignes 1, 4, 7, 11 et 14 du métro de Paris, située à cheval sur les 1er et 4e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Châtillon - Montrouge",
+            "theme": "Lieu géographique",
+            "sous_theme": "Ville",
+            "pourquoi_ce_nom": "Châtillon - Montrouge est une station de la ligne 13 du métro de Paris, à la limite des communes de Châtillon, Montrouge et Bagneux, dans le département des Hauts-de-Seine.",
+            "informations": "La station porte le nom de deux des communes limitrophes qu'elle dessert directement.",
+            "personne": null,
+            "source_station": {
+                "titre": "Châtillon - Montrouge (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2tillon_-_Montrouge_(m%C3%A9tro_de_Paris)",
+                "resume": "Châtillon - Montrouge est une station de la ligne 13 du métro de Paris, à la limite des communes de Châtillon, Montrouge et Bagneux, dans le département des Hauts-de-Seine."
+            }
+        },
+        {
+            "station": "Cité",
+            "theme": "Lieu géographique",
+            "sous_theme": "Île",
+            "pourquoi_ce_nom": "La station est implantée sur l'île de la Cité, berceau historique de la ville de Paris.",
+            "informations": "L'île de la Cité est l'une des deux îles naturelles de la Seine présentes dans Paris intra-muros.",
+            "personne": null,
+            "source_station": {
+                "titre": "Cité (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_(m%C3%A9tro_de_Paris)",
+                "resume": "Cité est une station de la ligne 4 du métro de Paris, située dans le 4e arrondissement de Paris. Elle est la seule station de métro établie sur l'île de la Cité."
+            }
+        },
+        {
+            "station": "Cluny - La Sorbonne",
+            "theme": "Institution",
+            "sous_theme": "Enseignement",
+            "pourquoi_ce_nom": "La station est établie au cœur du Quartier latin, sous le boulevard Saint-Germain, entre le boulevard Saint-Michel et la rue Saint-Jacques.",
+            "informations": "Son nom rappelle la proximité immédiate du musée de Cluny et du site historique de l'université de la Sorbonne.",
+            "personne": null,
+            "source_station": {
+                "titre": "Cluny - La Sorbonne (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cluny_-_La_Sorbonne_(m%C3%A9tro_de_Paris)",
+                "resume": "Cluny - La Sorbonne est une station de la ligne 10 du métro de Paris, située dans le 5e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Colonel Fabien",
+            "theme": "Personne",
+            "sous_theme": "Résistant",
+            "pourquoi_ce_nom": "Le 19 août 1945, la station et la place éponyme sont renommées en hommage à Pierre Georges, dit Colonel Fabien ou « Frédo » (1919-1944), militant communiste pendant la Résistance.",
+            "informations": "Pierre Georges fut l'auteur du premier attentat meurtrier contre un militaire allemand dans le métro de Paris en 1941.",
+            "personne": {
+                "nom": "Pierre Georges (Colonel Fabien)",
+                "annee_naissance": 1919,
+                "annee_deces": 1944,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Colonel Fabien (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Colonel_Fabien_(m%C3%A9tro_de_Paris)",
+                "resume": "Colonel Fabien est une station de la ligne 2 du métro de Paris, située à la limite des 10e et 19e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Commerce",
+            "theme": "Lieu géographique",
+            "sous_theme": "Voie",
+            "pourquoi_ce_nom": "La station est établie au sud du quartier de Grenelle, sous l'étroite rue du Commerce à l'est de la place éponyme qu'elle tangente.",
+            "informations": "L'odonyme fait référence à la rue du Commerce, ancienne voie centrale du village de Grenelle, réputée pour sa vitalité marchande historique.",
+            "personne": null,
+            "source_station": {
+                "titre": "Commerce (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Commerce_(m%C3%A9tro_de_Paris)",
+                "resume": "Commerce est une station de la ligne 8 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Concorde",
+            "theme": "Lieu géographique",
+            "sous_theme": "Place",
+            "pourquoi_ce_nom": "La station doit sa dénomination à son implantation sous la place de la Concorde, plus grande place de Paris, dont le nom aurait été choisi par le Directoire afin de marquer la réconciliation des Français après les excès de la Terreur.",
+            "informations": "Cette place monumentale est un haut lieu de l'histoire de la Révolution française.",
+            "personne": null,
+            "source_station": {
+                "titre": "Concorde (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Concorde_(m%C3%A9tro_de_Paris)",
+                "resume": "Concorde est une station des lignes 1, 8 et 12 du métro de Paris, située à la limite des 1er et 8e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Convention",
+            "theme": "Institution",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue de la Convention, laquelle tient son nom de la Convention nationale, assemblée constituante française qui a siégé de 1792 à 1795.",
+            "informations": "La Convention nationale a dirigé la Première République française au cœur de la Révolution.",
+            "personne": null,
+            "source_station": {
+                "titre": "Convention (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Convention_(m%C3%A9tro_de_Paris)",
+                "resume": "Convention est une station de la ligne 12 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Corentin Cariou",
+            "theme": "Personne",
+            "sous_theme": "Résistant",
+            "pourquoi_ce_nom": "La station a été renommée en hommage à Corentin Cariou (1898-1942), conseiller municipal communiste du 19e arrondissement, retenu en otage et fusillé par les nazis durant l’Occupation allemande.",
+            "informations": "La nomination de cette station s'inscrit dans un mouvement d'hommage de l'après-guerre envers les héros de la Résistance.",
+            "personne": {
+                "nom": "Corentin Cariou",
+                "annee_naissance": 1898,
+                "annee_deces": 1942,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Corentin Cariou (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Corentin_Cariou_(m%C3%A9tro_de_Paris)",
+                "resume": "Corentin Cariou est une station de la ligne 7 du métro de Paris, située dans le 19e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Corentin Celton",
+            "theme": "Personne",
+            "sous_theme": "Résistant",
+            "pourquoi_ce_nom": "Elle doit son nom à l'hôpital voisin Corentin-Celton, baptisé en hommage à son jeune employé Corentin Celton (1901-1943), résistant fusillé au Mont-Valérien par les nazis.",
+            "informations": "Le militantisme et l'engagement syndical de Corentin Celton au sein des hôpitaux ont marqué le quartier d'Issy-les-Moulineaux.",
+            "personne": {
+                "nom": "Corentin Celton",
+                "annee_naissance": 1901,
+                "annee_deces": 1943,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Corentin Celton (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Corentin_Celton_(m%C3%A9tro_de_Paris)",
+                "resume": "Corentin Celton est une station de la ligne 12 du métro de Paris, située à Issy-les-Moulineaux."
+            }
+        },
+        {
+            "station": "Corvisart",
+            "theme": "Personne",
+            "sous_theme": "Scientifique",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Corvisart, laquelle rend hommage à Jean-Nicolas Corvisart (1755-1821), médecin personnel de Napoléon Ier.",
+            "informations": "Le baron Corvisart est particulièrement reconnu dans l'histoire de la médecine pour ses travaux novateurs sur les poumons et le cœur.",
+            "personne": {
+                "nom": "Jean-Nicolas Corvisart",
+                "annee_naissance": 1755,
+                "annee_deces": 1821,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Corvisart (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Corvisart_(m%C3%A9tro_de_Paris)",
+                "resume": "Corvisart est une station de la ligne 6 du métro de Paris, située dans le 13e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Coteaux Beauclair",
+            "theme": "Lieu géographique",
+            "sous_theme": "Quartier",
+            "pourquoi_ce_nom": "Coteaux Beauclair est une station de la ligne 11 du métro de Paris, à la limite entre les communes de Rosny-sous-Bois et Noisy-le-Sec.",
+            "informations": "Le toponyme désigne un quartier vallonné en développement à l'est de Paris.",
+            "personne": null,
+            "source_station": {
+                "titre": "Coteaux Beauclair (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Coteaux_Beauclair_(m%C3%A9tro_de_Paris)",
+                "resume": "Coteaux Beauclair est une station de la ligne 11 du métro de Paris, à la limite entre les communes de Rosny-sous-Bois et Noisy-le-Sec."
+            }
+        },
+        {
+            "station": "Cour Saint-Emilion",
+            "theme": "Lieu géographique",
+            "sous_theme": "Voie",
+            "pourquoi_ce_nom": "Elle tire son nom de la cour Saint-Émilion voisine.",
+            "informations": "La cour Saint-Émilion est une voie privée du quartier de Bercy, dont le nom rappelle les anciens chais vinicoles qui réceptionnaient les vins de la région de Bordeaux.",
+            "personne": null,
+            "source_station": {
+                "titre": "Cour Saint-Émilion (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cour_Saint-%C3%89milion_(m%C3%A9tro_de_Paris)",
+                "resume": "Cour Saint-Émilion est une station de la ligne 14 du métro de Paris, située dans le 12e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Courcelles",
+            "theme": "Lieu géographique",
+            "sous_theme": "Voie",
+            "pourquoi_ce_nom": "La station prend son nom du boulevard de Courcelles qu'elle dessert.",
+            "informations": "L'odonyme fait référence à l'ancien village de Courcelles, intégré à la ville de Paris lors de l'extension de ses limites administratives.",
+            "personne": null,
+            "source_station": {
+                "titre": "Courcelles (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Courcelles_(m%C3%A9tro_de_Paris)",
+                "resume": "Courcelles est une station de la ligne 2 du métro de Paris, située à la limite des 8e et 17e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Couronnes",
+            "theme": "Lieu géographique",
+            "sous_theme": "Lieu-dit",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue des Couronnes, laquelle porte le nom d'un lieu-dit dénommé autrefois « les Couronnes sous Savies ».",
+            "informations": "Le terme « Savies » constituait l'ancienne appellation du village de Belleville du VIIe au XVIIIe siècle.",
+            "personne": null,
+            "source_station": {
+                "titre": "Couronnes (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Couronnes_(m%C3%A9tro_de_Paris)",
+                "resume": "Couronnes est une station de la ligne 2 du métro de Paris, située à la limite des 11e et 20e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Crimée",
+            "theme": "Événement historique",
+            "sous_theme": "Guerre",
+            "pourquoi_ce_nom": "Elle doit son nom à sa proximité avec la rue de Crimée, plus longue rue du 19e arrondissement de la capitale.",
+            "informations": "Cette dénomination commémore directement la guerre de Crimée qui s'est déroulée de 1855 à 1856.",
+            "personne": null,
+            "source_station": {
+                "titre": "Crimée (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Crim%C3%A9e_(m%C3%A9tro_de_Paris)",
+                "resume": "Crimée est une station de la ligne 7 du métro de Paris, située dans le 19e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Croix de Chavaux",
+            "theme": "Lieu géographique",
+            "sous_theme": "Carrefour",
+            "pourquoi_ce_nom": "La station est établie sous la place Jacques-Duclos, un carrefour historiquement appelé la Croix de Chavaux.",
+            "informations": "Le terme « Chavaux » provient de la déformation du mot « chevaux », car ce carrefour servait jadis de point de relais pour les attelages.",
+            "personne": null,
+            "source_station": {
+                "titre": "Croix de Chavaux (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Croix_de_Chavaux_(m%C3%A9tro_de_Paris)",
+                "resume": "Croix de Chavaux est une station de la ligne 9 du métro de Paris, située dans la commune de Montreuil."
+            }
+        },
+        {
+            "station": "Créteil - L'Échat",
+            "theme": "Lieu géographique",
+            "sous_theme": "Quartier",
+            "pourquoi_ce_nom": "La station dessert le quartier de l'Échat, au sein de la ville de Créteil.",
+            "informations": "L'origine du nom remonte à un ancien lieu-dit localisé sur le territoire communal.",
+            "personne": null,
+            "source_station": {
+                "titre": "Créteil - L'Échat (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cr%C3%A9teil_-_L%27%C3%89chat_(m%C3%A9tro_de_Paris)",
+                "resume": "Créteil - L'Échat est une station de la ligne 8 du métro de Paris, située sur la commune de Créteil."
+            }
+        },
+        {
+            "station": "Créteil - Préfecture",
+            "theme": "Institution",
+            "sous_theme": "Administration",
+            "pourquoi_ce_nom": "Le nom de la station signale la proximité de la préfecture du Val-de-Marne.",
+            "informations": "Cette infrastructure préfectorale constitue le centre administratif d'un département créé en 1968 lors de la réorganisation de la région parisienne.",
+            "personne": null,
+            "source_station": {
+                "titre": "Créteil - Préfecture (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cr%C3%A9teil_-_Pr%C3%A9fecture_(m%C3%A9tro_de_Paris)",
+                "resume": "Créteil - Préfecture est une station de la ligne 8 du métro de Paris, située sur la commune de Créteil."
+            }
+        },
+        {
+            "station": "Créteil - Université",
+            "theme": "Institution",
+            "sous_theme": "Enseignement",
+            "pourquoi_ce_nom": "La station permet de relier le pôle principal de l'Université Paris-Est Créteil (UPEC).",
+            "informations": "La station est implantée au milieu de la route départementale au nord-ouest de la route de Choisy.",
+            "personne": null,
+            "source_station": {
+                "titre": "Créteil - Université (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Cr%C3%A9teil_-_Universit%C3%A9_(m%C3%A9tro_de_Paris)",
+                "resume": "Créteil - Université est une station de la ligne 8 du métro de Paris, située sur la commune de Créteil."
+            }
+        },
+        {
+            "station": "Daumesnil",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Elle doit son nom à son implantation sous l'ancienne place Daumesnil, ainsi qu'à sa situation au croisement de l'avenue Daumesnil.",
+            "informations": "Ces deux voies rendent un hommage direct au baron et général d'empire Pierre Daumesnil.",
+            "personne": {
+                "nom": "Pierre Daumesnil",
+                "annee_naissance": 1776,
+                "annee_deces": 1832,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Daumesnil (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Daumesnil_(m%C3%A9tro_de_Paris)",
+                "resume": "Daumesnil est une station des lignes 6 et 8 du métro de Paris, située dans le 12e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Daumesnil",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Elle doit son nom à son implantation sous l'ancienne place Daumesnil telle que celle-ci est alors dénommée, ainsi qu'à sa situation au croisement de l'avenue Daumesnil, ces deux voies rendant hommage au baron et général d'empire Pierre Daumesnil (1776-1832).",
+            "informations": "Pierre Daumesnil fut un général de l'Empire français, célèbre pour avoir défendu le château de Vincennes en 1814 et 1815.",
+            "personne": {
+                "nom": "Pierre Daumesnil",
+                "annee_naissance": 1776,
+                "annee_deces": 1832,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Daumesnil (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Daumesnil_(m%C3%A9tro_de_Paris)",
+                "resume": "Daumesnil est une station des lignes 6 et 8 du métro de Paris, située dans le 12e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Denfert-Rochereau",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Denfert-Rochereau est une station des lignes 4 et 6 du métro de Paris, située dans le 14e arrondissement de Paris. La station est implantée sous la place Denfert-Rochereau.",
+            "informations": "La place et la station honorent Pierre-Philippe Denfert-Rochereau, officier militaire français célèbre pour sa défense héroïque de Belfort durant la guerre franco-allemande de 1870.",
+            "personne": {
+                "nom": "Pierre-Philippe Denfert-Rochereau",
+                "annee_naissance": 1823,
+                "annee_deces": 1878,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Denfert-Rochereau (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Denfert-Rochereau_(m%C3%A9tro_de_Paris)",
+                "resume": "Denfert-Rochereau est une station des lignes 4 et 6 du métro de Paris, située dans le 14e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Dugommier",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Le 12 juillet 1939, la station change de nom au profit de Dugommier, afin de souligner sa proximité avec la rue Dugommier qui rend hommage à Jacques François Dugommier (1738-1794), général de la Révolution française.",
+            "informations": "Jacques François Dugommier s'est illustré lors de plusieurs batailles de la Révolution, notamment au siège de Toulon et lors de la campagne des Pyrénées.",
+            "personne": {
+                "nom": "Jacques François Dugommier",
+                "annee_naissance": 1738,
+                "annee_deces": 1794,
+                "siecles_vecus": [
+                    "XVIIIe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Dugommier (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Dugommier_(m%C3%A9tro_de_Paris)",
+                "resume": "Dugommier est une station de la ligne 6 du métro de Paris, située dans le 12e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Dupleix",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Elle tire son nom de la rue Dupleix, toute proche, qui rend hommage à Joseph François Dupleix (1697-1763), administrateur et colonisateur français.",
+            "informations": "Gouverneur général de la Compagnie des Indes en 1742, Dupleix développa la position commerciale de la France et lutta contre l’influence anglaise en Inde.",
+            "personne": {
+                "nom": "Joseph François Dupleix",
+                "annee_naissance": 1697,
+                "annee_deces": 1763,
+                "siecles_vecus": [
+                    "XVIIe siècle",
+                    "XVIIIe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Dupleix (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Dupleix_(m%C3%A9tro_de_Paris)",
+                "resume": "Dupleix est une station de la ligne 6 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Duroc",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Duroc, laquelle rend hommage à Géraud Christophe Michel Duroc, duc de Frioul (1772-1813), général d’Empire.",
+            "informations": "Géraud Christophe Michel Duroc fut un fidèle aide de camp de Napoléon Bonaparte et occupa la fonction de grand maréchal du palais impérial.",
+            "personne": {
+                "nom": "Géraud Christophe Michel Duroc",
+                "annee_naissance": 1772,
+                "annee_deces": 1813,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Duroc (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Duroc_(m%C3%A9tro_de_Paris)",
+                "resume": "Duroc est une station des lignes 10 et 13 du métro de Paris, située à la limite des 6e, 7e et 15e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Edgar Quinet",
+            "theme": "Personne",
+            "sous_theme": "Auteur",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à son implantation sous le boulevard Edgar-Quinet, lequel rend hommage à l’historien et homme politique Edgar Quinet (1803-1875).",
+            "informations": "Edgar Jean Louis Quinet est un historien, poète, philosophe et homme politique français du XIXe siècle, reconnu pour ses idées républicaines.",
+            "personne": {
+                "nom": "Edgar Quinet",
+                "annee_naissance": 1803,
+                "annee_deces": 1875,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Edgar Quinet (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Edgar_Quinet_(m%C3%A9tro_de_Paris)",
+                "resume": "Edgar Quinet est une station de la ligne 6 du métro de Paris, située dans le 14e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Esplanade de la Défense",
+            "theme": "Lieu géographique",
+            "sous_theme": "Esplanade",
+            "pourquoi_ce_nom": "La station se situe sur le côté est de l'esplanade du quartier de la Défense, d'où son nom.",
+            "informations": "L'esplanade de la Défense est un vaste espace piétonnier structurant le quartier d'affaires de la Défense. Le nom de ce dernier provient de la statue 'La Défense de Paris' érigée en mémoire de la guerre de 1870.",
+            "personne": null,
+            "source_station": {
+                "titre": "Esplanade de la Défense (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Esplanade_de_la_D%C3%A9fense_(m%C3%A9tro_de_Paris)",
+                "resume": "Esplanade de la Défense est une station de la ligne 1 du métro de Paris, située à l'extrémité est du quartier d'affaires de la Défense."
+            }
+        },
+        {
+            "station": "Etienne Marcel",
+            "theme": "Personne",
+            "sous_theme": "Politique",
+            "pourquoi_ce_nom": "Son nom vient de la rue Étienne-Marcel, qui rend hommage à Étienne Marcel, prévôt des marchands de Paris et homme politique français.",
+            "informations": "Étienne Marcel s'est illustré lors de la guerre de Cent Ans en prenant la tête d'un mouvement réformateur visant à contrôler la monarchie française, avant d'être assassiné en 1358.",
+            "personne": {
+                "nom": "Étienne Marcel",
+                "annee_naissance": 1302,
+                "annee_deces": 1358,
+                "siecles_vecus": [
+                    "XIVe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Étienne Marcel (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/%C3%89tienne_Marcel_(m%C3%A9tro_de_Paris)",
+                "resume": "Étienne Marcel est une station de la ligne 4 du métro de Paris, située à la limite des 1er et 2e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Europe",
+            "theme": "Lieu géographique",
+            "sous_theme": "Place",
+            "pourquoi_ce_nom": "Elle tire son nom de la place de l'Europe à proximité de laquelle elle est établie. Ce quartier doit sa dénomination à la présence de nombreuses rues portant des noms de villes européennes.",
+            "informations": "L'Europe est un continent. Dans le contexte parisien, le quartier de l'Europe a été aménagé au XIXe siècle en attribuant aux rues des noms de grandes capitales du continent.",
+            "personne": null,
+            "source_station": {
+                "titre": "Europe (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Europe_(m%C3%A9tro_de_Paris)",
+                "resume": "Europe est une station de la ligne 3 du métro de Paris, située dans le 8e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Exelmans",
+            "theme": "Personne",
+            "sous_theme": "Militaire",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec le boulevard Exelmans, lequel rend hommage à Rémy Joseph Isidore Exelmans (1775-1852), général de cavalerie des armées napoléoniennes.",
+            "informations": "Le maréchal Exelmans est une figure militaire marquante, ayant servi de la Révolution française jusqu'au Second Empire.",
+            "personne": {
+                "nom": "Rémy Joseph Isidore Exelmans",
+                "annee_naissance": 1775,
+                "annee_deces": 1852,
+                "siecles_vecus": [
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Exelmans (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Exelmans_(m%C3%A9tro_de_Paris)",
+                "resume": "Exelmans est une station de la ligne 9 du métro de Paris, située dans le 16e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Faidherbe - Chaligny",
+            "theme": "Personnes",
+            "sous_theme": "Militaire / Artisan",
+            "pourquoi_ce_nom": "La station doit son nom à son emplacement au carrefour de la rue Faidherbe, dédiée au général Louis Faidherbe, et de la rue Chaligny, honorant la famille de fondeurs lorrains du même nom.",
+            "informations": "La station rend un double hommage : d'une part à Louis Faidherbe, figure militaire, et d'autre part à Antoine Chaligny et sa famille, illustres artisans fondeurs.",
+            "personne": {
+                "nom": "Louis Faidherbe et Famille Chaligny",
+                "annee_naissance": null,
+                "annee_deces": null,
+                "siecles_vecus": [
+                    "XVIe siècle",
+                    "XVIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Faidherbe - Chaligny (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Faidherbe_-_Chaligny_(m%C3%A9tro_de_Paris)",
+                "resume": "Faidherbe - Chaligny est une station de la ligne 8 du métro de Paris, située à la limite des 11e et 12e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Falguière",
+            "theme": "Personne",
+            "sous_theme": "Artiste",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'amorce de la rue Falguière, laquelle rend hommage à Alexandre Falguière (1831-1900), sculpteur et peintre français.",
+            "informations": "Alexandre Falguière est un artiste toulousain reconnu du XIXe siècle, dont plusieurs œuvres figurent au musée d'Orsay.",
+            "personne": {
+                "nom": "Alexandre Falguière",
+                "annee_naissance": 1831,
+                "annee_deces": 1900,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "source_station": {
+                "titre": "Falguière (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Falgui%C3%A8re_(m%C3%A9tro_de_Paris)",
+                "resume": "Falguière est une station de la ligne 12 du métro de Paris, située dans le 15e arrondissement de Paris."
+            }
+        },
+        {
+            "station": "Filles du Calvaire",
+            "theme": "Institution",
+            "sous_theme": "Religieux",
+            "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue et le boulevard des Filles-du-Calvaire, dont le nom fait référence à la présence ancienne du couvent de Notre-Dame du Calvaire dans ce secteur.",
+            "informations": "Le couvent des Filles-du-Calvaire était un établissement religieux établi au XVIIe siècle, supprimé durant la Révolution française.",
+            "personne": null,
+            "source_station": {
+                "titre": "Filles du Calvaire (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Filles_du_Calvaire_(m%C3%A9tro_de_Paris)",
+                "resume": "Filles du Calvaire est une station de la ligne 8 du métro de Paris, située à la limite des 3e et 11e arrondissements de Paris."
+            }
+        },
+        {
+            "station": "Fort d'Aubervilliers",
+            "theme": "Édifice",
+            "sous_theme": "Forteresse",
+            "pourquoi_ce_nom": "La station est nommée d'après l'ancien fort militaire situé à proximité, à la frontière entre Pantin et Aubervilliers.",
+            "informations": "Le fort d'Aubervilliers est une ancienne fortification construite en 1843 dans le cadre de l'enceinte de Thiers, destinée à protéger Paris.",
+            "personne": null,
+            "source_station": {
+                "titre": "Fort d'Aubervilliers (métro de Paris)",
+                "url": "https://fr.wikipedia.org/wiki/Fort_d%27Aubervilliers_(m%C3%A9tro_de_Paris)",
+                "resume": "Fort d'Aubervilliers est une station de la ligne 7 du métro de Paris, située sur la commune d'Aubervilliers."
+            }
+        }
+    ]
+]

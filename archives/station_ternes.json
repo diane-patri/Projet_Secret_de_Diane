@@ -1,0 +1,25 @@
+{
+    "station": "Ternes",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Ternes est une station de la ligne 2 du métro de Paris, située à la limite des 8e et 17e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier du Faubourg-du-Roule au sud-est et le quartier des Ternes au nord-est, non loin de leurs limites respectives avec le quartier de la Plaine-de-Monceaux au nord.",
+    "informations": "Le Ternes, ou ruisseau des Ternes, ou rivière d'Alleuze dans sa partie aval, est une rivière française du Massif central qui coule dans le département du Cantal. C'est un affluent de rive droite de la Truyère, donc un sous-affluent de la Garonne par le Lot.",
+    "personne": null,
+    "source_station": {
+        "titre": "Ternes (métro de Paris)",
+        "url": "https://fr.wikipedia.org/wiki/Ternes_(m%C3%A9tro_de_Paris)",
+        "resume": "Ternes est une station de la ligne 2 du métro de Paris, située à la limite des 8e et 17e arrondissements de Paris."
+    },
+    "source_origine": {
+        "titre": "Ruisseau des Ternes",
+        "url": "https://fr.wikipedia.org/wiki/Ruisseau_des_Ternes"
+    },
+    "confiance": {
+        "page_station": "élevée",
+        "origine_nom": "moyenne",
+        "classification": "faible"
+    },
+    "avertissements": [
+        "Classification a verifier manuellement."
+    ]
+}

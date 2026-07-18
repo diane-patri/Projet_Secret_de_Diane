@@ -1,0 +1,563 @@
+{
+    "station": "Rome",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la rue de Rome, laquelle tire son nom de la capitale de l'Italie. Elle est établie au sein du quartier de l'Europe, ainsi nommé du fait de la présence de nombreuses rues portant le nom de grandes villes européennes, certaines de ces voies ayant également donné leurs noms aux stations Europe sur la ligne 3 et Liège sur la ligne 13.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Rosny-Bois-Perrier",
+    "theme": "Lieu géographique",
+    "sous_theme": "Ville ou commune",
+    "pourquoi_ce_nom": "Rosny-Bois-Perrier est une station de la ligne 11 du métro de Paris, située à Rosny-sous-Bois. Il s'agit de la du métro de Paris .",
+    "informations": "La gare de Rosny-Bois-Perrier est une gare ferroviaire française de la ligne de Paris-Est à Mulhouse-Ville, située dans le quartier du Bois-Perrier sur le territoire de la commune de Rosny-sous-Bois, dans le département de la Seine-Saint-Denis, en région Île-de-France. Elle est mise en service en 1971 par la Société nationale des chemins de fer français (SNCF). C'est une gare du réseau Transilien uniquement desservie par des trains de la ligne E du réseau express régional d'Île-de-France (RER).",
+    "personne": null
+},
+{
+    "station": "Rue de la Pompe",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "La station porte comme sous-titre Avenue Georges Mandel du fait de son implantation sous ladite avenue, laquelle rend hommage à Georges Mandel (1885-1944), homme politique français assassiné le par la Gestapo et la Milice française. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais ont été rénovés le .",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Rue des Boulets",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "La seconde rue porte le nom de la commune de Montreuil à laquelle elle conduisait . Par la suite, le nom de la station est simplifié en Boulets - Montreuil, apparaissant sur les plans avant de remplacer complètement le premier.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Rue du Bac",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue du Bac, laquelle tire son nom du fait qu'à son débouché face à la Seine, vers 1550 un bac était utilisé pour la construction du palais des Tuileries, sur la rive droite du fleuve. La station est ainsi une des huit du réseau dont l'appellation actuelle précise en préfixe la typologie de la voie dont elle reprend le toponyme (hors places et ponts), avec Rue Saint-Maur ( ), Quai de la Rapée ( ), Quai de la Gare ( ) Rue de la Pompe ( ), Rue des Boulets ( ), Avenue Émile-Zola ( ) et Malakoff - Rue Étienne-Dolet ( ).",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Rue Saint-Maur",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Le , la station est rebaptisée Rue Saint-Maur afin de ne pas induire en erreur les voyageurs se rendant à la commune de Saint-Maur-des-Fossés, au sud-est de Paris, et d'éviter toute confusion avec les gares de la ligne A du RER situées le territoire de cette ville. La station est depuis lors une des huit du réseau dont la dénomination actuelle précise en préfixe la typologie de la voie dont elle reprend le toponyme (hors places et ponts), avec les stations Quai de la Rapée ( ), Quai de la Gare ( ), Rue de la Pompe ( ), Rue des Boulets ( ), Avenue Émile-Zola ( ), Rue du Bac ( ) et Malakoff - Rue Étienne-Dolet ( ).",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Saint-Ambroise",
+    "theme": "Monument ou institution",
+    "sous_theme": "Monument",
+    "pourquoi_ce_nom": "Saint-Ambroise est une station de la ligne 9 du métro de Paris, située dans le de Paris. == Situation == La station se trouve sous le boulevard Voltaire au débouché de la rue Saint-Ambroise, les quais étant établis au nord-ouest de cette dernière, au cœur du quartier administratif éponyme.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Saint-Augustin",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Saint-Augustin est une station de la ligne 9 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au nord du quartier de la Madeleine à sa limite administrative avec le quartier de l'Europe.",
+    "informations": "La place Saint-Augustin est une place du 8e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Saint-Denis - Pleyel",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Saint-Denis–Pleyel est une station du métro de Paris située à Saint-Denis sur la ligne 14 qui est son terminus depuis le . Elle devrait également être le terminus des lignes 16 et 17 à partir de 2027 et assurer une correspondance avec la ligne 15 en 2031.",
+    "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+    "personne": {
+        "nom": "France",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Saint-Denis - Porte de Paris",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Saint-Denis - Porte de Paris est une station de la ligne 13 du métro de Paris, située place de la Porte-de-Paris, sur le territoire de la commune de Saint-Denis, dans le département de la Seine-Saint-Denis. == Histoire == La station est ouverte en 1976 lors du prolongement de la ligne 13 à Basilique de Saint-Denis.",
+    "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+    "personne": {
+        "nom": "France",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Saint-Denis - Université",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Saint-Denis - Université est une station de la ligne 13 du métro de Paris, située avenue de Stalingrad au nord de la commune de Saint-Denis, en limite de l'ancienne commune de Pierrefitte-sur-Seine, devenue une commune déléguée de la commune de Saint-Denis en 2025, et à proximité de Stains, dans le département de la Seine-Saint-Denis. C'est le terminus de la ligne 13 sur sa branche nord-est ainsi que la station la plus septentrionale de tout le réseau métropolitain parisien.",
+    "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+    "personne": {
+        "nom": "France",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Saint-Fargeau",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Saint-Fargeau est une station de la ligne 3 bis du métro de Paris, située dans le de Paris. == Situation == La station se situe au cœur du quartier Saint-Fargeau, sous l'avenue Gambetta à son intersection avec la rue Haxo et la rue Saint-Fargeau, où se trouve la place éponyme ; les quais de cette même station sont établis à grande profondeur au nord du carrefour précité.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Saint-François-Xavier",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Saint-François-Xavier est une station de la ligne 13 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au nord-est du quartier de l'École-Militaire, à sa limite administrative avec le quartier des Invalides, sous le boulevard éponyme au niveau de la place André-Tardieu.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Saint-Georges",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Saint-Georges est une station de la ligne 12 du métro de Paris, située dans le de Paris. == Situation == La station est implantée au cœur du quartier Saint-Georges, sous la place éponyme, les quais étant établis en palier au nord de celle-ci et partiellement en courbe, selon les axes de la rue Notre-Dame-de-Lorette au sud-est et de la rue Henry-Monnier au nord.",
+    "informations": "La place Saint-Georges est une place située dans le 9e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Saint-Germain-des-Prés",
+    "theme": "Lieu géographique",
+    "sous_theme": "Quartier",
+    "pourquoi_ce_nom": "Saint-Germain-des-Prés est une station de la ligne 4 du métro de Paris, située dans le de Paris. == Situation == La station est située sous le boulevard Saint-Germain non loin de l'intersection avec la rue de Rennes et la rue Bonaparte.",
+    "informations": "Le quartier Saint-Germain-des-Prés est le 24e quartier administratif de Paris situé dans le 6e arrondissement. Ses habitants sont les « Germanopratins ».",
+    "personne": null
+},
+{
+    "station": "Saint-Jacques",
+    "theme": "Lieu géographique",
+    "sous_theme": "Ville ou commune",
+    "pourquoi_ce_nom": "Elle tient son nom de sa situation au sein de l'ancien faubourg Saint-Jacques, au croisement du boulevard Saint-Jacques (axe est-ouest) et des rues du Faubourg-Saint-Jacques et de la Tombe-Issoire (axe nord-sud). Le , la moitié des plaques nominatives sur les quais de la station sont remplacées par la RATP pour faire un poisson d'avril le temps d'une journée, comme dans douze autres stations .",
+    "informations": "Faubourg Saint-Jacques est le nom successif de plusieurs anciens faubourgs méridionaux de Paris, désormais incorporés à cette ville et faisant aujourd'hui partie des 5e et 14e arrondissements.",
+    "personne": null
+},
+{
+    "station": "Saint-Lazare",
+    "theme": "Monument ou institution",
+    "sous_theme": "Monument",
+    "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la gare de Paris-Saint-Lazare ainsi qu'avec la rue Saint-Lazare, dont le nom fait référence à l'ancienne maison Saint-Lazare à laquelle la rue précitée conduisait jadis.",
+    "informations": "La gare de Paris-Saint-Lazare, dite aussi gare Saint-Lazare, est l'une des six grandes gares terminus du réseau de la Société nationale des chemins de fer français (SNCF) à Paris. Située dans le quartier de l'Europe du 8e arrondissement, elle est l'une des anciennes têtes de ligne du réseau Ouest-État. Elle est la première gare édifiée en Île-de-France dès 1837 et affectée principalement depuis au trafic de banlieue.",
+    "personne": null
+},
+{
+    "station": "Saint-Mandé",
+    "theme": "Lieu géographique",
+    "sous_theme": "Ville ou commune",
+    "pourquoi_ce_nom": "Saint-Mandé est une station de la ligne 1 du métro de Paris, située à la limite des communes de Saint-Mandé et de Vincennes. == Situation == La station est implantée sous l'amorce de l'avenue de Paris (D 120) à Saint-Mandé, entre la place du Général-Leclerc et la rue du Parc.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Saint-Marcel",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'amorce du boulevard Saint-Marcel, lequel tient son nom du faubourg Saint-Marceau ou Saint-Marcel qu'il traverse. Dans le cadre du programme « Renouveau du métro » de la RATP, la station a été entièrement rénovée le .",
+    "informations": "Le boulevard Saint-Marcel est une voie des 5e et 13es arrondissement de Paris",
+    "personne": null
+},
+{
+    "station": "Saint-Michel",
+    "theme": "Personne",
+    "sous_theme": "Religieux",
+    "pourquoi_ce_nom": "Elle porte le nom de la place Saint-Michel sous laquelle elle se situe, à l'extrémité nord du boulevard homonyme. Durant les années 1970, les quais sont rénovés dans le style « Andreu-Motte » avec deux rampes lumineuses orange, des banquettes traitées en carrelage orange plat et des sièges « Motte » orange.",
+    "informations": "La place Saint-Michel est une voie située dans le quartier de la Sorbonne et le quartier de la Monnaie des 5e et 6e arrondissements à Paris, en France. Elle ne doit pas être confondue avec l'ancienne place Saint-Michel, située plus au sud et incorporée au boulevard Saint-Michel dans les années 1850.",
+    "personne": {
+        "nom": "Place Saint-Michel (Paris)",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Saint-Ouen",
+    "theme": "Lieu géographique",
+    "sous_theme": "Ville ou commune",
+    "pourquoi_ce_nom": "Saint-Ouen est une station de la ligne 14 du métro de Paris, située à la limite des territoires des communes de Saint-Ouen-sur-Seine et de Clichy. Son ouverture est effective le .",
+    "informations": "La gare de Saint-Ouen est une gare ferroviaire française de la ligne d'Ermont - Eaubonne à Champ-de-Mars (VMI), située sur le territoire de la commune de Saint-Ouen-sur-Seine (département de la Seine-Saint-Denis), à proximité de la commune de Clichy (département des Hauts-de-Seine). Ouverte en 1988, c'est une gare de la Société nationale des chemins de fer français (SNCF) desservie par les trains de la ligne C du RER. Elle ne doit pas être confondue avec l'ancienne gare de Saint-Ouen-sur-Seine qui se trouvait plus à l'est sur la ligne de La Plaine à Ermont - Eaubonne, ni avec l'ancienne gare de l'avenue de Saint-Ouen située sur la ligne de Petite Ceinture.",
+    "personne": null
+},
+{
+    "station": "Saint-Paul (Le Marais)",
+    "theme": "À vérifier",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "== Notes et références == * , pour la précision typographique des noms des stations. * .",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Saint-Philippe-du-Roule",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Le village du Roule, devenu faubourg en 1722, était une petite localité baptisée Romiliacum par Frédégaire, Crioilum par Saint Éloi, puis Rolus au . Comme un tiers des stations du réseau entre 1974 et 1984, les quais de la ligne 9 ont été modernisés en style « Andreu-Motte », de couleur orange en l'occurrence.",
+    "informations": "En géographie, le faubourg est à l'origine un quartier situé à l'extérieur d'un bourg. Au XXIe siècle, on continue à nommer « faubourg » des quartiers incorporés aux limites de la ville, à la suite de la croissance de celle-ci. Les faubourgs sont généralement devenus des quartiers entourant le centre et sont un espace de transition entre le centre-ville et la banlieue : en géographie, on considère souvent les faubourgs comme la première couronne des périphéries urbaines.",
+    "personne": {
+        "nom": "Faubourg",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Saint-Placide",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Le , afin d'éviter toute confusion avec la station Vaugirard ouverte trois ans plus tôt sur la ligne A (actuelle ligne 12) de la Société du chemin de fer électrique souterrain Nord-Sud de Paris (dite Nord-Sud), la station prend son nom actuel de Saint-Placide qu'elle tire de sa proximité avec la rue Saint-Placide, ainsi baptisée en hommage à saint Placide, qui fut l'un des disciples préférés de saint Benoît et le fondateur de l'ordre de Saint-Benoît. La station est ainsi la première d'une série de cinq sur le réseau dont le toponyme inaugural a été intégré au nom d'une station plus récente.",
+    "informations": "La rue Saint-Placide est une voie du 6e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Saint-Sébastien - Froissart",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Elle doit sa dénomination initiale de Saint-Sébastien à son implantation à l'amorce de la rue Saint-Sébastien d'une part et du passage Saint-Sébastien d'autre part, ces deux voies tirant elles-mêmes leur nom d'une enseigne baptisée en l'honneur du martyr romain saint Sébastien. Le , la station est renommée Saint-Sébastien - Froissart afin de souligner sa proximité avec la rue Froissart, laquelle rend hommage au poète, écrivain et historien Jean Froissart (1337-1400 environ), qui fut l'un des plus importants chroniqueurs de l'époque médiévale.",
+    "informations": null,
+    "personne": {
+        "nom": "Sébastien (martyr)",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Saint-Sulpice",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Saint-Sulpice est une station de la ligne 4 du métro de Paris, située dans le de Paris. == Situation == La station est située sous la rue de Rennes à l'intersection avec la rue du Vieux-Colombier.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Ségur",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec l'avenue de Ségur, laquelle rend hommage au maréchal de France Philippe Henri de Ségur (1724-1801), dit marquis de Ségur. La station porte comme sous-titre UNESCO du fait de la proximité du siège de cette institution spécialisée de l'Organisation des Nations unies.",
+    "informations": "L’avenue de Ségur est une avenue des 7e et 15e arrondissements de Paris.",
+    "personne": null
+},
+{
+    "station": "Sentier",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Sentier est une station de la ligne 3 du métro de Paris, située dans le de Paris. == Situation == La station est implantée à l'est du quartier du Mail, à sa limite administrative avec le quartier de Bonne-Nouvelle.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Serge Gainsbourg",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Mise en service le , elle porte le nom du célèbre artiste français . Il s'agit de la du métro de Paris .",
+    "informations": null,
+    "personne": {
+        "nom": "Serge Gainsbourg",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Sèvres - Babylone",
+    "theme": "À vérifier",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Sèvres - Babylone est une station des lignes 10 et 12 du métro de Paris, située à la limite des 6 et 7 arrondissements de Paris.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Sèvres-Lecourbe",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Elle est alors nommée Avenue de Suffren du fait de son implantation au débouché de l'avenue de Suffren, laquelle rend hommage à Pierre André de Suffren (1726-1788), bailli et commandeur de l’Ordre de Saint-Jean de Jérusalem, qui s’illustra comme chef d’escadre, aux Indes et en Amérique, contre les Anglais. Le , la est absorbée par la ligne 5, qui relie alors Étoile (aujourd'hui Charles de Gaulle - Étoile) à Lancry (actuelle Jacques Bonsergent) .",
+    "informations": "Un bailli (du latin bajulus, terme ayant revêtu de multiples significations) est, au sens général, le représentant d'une autorité sur un territoire. Plus particulièrement, les baillis et les sénéchaux étaient, en France, des officiers royaux exerçant par délégation les pouvoirs de justice et militaires sur une province du royaume. Les baillis de robe courte étaient nobles.",
+    "personne": {
+        "nom": "Bailli",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Simplon",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Son nom vient de la rue du Simplon, qui fait référence au col du Simplon, situé à d’altitude dans les Alpes suisses reliant le Valais et le Piémont, où Napoléon fit édifier une route en 1807. À proximité, le tunnel ferroviaire du Simplon relie la Suisse à l’Italie depuis 1906.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Solférino",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Solférino est une station de la ligne 12 du métro de Paris, située dans le de Paris. == Situation == La station est implantée à la limite administrative entre le quartier Saint-Thomas-d'Aquin à l'est et le quartier des Invalides à l'ouest.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Stalingrad",
+    "theme": "Personne",
+    "sous_theme": "Résistant",
+    "pourquoi_ce_nom": "Le nom du Boulevard de la Villette, repris à l'origine par le point d'arrêt de la ligne 7 avant d'être étendu à celui de la ligne 2, fait référence à l'ancienne commune de La Villette auquel le boulevard précité conduisait jadis, avant son annexion à Paris par l'arrêté du . Le toponyme actuel de Stalingrad, adopté le , vient de la proximité de la station avec la place de Stalingrad (actuelle place de la Bataille-de-Stalingrad), créée l'année précédente afin de commémorer la bataille de Stalingrad qui, durant la Seconde Guerre mondiale, se déroula entre et et vit la victoire de l'Armée rouge soviétique sur celle du Troisième Reich.",
+    "informations": "Paris est la capitale de la France (de facto) et le chef-lieu de la région Île-de-France. Elle est située au centre du Bassin parisien, sur une boucle de la Seine, entre les confluents avec la Marne et l'Oise. Le site est occupé à partir du IIIe siècle avant notre ère sous le nom Lutèce par le peuple gaulois des Parisii, qui donne plus tard son nom à la ville.",
+    "personne": {
+        "nom": "Paris",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Strasbourg - Saint-Denis",
+    "theme": "Personne",
+    "sous_theme": "Résistant",
+    "pourquoi_ce_nom": "Le terme « Saint-Denis » fait référence à saint Denis, apôtre des Gaules et premier évêque de Paris, qui donna son nom à la ville de Saint-Denis et à son abbaye. La rue Saint-Denis à Paris, située à proximité immédiate de la station, s'étend de la rue de Rivoli au sud jusqu’à la porte Saint-Denis, construite en mémoire des triomphes de Louis XIV en Hollande et en Allemagne.",
+    "informations": "Paris est la capitale de la France (de facto) et le chef-lieu de la région Île-de-France. Elle est située au centre du Bassin parisien, sur une boucle de la Seine, entre les confluents avec la Marne et l'Oise. Le site est occupé à partir du IIIe siècle avant notre ère sous le nom Lutèce par le peuple gaulois des Parisii, qui donne plus tard son nom à la ville.",
+    "personne": {
+        "nom": "Paris",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Sully - Morland",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Le terme « Morland » sera ajouté très rapidement, en 1930 ou en 1931 au nom de la station (devenant ainsi Sully - Morland) du fait de sa proximité avec le boulevard Morland, dénommé ainsi en hommage à François-Louis de Morlan dit Morland, colonel des Chasseurs de la Garde (1771-1805). François Mitterrand a précisé au journaliste Georges-Marc Benamou l’origine de son nom de code de Morland, lequel faisait partie des nombreux pseudonymes qu’il avait utilisés au cours de la Résistance : « Pourquoi Morland ?",
+    "informations": "Le boulevard Morland, anciennement connu sous le nom de quai Morland, est une voie située dans le 4e arrondissement de Paris, en France.",
+    "personne": null
+},
+{
+    "station": "Télégraphe",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Télégraphe est humoristiquement renommée « #Tweet » en référence au format de publication caractéristique du réseau social Twitter (rebaptisé progressivement X depuis 2023), afin de symboliser l'évolution des modes de transmission de messages au . Dans le cadre du prolongement de la ligne 11 jusqu'à Rosny-Bois-Perrier, les quais sont rehaussés et carrelés du au afin de permettre l'arrivée du nouveau matériel MP 14, nécessitant leur fermeture au public pendant toute la durée des travaux d'adaptation, puis un accès supplémentaire équipé d'un ascenseur est inauguré le à l'ouest de la station .",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Temple",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "== Services aux voyageurs == === Accès === La station dispose d'un unique accès intitulé « Place Élisabeth-Dmitrieff », débouchant sur la place précitée, formée par l'angle des rues du Temple et de Turbigo (baptisée en l’honneur d’Élisabeth Dmitrieff le à l'occasion de la Journée internationale des femmes). Constitué d'un escalier fixe, il est orné d'un édicule Guimard, lequel est inscrit au titre des monuments historiques initialement par l'arrêté du , abrogé depuis au profit de l'arrêté du .",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Ternes",
+    "theme": "Lieu géographique",
+    "sous_theme": "Ville ou commune",
+    "pourquoi_ce_nom": "Ternes est une station de la ligne 2 du métro de Paris, située à la limite des 8 et 17 arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier du Faubourg-du-Roule au sud-est et le quartier des Ternes au nord-est, non loin de leurs limites respectives avec le quartier de la Plaine-de-Monceaux au nord.",
+    "informations": "Le quartier des Ternes est le 65e quartier administratif de Paris situé dans le 17e arrondissement. Il est également considéré comme l'un des plus huppés de l'arrondissement, avec son voisin, le quartier de la plaine Monceau. Il est délimité par la place de l’Étoile, l'avenue de la Grande-Armée, la porte Maillot, le boulevard périphérique (et légèrement au-delà depuis 1929), la porte de Champerret, la rue Rennequin, le boulevard de Courcelles jusqu'à la place des Ternes et l'avenue de Wagram jusqu'au retour à la place de l'Étoile.",
+    "personne": null
+},
+{
+    "station": "Thiais - Orly (Pont de Rungis)",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Thiais - Orly est une station de la ligne 14 du métro de Paris, située sur la commune de Thiais dans le Val-de-Marne, mise en service le dans le cadre du prolongement sud de la ligne, réalisé par la Société du Grand Paris. == Situation == La station est implantée selon un axe nord–sud, au sud des voies du RER C et au nord de l’avenue du Docteur-Marie .",
+    "informations": "La France, en forme longue la République française, est un État souverain transcontinental dont le territoire métropolitain s'étend en Europe de l'Ouest et dont le territoire ultramarin s'étend dans les océans Indien, Atlantique et Pacifique, ainsi qu'en Antarctique et en Amérique du Sud. Le pays a des frontières terrestres avec la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne, Monaco et l'Andorre en Europe, auxquelles s'ajoutent les frontières terrestres avec le Brésil, le Suriname et les Pays-Bas aux Amériques. La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde.",
+    "personne": {
+        "nom": "France",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Tolbiac",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Tolbiac est une station de la ligne 7 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous l'avenue d'Italie, au nord de l'intersection avec la rue de Tolbiac.",
+    "informations": "La rue de Tolbiac est une voie du 13e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Trinité - d'Estienne d'Orves",
+    "theme": "Personne",
+    "sous_theme": "Résistant",
+    "pourquoi_ce_nom": "En , en même temps que la place et le square éponymes, la station est renommée Trinité - d'Estienne d'Orves, en hommage au résistant français Honoré d'Estienne d'Orves (1901-1941), fusillé par les Allemands à l'âge de 40 ans, le au mont Valérien. Cependant, sur les quais, la céramique entre les cadres publicitaires ne porte encore que le toponyme originel de « Trinité ».",
+    "informations": "Le mont Valérien est une colline française culminant à 161 mètres, située dans le département des Hauts-de-Seine, sur les territoires des communes de Suresnes (majoritairement), Nanterre et Rueil-Malmaison, à l'ouest de Paris (à environ douze kilomètres du parvis de Notre-Dame et deux kilomètres du pont de Suresnes, à la limite des territoires de Paris et Suresnes). Entre le XVIIe et le début du XIXe siècle, sa partie supérieure accueille un calvaire religieux, objet de pèlerinages, alors que ses coteaux sont occupés par des vignes. L'édifice est détruit à partir de 1841 et remplacé par la forteresse du Mont-Valérien, en vue de la protection de la capitale.",
+    "personne": {
+        "nom": "Mont Valérien",
+        "annee_naissance": 1841,
+        "annee_deces": 1870,
+        "siecles_vecus": [
+            "XIXe siècle"
+        ]
+    }
+},
+{
+    "station": "Trocadéro",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Trocadéro est une station des lignes 6 et 9 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous la place du Trocadéro-et-du-11-Novembre, les quais étant établis : * sur la ligne 6, approximativement selon un axe nord-sud sous le débouché de l'avenue Kléber, au nord de la place, entre les stations Boissière et Passy ; * sur la ligne 9, selon un axe est-ouest sous l'amorce de l'avenue Georges-Mandel, à l'ouest de la place, entre Rue de la Pompe et Iéna.",
+    "informations": "La place du Trocadéro-et-du-11-Novembre est une place du 16e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Tuileries",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Tuileries est une station de la ligne 1 du métro de Paris, située dans le de Paris. == Situation == La station est implantée à la limite administrative entre le quartier Saint-Germain-l'Auxerrois au sud et le quartier de la Place-Vendôme au nord, non loin de leurs limites respectives avec le quartier du Palais-Royal vers l'est.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Vaneau",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Vaneau, laquelle rend hommage à Louis Vaneau (1811-1830), polytechnicien mort lors de la révolution de Juillet 1830. Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés dans le courant des années 2000.",
+    "informations": "La rue Vaneau est une voie située dans le quartier des Invalides du 7e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Varenne",
+    "theme": "Personne",
+    "sous_theme": "Ingénieur ou inventeur",
+    "pourquoi_ce_nom": "La station doit sa dénomination à sa proximité avec la rue de Varenne — connue pour ses nombreux bâtiments gouvernementaux — dont le nom, d'origine incertaine, ferait référence à un lieu-dit, Varenne (ou Garenne), qui appartenait à l'abbaye de Saint-Germain-des-Prés.",
+    "informations": "L'abbaye Saint-Germain-des-Prés (Sancti Germani de pratis), qui comprend l'actuelle église Saint-Germain-des-Prés, est une ancienne abbaye bénédictine de Paris (France), située 3 place Saint-Germain-des-Prés dans l'actuel 6e arrondissement. Fondée au milieu du VIe siècle sous le nom de basilique Sainte-Croix et Saint-Vincent par le roi mérovingien Childebert Ier et saint Germain, évêque de Paris, elle doit son nom actuel à ce dernier. C'est une abbaye royale, qui bénéficie donc d'une exemption et est directement soumise au pape.",
+    "personne": {
+        "nom": "Abbaye de Saint-Germain-des-Prés",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Vaugirard",
+    "theme": "Personne",
+    "sous_theme": "Ingénieur ou inventeur",
+    "pourquoi_ce_nom": "Le nom de ce dernier est une déformation de « val Gérard », en hommage à Gérard de Moret, abbé de Saint-Germain. Il contribua au à l'essor de ce qui était alors un hameau, qui s'est successivement appelé « Valgérard », « Vaulgérard » et enfin « Vaugirard ».",
+    "informations": "L'abbaye Saint-Germain-des-Prés (Sancti Germani de pratis), qui comprend l'actuelle église Saint-Germain-des-Prés, est une ancienne abbaye bénédictine de Paris (France), située 3 place Saint-Germain-des-Prés dans l'actuel 6e arrondissement. Fondée au milieu du VIe siècle sous le nom de basilique Sainte-Croix et Saint-Vincent par le roi mérovingien Childebert Ier et saint Germain, évêque de Paris, elle doit son nom actuel à ce dernier. C'est une abbaye royale, qui bénéficie donc d'une exemption et est directement soumise au pape.",
+    "personne": {
+        "nom": "Abbaye de Saint-Germain-des-Prés",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Vavin",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Elle doit sa dénomination à sa proximité avec la rue Vavin, laquelle rend hommage à Alexis Vavin (1792-1863), homme politique français du , élu député de Paris en 1839. Lors de la crue de la Seine de 1910, la station joue le rôle de terminus depuis Porte d'Orléans à compter du en raison de l'inondation du tronçon central de la ligne 4, qui interrompt le trafic jusqu'à Gare du Nord .",
+    "informations": "La rue Vavin est une rue du 6e arrondissement de Paris.",
+    "personne": null
+},
+{
+    "station": "Victor Hugo",
+    "theme": "Personne",
+    "sous_theme": "Auteur",
+    "pourquoi_ce_nom": "Victor Hugo est humoristiquement renommée « Victor Hugo Lloris » en hommage au gardien de but Hugo Lloris, capitaine de la sélection française au cours de cette édition de la compétition. Selon les estimations de la RATP, la station a vu entrer en 2019, ce qui la place à la des stations de métro pour sa fréquentation .",
+    "informations": null,
+    "personne": {
+        "nom": "Victor Hugo",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+},
+{
+    "station": "Villejuif - Gustave Roussy",
+    "theme": "Lieu géographique",
+    "sous_theme": "Ville ou commune",
+    "pourquoi_ce_nom": "Finalement, comme annoncé le , les votants ont choisi le nom Villejuif - Gustave Roussy qui rend hommage au neurologue, neuropathologiste et cancérologue franco-suisse (1874-1948) qui a fondé l'institut du même nom qui se trouve à proximité de la station . Le ministère de la Culture annonce qu'elle sera labellisée « Architecture contemporaine remarquable ».",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Villejuif Léo Lagrange",
+    "theme": "Personne",
+    "sous_theme": "Personnalité politique",
+    "pourquoi_ce_nom": "Sa dénomination actuelle rend hommage à l’avocat socialiste Léo Lagrange (1900-1940). En 2019, sont entrés à cette station ce qui la place à la des stations de métro pour sa fréquentation sur 302 .",
+    "informations": "François Léo Lagrange, dit Léo Lagrange, né le 28 novembre 1900 à Bourg-sur-Gironde et mort au combat le 9 juin 1940 à Évergnicourt, est un homme politique socialiste français, sous-secrétaire d'État aux sports et à l'organisation des loisirs sous le Front populaire. Membre des Éclaireurs de France dans sa jeunesse, il rejoint la Section française de l'Internationale ouvrière (SFIO) après la scission de Tours en 1920 et devient rédacteur au Populaire, l'organe de presse de la SFIO. Élu député en 1932 lors du second Cartel des gauches, il est ensuite nommé sous-secrétaire d'État sous le gouvernement Blum.",
+    "personne": {
+        "nom": "Léo Lagrange",
+        "annee_naissance": 1900,
+        "annee_deces": 1940,
+        "siecles_vecus": [
+            "XIXe siècle",
+            "XXe siècle"
+        ]
+    }
+},
+{
+    "station": "Villejuif - Louis Aragon",
+    "theme": "Personne",
+    "sous_theme": "Auteur",
+    "pourquoi_ce_nom": "Elle est située près du croisement de l'ancienne route nationale 7 et de voies transversales dont l'une porte le nom de Louis Aragon, écrivain français né à Paris en 1897 et décédé en 1982. Cette station est le terminus d'une des deux branches de la ligne ; le terminus sur l'autre branche est Mairie d'Ivry.",
+    "informations": "Louis Aragon, né probablement le 3 octobre 1897 à Paris et mort le 24 décembre 1982 dans la même ville, est un poète, romancier et journaliste français. Avec André Breton, Tristan Tzara, Paul Éluard, Philippe Soupault, il est l'un des animateurs du dadaïsme parisien et du surréalisme. Après sa rupture avec le surréalisme en 1931, il s'engage pleinement dans le Parti communiste français, auquel il avait adhéré en 1927, et dans la doctrine littéraire du réalisme socialiste.",
+    "personne": {
+        "nom": "Louis Aragon",
+        "annee_naissance": 1897,
+        "annee_deces": 1982,
+        "siecles_vecus": [
+            "XIXe siècle",
+            "XXe siècle"
+        ]
+    }
+},
+{
+    "station": "Villejuif Paul Vaillant-Couturier",
+    "theme": "Personne",
+    "sous_theme": "Auteur",
+    "pourquoi_ce_nom": "Elle est située près du croisement de l'ancienne route nationale 7 et de voies transversales dont l'une, l'avenue Paul-Vaillant-Couturier, porte le nom du journaliste Paul Vaillant-Couturier (1892-1937), député communiste de 1919 à 1928 puis en 1936 et, à partir de 1928, rédacteur en chef du journal L'Humanité. Elle porte comme sous-titre Hôpital Paul Brousse, nom de l'hôpital AP-HP accessible à .",
+    "informations": "Paul Couturier, connu sous le pseudonyme de Paul Vaillant-Couturier, né le 8 janvier 1892 à Paris et mort le 10 octobre 1937 dans la même ville, est un écrivain, journaliste et homme politique français. Il a participé à la fondation du Parti communiste français. Il est député de la Seine de 1919 à 1928 et de 1936 à 1937 et maire de Villejuif de 1929 à 1937.",
+    "personne": {
+        "nom": "Paul Vaillant-Couturier",
+        "annee_naissance": 1892,
+        "annee_deces": 1937,
+        "siecles_vecus": [
+            "XIXe siècle",
+            "XXe siècle"
+        ]
+    }
+},
+{
+    "station": "Villiers",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Elle doit sa dénomination — ultérieurement simplifiée en Villiers — à sa proximité avec l'avenue de Villiers, dont le nom fait référence à l'ancien village de Villiers-la-Garenne. Le nom de cet ancien hameau, localisé sur l'emplacement de l'actuelle place de la Libération à Levallois-Perret, est une déformation de « Villare » .",
+    "informations": "L’avenue de Villiers est une rue du 17e arrondissement de Paris",
+    "personne": null
+},
+{
+    "station": "Volontaires",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Volontaires est une station de la ligne 12 du métro de Paris, située dans le de Paris. == Situation == La station est implantée sous la rue de Vaugirard à son intersection avec la rue des Volontaires, au sein du quartier Necker.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Voltaire",
+    "theme": "Autre",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "La station porte comme sous-titre Léon Blum à la suite du changement de nom en 1957 de la place précitée, rebaptisée en l'honneur de Léon Blum (1872-1950), homme d'État français et figure du socialisme. Ce sous-titre ne figure cependant pas sur les plans.",
+    "informations": null,
+    "personne": null
+},
+{
+    "station": "Wagram",
+    "theme": "Personne",
+    "sous_theme": "Militaire",
+    "pourquoi_ce_nom": "Elle doit son nom à sa proximité avec l'avenue de Wagram, ouverte en 1853 après la disparition du mur des Fermiers généraux, et dénommée en commémoration de la bataille de Wagram. Dans les années 1960, les quais font l'objet d'une première modernisation par la mise en place d'un carrossage métallique sur les piédroits, doté de montants horizontaux de couleur vert d'eau ainsi que de cadres publicitaires dorés, éclairés par le haut.",
+    "informations": "La bataille de Wagram est une bataille de la campagne d'Allemagne et d'Autriche durant la guerre de la cinquième coalition qui fut décisive pour son issue. Elle a eu lieu du 5 au 6 juillet 1809 dans les plaines Marchfeld (de), sur la rive nord du Danube, la principale zone de combats se localisant aux environs du village de Deutsch-Wagram, à 10 km au nord-est de Vienne. Les deux jours de lutte ont vu s'imposer l'armée impériale française, sous le commandement de Napoléon Ier face à l'armée impériale autrichienne commandée par l'archiduc Charles d'Autriche-Teschen.",
+    "personne": {
+        "nom": "Bataille de Wagram",
+        "annee_naissance": null,
+        "annee_deces": null,
+        "siecles_vecus": []
+    }
+}
+]

@@ -1,0 +1,22 @@
+{
+    "station": "Louvre Rivoli",
+    "theme": "À vérifier",
+    "sous_theme": "À vérifier",
+    "pourquoi_ce_nom": "Louvre - Rivoli est une station de la ligne 1 du métro de Paris, située dans le 1er arrondissement de Paris. == Situation == La station est implantée sous la rue de Rivoli, à l'ouest de son intersection avec la rue du Louvre.",
+    "informations": null,
+    "personne": null,
+    "source_station": {
+        "titre": "Louvre - Rivoli (métro de Paris)",
+        "url": "https://fr.wikipedia.org/wiki/Louvre_-_Rivoli_(m%C3%A9tro_de_Paris)",
+        "resume": "Louvre - Rivoli est une station de la ligne 1 du métro de Paris, située dans le 1er arrondissement de Paris."
+    },
+    "source_origine": null,
+    "confiance": {
+        "page_station": "élevée",
+        "origine_nom": "moyenne",
+        "classification": "faible"
+    },
+    "avertissements": [
+        "Entite a l'origine du nom non identifiee."
+    ]
+}

@@ -1,0 +1,2430 @@
+{
+    "Abbesses": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.884392717991425,
+            "longitude": 2.338394635220906
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Place",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La place des Abbesses est située sur la butte Montmartre, dans le quartier de Clignancourt du 18e arrondissement de Paris. Elle fait référence aux dirigeantes de l'abbaye des Dames de Montmartre.",
+            "description longue": "Origine du nom [ modifier | modifier le code ] La station doit sa dénomination à son implantation sous la place des Abbesses , laquelle fait référence aux dirigeantes de l' abbaye des Dames de Montmartre , figures du quartier à l'époque, et dont plusieurs ont des rues à leur nom dans les 9 et 18 arrondissements, comme Marguerite de Rochechouart , Louise-Émilie de La Tour d'Auvergne , Catherine de La Rochefoucauld ou Marie-Éléonore de Bellefond . Abbesses se situe en première position des stations du réseau classées par ordre alphabétique."
+        },
+        "tags": [
+            "L'architecture religieuse",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Aimé Césaire": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Aubervilliers",
+            "code_insee": "93001",
+            "latitude": 48.90838312983791,
+            "longitude": 2.378035995881576
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Auteur",
+            "siecles": [
+                "XXe siècle",
+                "XXIe siècle"
+            ],
+            "details_personne": {
+                "nom": "Aimé Césaire",
+                "annee_naissance": 1913,
+                "annee_deces": 2008,
+                "siecles_vecus": [
+                    "XXe siècle",
+                    "XXIe siècle"
+                ]
+            },
+            "description courte": "Aimé Césaire, né le 26 juin 1913 à Basse-Pointe (Martinique) et mort le 17 avril 2008 à Fort-de-France, en Martinique, est un écrivain et homme politique français, à la fois député, maire, poète, dramaturge, essayiste et biographe. Fondateur et représentant majeur du mouvement littéraire de la négritude — avec Léopold Sédar Senghor et Léon-Gontran Damas —, anticolonialiste résolu, il mène en parallèle une carrière politique en tant que député de la Martinique et maire de Fort-de-France durant cinquante-six années consécutives, de 1945 à 2001. Il est l’époux de Suzanne Roussi-Césaire.",
+            "description longue": "Dénomination [ modifier | modifier le code ] Après la mort du poète martiniquais Aimé Césaire en 2008, des élus ont souhaité donner son nom à une station de métro. Jean-Christophe Lagarde , maire de Drancy , a proposé alors qu'il soit donné à la station un moment nommée Proudhon - Gardinoux mais, la RATP exigeant que l' odonymie du quartier soit en rapport avec le nom de la station, le STIF a décidé en 2011 que la station Proudhon - Gardinoux porterait le nom Front populaire ."
+        },
+        "tags": [
+            "Arts et Culture",
+            "Écrivains et Philosophes"
+        ]
+    },
+    "Alexandre Dumas": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.856199097341126,
+            "longitude": 2.3945914186721278
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Auteur",
+            "siecles": [
+                "XIXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Alexandre Dumas",
+                "annee_naissance": 1802,
+                "annee_deces": 1870,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "description courte": "Alexandre Dumas (dit aussi Alexandre Dumas père) est un écrivain français né le 24 juillet 1802 à Villers-Cotterêts (Aisne) et mort le 5 décembre 1870 au hameau de Puys, ancienne commune de Neuville-lès-Dieppe, aujourd'hui intégrée à Dieppe (Seine-Maritime). Il est le fils de Marie-Louise Labouret (1769–1838) et Thomas Alexandre Dumas (1762-1806) (né à Saint-Domingue, actuelle Haïti), dit le général Dumas. Il est aussi le père des écrivains Henry Bauër (1851-1915) et Alexandre Dumas (1824-1895), dit Dumas fils, auteur de La Dame aux camélias.",
+            "description longue": "Le 13 septembre 1970, afin d'éviter toute confusion avec la nouvelle station Porte de Bagnolet de la ligne 3, ouverte lors de son prolongement à l'est jusqu'à Gallieni le 2 avril 1971, la station de la ligne 2 est rebaptisée Alexandre Dumas en référence à la rue Alexandre-Dumas, située à quelques centaines de mètres plus au sud, laquelle rend hommage à l'écrivain Alexandre Dumas (1802-1870). Dans le cadre du programme « Renouveau du métro » de la RATP, les couloirs de la station et l'éclairage des quais sont rénovés le 12 mai 2005."
+        },
+        "tags": [
+            "Arts et Culture",
+            "Écrivains et Philosophes"
+        ]
+    },
+    "Alma - Marceau": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8647282422178,
+            "longitude": 2.301130527470699
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Bataille",
+            "siecles": [
+                "XVIIIe siècle"
+            ],
+            "details_personne": {
+                "nom": "François Séverin Marceau",
+                "annee_naissance": 1769,
+                "annee_deces": 1796,
+                "siecles_vecus": [
+                    "XVIIIe siècle"
+                ]
+            },
+            "description courte": "La bataille de l'Alma s'est déroulée en 1854 pendant la guerre de Crimée. François Séverin Marceau était un général de la Révolution française.",
+            "description longue": "La station reprend d'autre part le nom de l'avenue Marceau, ainsi baptisée en hommage au général François Séverin Marceau-Desgravier (1769-1796), qui combattit les révoltés vendéens au cours de la période révolutionnaire. Comme c’est le cas pour un tiers des stations du réseau entre 1974 et 1984, ses quais sont modernisés en style « Andreu-Motte », en l'occurrence dans une nuance de bleu qui ne sera pas reconduite."
+        },
+        "tags": []
+    },
+    "Alésia": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.82820106421924,
+            "longitude": 2.3270932349484528
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Bataille",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "Le siège d'Alésia est une bataille décisive de la fin de la guerre des Gaules qui voit la défaite d'une coalition de peuples gaulois menée par Vercingétorix face à l'armée romaine de Jules César. Elle se déroule entre les mois de juillet et de septembre 52 av. J.-C.",
+            "description longue": "Alésia est une station de la ligne 4 du métro de Paris, située dans le quartier du Petit-Montrouge du 14e arrondissement de Paris. == Situation == La station est établie sous la place Victor-et-Hélène-Basch et ses abords, dominés par l'église Saint-Pierre de Montrouge."
+        },
+        "tags": [
+            "Les victoires et batailles militaires"
+        ]
+    },
+    "Anatole France": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Levallois-Perret",
+            "code_insee": "92044",
+            "latitude": 48.89223258539651,
+            "longitude": 2.2848122193525104
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Auteur",
+            "siecles": [
+                "XIXe siècle",
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Anatole France",
+                "annee_naissance": 1844,
+                "annee_deces": 1924,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "Anatole France, pour l'état civil François Anatole Thibault, né le 16 avril 1844 à Paris et mort le 12 octobre 1924 à Saint-Cyr-sur-Loire (Indre-et-Loire), est un écrivain français. Il est considéré comme l’un des plus grands de l'époque de la Troisième République, dont il a également été un des plus importants critiques littéraires. Il devient une des consciences les plus significatives de son temps en s’engageant en faveur de nombreuses causes sociales et politiques du début du XXe siècle.",
+            "description longue": "== Histoire == Cette station doit son nom à la rue Anatole-France (anciennement rue de Cormeille) que la ligne 3 dessert. Cette rue de Levallois-Perret rend hommage à François Anatole Thibault, dit Anatole France (1844-1924), écrivain français, académicien et prix Nobel de littérature en 1921."
+        },
+        "tags": [
+            "Arts et Culture",
+            "Écrivains et Philosophes"
+        ]
+    },
+    "Anvers": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.882868568843925,
+            "longitude": 2.3441548403302916
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Ville",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "Anvers (prononcé /ɑ̃.vɛʁs/, en néerlandais : Antwerpen [ˀant.ˈwɛʁ.pn]) est une ville belge dans la Région flamande, chef-lieu de la province d'Anvers et de l'arrondissement administratif du même nom, située au cœur de la Dorsale européenne. Le 1er janvier 2026, la commune d’Anvers était la plus peuplée de Belgique, devant Gand et Charleroi, avec 565 615 habitants. L’agglomération anversoise compte 1 250 000 habitants, ce qui la classe deuxième de Belgique, après Bruxelles.",
+            "description longue": "Anvers est une station de la ligne 2 du métro de Paris, située à la limite des 9e et 18e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier de Rochechouart au sud et le quartier de Clignancourt au nord."
+        },
+        "tags": []
+    },
+    "Argentine": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.875383816476266,
+            "longitude": 2.290148271742768
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Pays",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "L'Argentine (prononcé en français : [aʁʒɑ̃tin] ; prononcé en espagnol : [aɾxenˈtina] ), en forme longue la République argentine (prononcé en espagnol : [reˈpuβlika aɾxenˈtina]), est un pays d'Amérique du Sud partageant ses frontières avec le Chili à l'ouest, la Bolivie et le Paraguay au nord, le Brésil et l'Uruguay au nord-est, et enfin l'océan Atlantique à l'est et au sud. Son territoire américain continental couvre une grande partie du Cône Sud. L'Argentine est une république fédérale ayant un régime présidentiel.",
+            "description longue": "Le 24 mars 2006, une plaque commémorative est inaugurée sur le tympan occidental du quai en direction de La Défense, portant la mention en espagnol Nunca más (signifiant littéralement en français : « Plus jamais »), « en hommage aux citoyens argentins et français enlevés, détenus et disparus en Argentine sous la dictature militaire (1976-1983) » et « à toutes les victimes de la répression ». Une petite exposition sur l'Argentine a également été ouverte au milieu du quai direction Château De Vincennes."
+        },
+        "tags": []
+    },
+    "Arts et Métiers": {
+        "geographie": {
+            "lignes": [
+                "11",
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86553459885931,
+            "longitude": 2.3567233472754983
+        },
+        "histoire": {
+            "type_origine": "Institution",
+            "sous_type_origine": "Enseignement",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "L'École nationale supérieure d'arts et métiers (ENSAM, de nom de marque Arts et Métiers Sciences et Technologies, Arts et Métiers ParisTech ou Arts et Métiers) est l'une des 204 écoles d'ingénieurs françaises accréditées au 1er septembre 2020 à délivrer un diplôme d'ingénieur. Elle fait partie de ParisTech, réseau qui regroupe quelques grandes écoles d'ingénieurs de la région parisienne. Arts et Métiers est une école d'ingénieurs de France, fondée en 1780 par le duc de La Rochefoucauld-Liancourt.",
+            "description longue": "Arts et Métiers est une station des lignes 3 et 11 du métro de Paris, située dans le 3e arrondissement de Paris. == Situation == La station est implantée à l'intersection des rues Beaubourg, Réaumur et de Turbigo, au sein du quartier des Arts-et-Métiers, les quais étant établis : sur la ligne 3, en courbe sous l'angle formé par ces deux dernières rues et orientée est-ouest ; sur la ligne 11, plus à l'est selon l'axe approximativement orienté est-ouest de la rue Réaumur."
+        },
+        "tags": [
+            "L'ingénierie et l'industrie",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Asnières - Gennevilliers - Les Courtilles": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Gennevilliers",
+            "code_insee": "92036",
+            "latitude": 48.93076460500162,
+            "longitude": 2.2842197492931637
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Quartier",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "Les Courtilles fait référence à un quartier situé à la limite d'Asnières-sur-Seine et de Gennevilliers.",
+            "description longue": "Les Courtilles est une station de la ligne 13 du métro de Paris, située à la limite des communes d'Asnières-sur-Seine et Gennevilliers. Cette 299e station du métro de Paris, ouverte le 14 juin 2008, est, depuis cette date, le terminus de la ligne 13 sur sa branche nord-ouest."
+        },
+        "tags": []
+    },
+    "Assemblée Nationale": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.861071939526084,
+            "longitude": 2.320575836647556
+        },
+        "histoire": {
+            "type_origine": "Institution",
+            "sous_type_origine": "Politique",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "L'Assemblée nationale est le nom souvent donné au Parlement d'un État dans le système monocaméral ou à sa chambre basse dans le système législatif bicaméral. Il est utilisé dans plus d'un tiers de tous les pays du monde (voir liste plus bas : 75 pays sur environ 195 pays reconnus dans le monde). Le terme est notamment présent dans les pays francophones ou dans ceux qui ont été une colonie française, mais pas seulement.",
+            "description longue": "Assemblée nationale (anciennement Chambre des députés) est une station de la ligne 12 du métro de Paris, située dans le 7e arrondissement de Paris. == Situation == La station se trouve entre les stations Concorde et Solférino."
+        },
+        "tags": [
+            "Histoire et Politique"
+        ]
+    },
+    "Aubervilliers - Pantin - Quatre Chemins": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Pantin",
+            "code_insee": "93055",
+            "latitude": 48.90375706036556,
+            "longitude": 2.3922205712292195
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Carrefour",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "Le lieu-dit des Quatre Chemins est un carrefour majeur entre les communes d'Aubervilliers et de Pantin.",
+            "description longue": "Aubervilliers - Pantin - Quatre Chemins est une station de la ligne 7 du métro de Paris, située à la limite des communes d'Aubervilliers et de Pantin, sous l'avenue Jean-Jaurès. == Situation == La station est implantée sous l'avenue Jean-Jaurès (RD 932) au nord-est de l'intersection avec l'avenue Édouard-Vaillant et l'avenue de la République, ces deux dernières voies formant la route D 20."
+        },
+        "tags": []
+    },
+    "Avenue Émile Zola": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84695722990175,
+            "longitude": 2.2950459810371475
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Auteur",
+            "siecles": [
+                "XIXe siècle",
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Émile Zola",
+                "annee_naissance": 1840,
+                "annee_deces": 1902,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "Émile Zola est un écrivain et journaliste français, considéré comme le chef de file du naturalisme.",
+            "description longue": "Avenue Émile-Zola est une station de la ligne 10 du métro de Paris, située dans le 15e arrondissement de Paris. == Situation == La station est implantée sous l'extrémité orientale de l'avenue Émile-Zola, à l'ouest de son débouché sur l'intersection avec la rue du Commerce, la rue Fondary et la rue Frémicourt qui prolonge ladite avenue vers l'est, au sein du quartier de Grenelle."
+        },
+        "tags": [
+            "Arts et Culture",
+            "Écrivains et Philosophes"
+        ]
+    },
+    "Avron": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85161645805963,
+            "longitude": 2.3980666384995177
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Plateau",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "Le nom de la station fait référence à la rue d'Avron, qui elle-même tire son nom du plateau d'Avron, un relief de Seine-Saint-Denis ayant eu un rôle défensif pendant la guerre de 1870.",
+            "description longue": "Avron est une station de la ligne 2 du métro de Paris, située à la limite des 11e et 20e arrondissements de Paris. == Situation == La station est implantée à la limite administrative entre le quartier Sainte-Marguerite à l'ouest et le quartier de Charonne à l'est."
+        },
+        "tags": []
+    },
+    "Aéroport d'Orly": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Paray-Vieille-Poste",
+            "code_insee": "91479",
+            "latitude": 48.72769656117165,
+            "longitude": 2.362458738946496
+        },
+        "histoire": {
+            "type_origine": "Lieu géographique",
+            "sous_type_origine": "Aéroport",
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "L'aéroport de Paris-Orly est l'un des principaux aéroports français, situé au sud de Paris.",
+            "description longue": "Construite dans le cadre du Grand Paris Express, Aéroport d'Orly est une station terminus de la ligne 14 du métro de Paris, située au sein de l'enceinte de l'aéroport d'Orly, sur le territoire de la commune de Paray-Vieille-Poste. Elle doit être également la station terminus de la ligne 18 en 2027."
+        },
+        "tags": []
+    },
+    "Bagneux - Lucie Aubrac": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Bagneux",
+            "code_insee": "92007",
+            "latitude": 48.80354822259104,
+            "longitude": 2.317458362049886
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Résistante",
+            "siecles": [
+                "XXe siècle",
+                "XXIe siècle"
+            ],
+            "details_personne": {
+                "nom": "Lucie Aubrac",
+                "annee_naissance": 1912,
+                "annee_deces": 2007,
+                "siecles_vecus": [
+                    "XXe siècle",
+                    "XXIe siècle"
+                ]
+            },
+            "description courte": "Lucie Aubrac est une figure majeure de la Résistance intérieure française pendant la Seconde Guerre mondiale.",
+            "description longue": "La dénomination de la station rend hommage à Lucie Aubrac (1912 - 2007), professeure d'histoire, militante communiste, pacifiste, et résistante durant la Seconde Guerre mondiale. Elle doit sa dénomination à la demande de la commune de Bagneux, afin qu'Île-de-France Mobilités accepte que les franciliens choisissent le nom de la station de métro."
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les Femmes Illustres"
+        ]
+    },
+    "Balard": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83666789483108,
+            "longitude": 2.2783626618092008
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Scientifique",
+            "siecles": [
+                "XIXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Antoine-Jérôme Balard",
+                "annee_naissance": 1802,
+                "annee_deces": 1876,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "description courte": "Antoine-Jérôme Balard, né le 30 septembre 1802 à Montpellier et mort le 30 mars 1876 à Paris, est un pharmacien et chimiste français, célèbre pour avoir découvert le brome en 1826.",
+            "description longue": "Balard est une station de la ligne 8 du métro de Paris, dont elle constitue le terminus occidental, située dans le 15e arrondissement de Paris. == Situation == La station est implantée aux abords de la porte de Sèvres, située au sud du quartier de Javel."
+        },
+        "tags": []
+    },
+    "Barbara": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Bagneux",
+            "code_insee": "92007",
+            "latitude": 48.8097987811254,
+            "longitude": 2.3174174096489284
+        },
+        "histoire": {
+            "type_origine": "Personne",
+            "sous_type_origine": "Artiste",
+            "siecles": [
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Barbara",
+                "annee_naissance": 1930,
+                "annee_deces": 1997,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "Barbara (à ses débuts Barbara Brodi, officiellement Monique Serf) est une autrice-compositrice-interprète française, née le 9 juin 1930 à Paris 17e et morte le 24 novembre 1997 à Neuilly-sur-Seine (Hauts-de-Seine). Sa poésie, servie par l'harmonie de ses compositions et la finesse de ses interprétations, lui assure un public fidèle quarante ans durant. Nombre de ses chansons sont devenues des classiques de la chanson française, notamment : Une petite cantate, Dis, quand reviendras-tu ?, Nantes, Göttingen, La Dame brune, L'Aigle noir, Marienbad ou encore Ma plus belle histoire d'amour.",
+            "description longue": "Lors de sa séance de décembre 2016, le Conseil de Paris émet le vœu que la RATP dénomme la future station de la ligne 14 située au Pont Cardinet du nom de « Pont Cardinet - Barbara » et étudie l'installation dans celle-ci d’une exposition permanente en hommage à Barbara. Ce souhait n'a pas eu de suite mais une station de métro située à la limite de Montrouge et de Bagneux, portant uniquement le nom de la chanteuse, est ouverte le 13 janvier 2022 sur le prolongement sud de la ligne 4 du métro de Paris."
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Arts et Culture"
+        ]
+    },
+    "Barbès - Rochechouart": {
+        "geographie": {
+            "lignes": [
+                "2",
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.883852349861876,
+            "longitude": 2.350573400888514
+        },
+        "histoire": {
+            "type_origine": "Personnes",
+            "sous_type_origine": "Politique / Religieuse",
+            "siecles": [
+                "XVIIe siècle",
+                "XVIIIe siècle",
+                "XIXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Armand Barbès / Marguerite de Rochechouart",
+                "annee_naissance": 1665,
+                "annee_deces": 1870,
+                "siecles_vecus": [
+                    "XVIIe siècle",
+                    "XVIIIe siècle",
+                    "XIXe siècle"
+                ]
+            },
+            "description courte": "Armand Barbès était un homme politique français. Marguerite de Rochechouart était une religieuse, abbesse de Montmartre.",
+            "description longue": "=== Origine des noms === La station doit sa dénomination initiale de Boulevard Barbès à sa proximité avec la voie précitée, laquelle rend hommage à l'homme politique français Armand Barbès (1809-1870). Le nom de Rochechouart, rajouté le 15 octobre 1907, provient du voisinage du boulevard de Rochechouart (actuel boulevard Marguerite-de-Rochechouart), dont le toponyme honore la religieuse Marguerite de Rochechouart de Montpipeau (1665-1727)."
+        },
+        "tags": []
+    },
+    "Basilique de Saint-Denis": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Saint-Denis",
+            "code_insee": "93066",
+            "latitude": 48.93659371717278,
+            "longitude": 2.359202621115829
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Basilique de Saint-Denis constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "L'architecture religieuse",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Bastille": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "5",
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85196422011205,
+            "longitude": 2.368692796099789
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La place de la Bastille est un nœud majeur de la circulation parisienne.",
+            "description longue": "La station tire son nom de l'ancienne forteresse de la Bastille, détruite lors de la Révolution française en 1789."
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Révolution et République"
+        ]
+    },
+    "Bel-Air": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84142733223358,
+            "longitude": 2.400867131995259
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bel-Air constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Belleville": {
+        "geographie": {
+            "lignes": [
+                "11",
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.871908975367674,
+            "longitude": 2.376753738418521
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Belleville constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bercy": {
+        "geographie": {
+            "lignes": [
+                "14",
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84014763512746,
+            "longitude": 2.3791909087742873
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bercy constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bibliothèque François Mitterrand": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.830006377536904,
+            "longitude": 2.3764237443204546
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bibliothèque François Mitterrand constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Billancourt": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Boulogne-Billancourt",
+            "code_insee": "92012",
+            "latitude": 48.83191997405451,
+            "longitude": 2.237891101038026
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Billancourt constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bir-Hakeim": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85388427726308,
+            "longitude": 2.2892963570634604
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bir-Hakeim constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les victoires et batailles militaires"
+        ]
+    },
+    "Blanche": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.88376635447715,
+            "longitude": 2.3324843754343627
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Blanche constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bobigny - Pablo Picasso": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Bobigny",
+            "code_insee": "93008",
+            "latitude": 48.9063655341063,
+            "longitude": 2.4490271414582585
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIXe siècle",
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Pablo Picasso",
+                "annee_naissance": 1881,
+                "annee_deces": 1973,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Bobigny - Pablo Picasso constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Arts et Culture",
+            "Peintres, Sculpteurs et Poètes"
+        ]
+    },
+    "Bobigny-Pantin - Raymond Queneau": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Bobigny",
+            "code_insee": "93008",
+            "latitude": 48.89563789793626,
+            "longitude": 2.426277595760804
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bobigny-Pantin - Raymond Queneau constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Arts et Culture",
+            "Peintres, Sculpteurs et Poètes"
+        ]
+    },
+    "Boissière": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8668483434173,
+            "longitude": 2.2900328376074373
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Boissière constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bolivar": {
+        "geographie": {
+            "lignes": [
+                "7B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.880789805531926,
+            "longitude": 2.374152140698752
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bolivar constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bonne Nouvelle": {
+        "geographie": {
+            "lignes": [
+                "8",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87048144580479,
+            "longitude": 2.348496122542364
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bonne Nouvelle constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Botzaris": {
+        "geographie": {
+            "lignes": [
+                "7B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87943610160117,
+            "longitude": 2.388908111185046
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Botzaris constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Boucicaut": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.841024160993214,
+            "longitude": 2.2879184311245595
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Boucicaut constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les Femmes Illustres"
+        ]
+    },
+    "Boulogne Jean Jaurès": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Boulogne-Billancourt",
+            "code_insee": "92012",
+            "latitude": 48.841991575324506,
+            "longitude": 2.239077780728926
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Boulogne Jean Jaurès constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Boulogne Pont de Saint-Cloud": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Boulogne-Billancourt",
+            "code_insee": "92012",
+            "latitude": 48.84067248206251,
+            "longitude": 2.2283125898228056
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Boulogne Pont de Saint-Cloud constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Topographie et Urbanisme"
+        ]
+    },
+    "Bourse": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.868792843933164,
+            "longitude": 2.3406785469758815
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bourse constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "L'ingénierie et l'industrie",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Brochant": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.89062201554889,
+            "longitude": 2.3201902468999456
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Brochant constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Mathématiques, Physique et Biologie",
+            "Sciences et Techniques"
+        ]
+    },
+    "Bréguet-Sabin": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8562178110506,
+            "longitude": 2.3703346849773035
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bréguet-Sabin constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Buttes Chaumont": {
+        "geographie": {
+            "lignes": [
+                "7B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.878422971131464,
+            "longitude": 2.381632921459486
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Buttes Chaumont constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Buzenval": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85176243983227,
+            "longitude": 2.401170769368413
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Buzenval constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Bérault": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Vincennes",
+            "code_insee": "94080",
+            "latitude": 48.84554919216388,
+            "longitude": 2.4290262652466583
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Bérault constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Cadet": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87604838013132,
+            "longitude": 2.3443838837796562
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Cadet constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Cambronne": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84754311219352,
+            "longitude": 2.3029417283376117
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Cambronne constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Campo-Formio": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83554293374935,
+            "longitude": 2.3587419566993457
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Campo-Formio constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les victoires et batailles militaires"
+        ]
+    },
+    "Cardinal Lemoine": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84670003526311,
+            "longitude": 2.3513280016731763
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Cardinal Lemoine constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Carrefour Pleyel": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Saint-Denis",
+            "code_insee": "93066",
+            "latitude": 48.91897668662174,
+            "longitude": 2.342621763486782
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Carrefour Pleyel constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Censier - Daubenton": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84026600820119,
+            "longitude": 2.351495277596339
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Censier - Daubenton constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Champs-Élysées - Clemenceau": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86737454799625,
+            "longitude": 2.3139501860093175
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Champs-Élysées - Clemenceau constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Chardon Lagache": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84508829917885,
+            "longitude": 2.26690547594029
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Chardon Lagache constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Charenton - Écoles": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Charenton-le-Pont",
+            "code_insee": "94018",
+            "latitude": 48.82148073316996,
+            "longitude": 2.413844709558796
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Charenton - Écoles constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Charles Michels": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84660453239739,
+            "longitude": 2.2856210133667174
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Charles Michels",
+                "annee_naissance": 1903,
+                "annee_deces": 1941,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Charles Michels constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les figures de la Résistance"
+        ]
+    },
+    "Charles de Gaulle - Étoile": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "2",
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.875175151927344,
+            "longitude": 2.295932042102862
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Charles de Gaulle - Étoile constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Charonne": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.854939443448494,
+            "longitude": 2.384782396448888
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Charonne constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Chaussée d'Antin - La Fayette": {
+        "geographie": {
+            "lignes": [
+                "7",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87280723715393,
+            "longitude": 2.333970457594147
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Chaussée d'Antin - La Fayette constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Chemin Vert": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85710602289208,
+            "longitude": 2.3682216127650335
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Chemin Vert constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Chevaleret": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83494516788824,
+            "longitude": 2.3680951237726693
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Chevaleret constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Chevilly-Larue (Marché International)": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Chevilly-Larue",
+            "code_insee": "94021",
+            "latitude": 48.75848356146962,
+            "longitude": 2.367374604185919
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Chevilly-Larue (Marché International) constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Château Landon": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87845059378512,
+            "longitude": 2.3620450936034145
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Château Landon constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Le patrimoine palatial et institutionnel",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Château Rouge": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.887241930648955,
+            "longitude": 2.3495819680256593
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Château Rouge constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Le patrimoine palatial et institutionnel",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Château d'Eau": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87244691759551,
+            "longitude": 2.3560517414015862
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Château d'Eau constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Le patrimoine palatial et institutionnel",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Château de Vincennes": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Vincennes",
+            "code_insee": "94080",
+            "latitude": 48.84466007577258,
+            "longitude": 2.438792280541146
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Château de Vincennes constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Le patrimoine palatial et institutionnel",
+            "Monuments et Lieux Emblématiques"
+        ]
+    },
+    "Châtelet": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "11",
+                "14",
+                "4",
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.858579763589525,
+            "longitude": 2.347881677716951
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Châtelet constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Châtillon - Montrouge": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Châtillon",
+            "code_insee": "92020",
+            "latitude": 48.81072820779425,
+            "longitude": 2.301595459041787
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Châtillon - Montrouge constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Cité": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85492106147581,
+            "longitude": 2.347361051762225
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Cité constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Cluny - La Sorbonne": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.851026876874485,
+            "longitude": 2.3448963012120796
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Cluny - La Sorbonne constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Colonel Fabien": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87764980852146,
+            "longitude": 2.370467574793864
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Pierre Georges, dit Colonel Fabien",
+                "annee_naissance": 1914,
+                "annee_deces": 1944,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Colonel Fabien constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les figures de la Résistance"
+        ]
+    },
+    "Commerce": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84463784771031,
+            "longitude": 2.293687475167137
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Commerce constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Concorde": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "12",
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.866166958916516,
+            "longitude": 2.324585310879803
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Concorde constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Révolution et République"
+        ]
+    },
+    "Convention": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83713505380496,
+            "longitude": 2.2963913864809173
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Convention constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Révolution et République"
+        ]
+    },
+    "Corentin Cariou": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.89467266005628,
+            "longitude": 2.382291557164633
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIXe siècle",
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Corentin Cariou",
+                "annee_naissance": 1898,
+                "annee_deces": 1942,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Corentin Cariou constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les figures de la Résistance"
+        ]
+    },
+    "Corentin Celton": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Issy-les-Moulineaux",
+            "code_insee": "92040",
+            "latitude": 48.826823295159116,
+            "longitude": 2.2789586605256367
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Corentin Celton",
+                "annee_naissance": 1901,
+                "annee_deces": 1943,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Corentin Celton constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les figures de la Résistance"
+        ]
+    },
+    "Corvisart": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.82986001331238,
+            "longitude": 2.350611225926166
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Corvisart constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Mathématiques, Physique et Biologie",
+            "Sciences et Techniques"
+        ]
+    },
+    "Coteaux Beauclair": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Rosny-sous-Bois",
+            "code_insee": "93064",
+            "latitude": 48.88212212689498,
+            "longitude": 2.4673647804495924
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Coteaux Beauclair constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Cour Saint-Emilion": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83334999725014,
+            "longitude": 2.386464909364189
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Cour Saint-Emilion constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Courcelles": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87926525411311,
+            "longitude": 2.3032943624252122
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Courcelles constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Couronnes": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86919334513237,
+            "longitude": 2.3802889829271936
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Couronnes constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Crimée": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.890814345621656,
+            "longitude": 2.3770380600019925
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Crimée constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les victoires et batailles militaires"
+        ]
+    },
+    "Croix de Chavaux": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Montreuil",
+            "code_insee": "93048",
+            "latitude": 48.857992585158016,
+            "longitude": 2.4358546126745826
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Croix de Chavaux constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Créteil - L'Échat": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Créteil",
+            "code_insee": "94028",
+            "latitude": 48.79661083011156,
+            "longitude": 2.4493695956133714
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Créteil - L'Échat constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Créteil - Préfecture": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Créteil",
+            "code_insee": "94028",
+            "latitude": 48.77975652677895,
+            "longitude": 2.4593051692912615
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Créteil - Préfecture constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Créteil - Université": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Créteil",
+            "code_insee": "94028",
+            "latitude": 48.78994285432577,
+            "longitude": 2.4505697455342568
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Créteil - Université constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Danube": {
+        "geographie": {
+            "lignes": [
+                "7B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.88194921492064,
+            "longitude": 2.393228471227492
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Danube constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Daumesnil": {
+        "geographie": {
+            "lignes": [
+                "6",
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83967393140864,
+            "longitude": 2.395573606140371
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Daumesnil constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Denfert-Rochereau": {
+        "geographie": {
+            "lignes": [
+                "4",
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83394869369227,
+            "longitude": 2.332018835216387
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Denfert-Rochereau constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Dugommier": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.838951094045356,
+            "longitude": 2.3896007705991944
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Dugommier constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Dupleix": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85038448621434,
+            "longitude": 2.2936368390558783
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Dupleix constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Duroc": {
+        "geographie": {
+            "lignes": [
+                "10",
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84675637808778,
+            "longitude": 2.3162247549746047
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Duroc constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Edgar Quinet": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84090350169825,
+            "longitude": 2.3252865779432965
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Edgar Quinet",
+                "annee_naissance": 1803,
+                "annee_deces": 1875,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "description courte": "La station Edgar Quinet constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Arts et Culture",
+            "Écrivains et Philosophes"
+        ]
+    },
+    "Esplanade de la Défense": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Puteaux",
+            "code_insee": "92062",
+            "latitude": 48.88800894593748,
+            "longitude": 2.2500587372950065
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Esplanade de la Défense constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Etienne Marcel": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86370301202431,
+            "longitude": 2.3489761968791085
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIVe siècle"
+            ],
+            "details_personne": {
+                "nom": "Étienne Marcel",
+                "annee_naissance": 1315,
+                "annee_deces": 1358,
+                "siecles_vecus": [
+                    "XIVe siècle"
+                ]
+            },
+            "description courte": "La station Etienne Marcel constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Europe": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87875316404477,
+            "longitude": 2.32218591952051
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Europe constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Histoire et Politique",
+            "Les Femmes Illustres"
+        ]
+    },
+    "Exelmans": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.842624465259945,
+            "longitude": 2.25967486021195
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Exelmans constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Faidherbe - Chaligny": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85011054413369,
+            "longitude": 2.384028566383108
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Faidherbe - Chaligny constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Falguière": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84444335195695,
+            "longitude": 2.3175087114640447
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Falguière constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Arts et Culture",
+            "Peintres, Sculpteurs et Poètes"
+        ]
+    },
+    "Filles du Calvaire": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86308830188695,
+            "longitude": 2.366826859795412
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Filles du Calvaire constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Fort d'Aubervilliers": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Aubervilliers",
+            "code_insee": "93001",
+            "latitude": 48.91470775289347,
+            "longitude": 2.404187821795194
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Fort d'Aubervilliers constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Franklin D. Roosevelt": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86910431389912,
+            "longitude": 2.309783080852926
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Franklin D. Roosevelt constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Front Populaire": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Saint-Denis",
+            "code_insee": "93066",
+            "latitude": 48.90666420278779,
+            "longitude": 2.3657920239894126
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Front Populaire constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Félix Faure": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84274672574357,
+            "longitude": 2.291751809719901
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Félix Faure",
+                "annee_naissance": 1841,
+                "annee_deces": 1899,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "description courte": "La station Félix Faure constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Gabriel Péri": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Asnières-sur-Seine",
+            "code_insee": "92004",
+            "latitude": 48.916588645063754,
+            "longitude": 2.2943347306360344
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Gabriel Péri",
+                "annee_naissance": 1902,
+                "annee_deces": 1941,
+                "siecles_vecus": [
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Gabriel Péri constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Gallieni": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Bagnolet",
+            "code_insee": "93006",
+            "latitude": 48.86512770051251,
+            "longitude": 2.4159299613832097
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIXe siècle",
+                "XXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Joseph Gallieni",
+                "annee_naissance": 1849,
+                "annee_deces": 1916,
+                "siecles_vecus": [
+                    "XIXe siècle",
+                    "XXe siècle"
+                ]
+            },
+            "description courte": "La station Gallieni constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Gambetta": {
+        "geographie": {
+            "lignes": [
+                "3",
+                "3B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.865032564464,
+            "longitude": 2.398537305704572
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [
+                "XIXe siècle"
+            ],
+            "details_personne": {
+                "nom": "Léon Gambetta",
+                "annee_naissance": 1838,
+                "annee_deces": 1882,
+                "siecles_vecus": [
+                    "XIXe siècle"
+                ]
+            },
+            "description courte": "La station Gambetta constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": []
+    },
+    "Gare d'Austerlitz": {
+        "geographie": {
+            "lignes": [
+                "10",
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84228236697996,
+            "longitude": 2.364395394600644
+        },
+        "histoire": {
+            "type_origine": null,
+            "sous_type_origine": null,
+            "siecles": [],
+            "details_personne": null,
+            "description courte": "La station Gare d'Austerlitz constitue un point d'arrêt du réseau métropolitain dont l'histoire reflète l'évolution urbaine de la capitale.",
+            "description longue": null
+        },
+        "tags": [
+            "Architecture urbaine : Les grandes gares",
+            "Histoire et Politique",
+            "Les victoires et batailles militaires",
+            "Topographie et Urbanisme"
+        ]
+    },
+]
