@@ -214,6 +214,20 @@ function registerSuccess(station, estRevelee) {
     }
 }
 
+/* ---------- Affichage des informations ---------- */
+
+// Fonction globale pour gérer le déploiement de la description longue
+window.toggleDescription = function(idContainer, bouton) {
+    const conteneurLong = document.getElementById(idContainer);
+    if (conteneurLong.style.display === 'none') {
+        conteneurLong.style.display = 'block';
+        bouton.textContent = 'Voir moins';
+    } else {
+        conteneurLong.style.display = 'none';
+        bouton.textContent = 'En savoir plus';
+    }
+};
+
 function ajouterFicheInformation(station, estRevelee) {
     let mentionSpeciale = '';
     let bordureStyle = '1px solid #ccc';
@@ -223,15 +237,35 @@ function ajouterFicheInformation(station, estRevelee) {
         bordureStyle = '2px solid #e74c3c';
     }
 
-    const description = (station.histoire && station.histoire.description) ? station.histoire.description : 'Description non disponible.';
+    // Récupération des deux niveaux de description
+    const descCourte = (station.histoire && station.histoire["description courte"]) ? station.histoire["description courte"] : 'Description non disponible.';
+    const descLongue = (station.histoire && station.histoire["description longue"]) ? station.histoire["description longue"] : null;
     const lignes = (station.geographie && station.geographie.lignes) ? station.geographie.lignes.join(', ') : 'N/A';
+
+    // Génération d'un identifiant unique pour lier le bouton à la bonne description
+    const idDescLongue = 'desc_' + station.nom.replace(/[^a-zA-Z0-9]/g, '_') + '_' + Date.now();
+
+    // Construction conditionnelle du bouton et du conteneur additionnel
+    let boutonHtml = '';
+    let descriptionLongueHtml = '';
+
+    if (descLongue) {
+        boutonHtml = `<button onclick="toggleDescription('${idDescLongue}', this)" style="margin-top: 8px; padding: 5px 10px; background-color: #3498db; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 0.9em;">En savoir plus</button>`;
+        descriptionLongueHtml = `
+            <div id="${idDescLongue}" style="display: none; margin-top: 10px; padding-top: 10px; border-top: 1px dashed #ccc;">
+                <p style="margin: 0; color: #444;">${descLongue}</p>
+            </div>
+        `;
+    }
 
     const ficheHtml = `
         <article style="border: ${bordureStyle}; padding: 10px; margin-bottom: 10px; border-radius: 5px; background: #fff; color: #333;">
             <h3 style="margin: 0 0 5px 0;">${station.nom}</h3>
             ${mentionSpeciale}
             <p style="margin: 0 0 5px 0;"><strong>Lignes :</strong> ${lignes}</p>
-            <p style="margin: 0;">${description}</p>
+            <p style="margin: 0;">${descCourte}</p>
+            ${boutonHtml}
+            ${descriptionLongueHtml}
         </article>
     `;
 
@@ -265,13 +299,13 @@ function showNextHint() {
             `La première lettre commence par "${stationCibleActuelle.nom.charAt(0).toUpperCase()}".`
         ];
 
-        // Enrichissement conditionnel du tableau d'indices basé sur l'existence des métadonnées
+        // Enrichissement conditionnel du tableau d'indices basé sur la description courte
         if (stationCibleActuelle.histoire) {
             if (stationCibleActuelle.histoire.type_origine) {
                 currentStationHints.push(`Toponymie : ${stationCibleActuelle.histoire.type_origine}.`);
             }
-            if (stationCibleActuelle.histoire.description) {
-                const extrait = stationCibleActuelle.histoire.description.substring(0, 65);
+            if (stationCibleActuelle.histoire["description courte"]) {
+                const extrait = stationCibleActuelle.histoire["description courte"].substring(0, 65);
                 currentStationHints.push(`Fait notable : ${extrait}...`);
             }
         }
