@@ -1,7 +1,8 @@
 /* ===================================================================
-   METROPOLITAIN — Moteur logique du jeu avec Système de Score
+   METROPOLITAIN — Moteur logique du jeu avec Profils et Scores
    =================================================================== */
 
+/* ---------- Variables Globales du Jeu ---------- */
 let globalStations = [];
 let sessionStations = [];
 let foundStations = new Set();
@@ -11,57 +12,142 @@ let stationCibleActuelle = null;
 let categorieActuelle = "";
 let nomSessionActuelle = "";
 
-// Système de score
+/* ---------- Variables du Système de Score ---------- */
 const POINTS_PAR_STATION = 100;
 const PENALITE_INDICE = 15;
 const PENALITE_REVELATION = 100;
-
 let scoreActuel = 0;
-let meilleursScores = {};
 
-// Éléments DOM - Écrans
+/* ---------- Variables pour les Profils et l'Historique ---------- */
+let utilisateursEnregistres = [];
+let utilisateurActuel = null;
+let recordsUtilisateurs = {}; // Structure : { "Nom": { "Categorie_Session": Score } }
+let historiqueActivite = [];  // Stocke les objets avec date, durée, score
+let heureDebutSession = null;
+
+/* ---------- Éléments DOM - Écrans ---------- */
+const ecranLogin = document.getElementById('ecran-login');
 const ecranCategories = document.getElementById('ecran-categories');
 const ecranSessions = document.getElementById('ecran-sessions');
 const ecranJeu = document.getElementById('ecran-jeu');
+const barreUtilisateur = document.getElementById('barre-utilisateur');
 
-// Éléments DOM - Conteneurs
+/* ---------- Éléments DOM - Login ---------- */
+const selectProfil = document.getElementById('select-profil');
+const inputNouveauProfil = document.getElementById('input-nouveau-profil');
+const boutonConnexion = document.getElementById('bouton-connexion');
+const nomUtilisateurActif = document.getElementById('nom-utilisateur-actif');
+const boutonDeconnexion = document.getElementById('bouton-deconnexion');
+
+/* ---------- Éléments DOM - Conteneurs ---------- */
 const conteneurCategories = document.getElementById('conteneur-categories');
 const conteneurSessions = document.getElementById('conteneur-sessions');
 const panneauInfos = document.getElementById('panneau-informations');
 const zoneIndices = document.getElementById('zone-indices');
 
-// Éléments DOM - Textes et Inputs
+/* ---------- Éléments DOM - Textes et Inputs ---------- */
 const titreCategorie = document.getElementById('titre-categorie');
 const titreSessionEnCours = document.getElementById('titre-session-en-cours');
 const champSaisie = document.getElementById('champ-saisie');
 const messageRetour = document.getElementById('message-retour');
 const compteurStations = document.getElementById('compteur-stations');
 const totalStations = document.getElementById('total-stations');
-const affichageScore = document.getElementById('valeur-score'); // Nouvel élément
+const affichageScore = document.getElementById('valeur-score');
 
-// Éléments DOM - Boutons
+/* ---------- Éléments DOM - Boutons de Jeu ---------- */
 const boutonValider = document.getElementById('bouton-valider');
 const boutonIndice = document.getElementById('bouton-indice');
 const boutonReveler = document.getElementById('bouton-reveler');
 const boutonRetourCategories = document.getElementById('bouton-retour-categories');
 const boutonQuitterSession = document.getElementById('bouton-quitter-session');
 
-/* ---------- Initialisation ---------- */
+/* ---------- Initialisation et Chargement des Données ---------- */
 
 document.addEventListener('DOMContentLoaded', () => {
     globalStations = Object.keys(STATIONS).map(nom => ({ nom, ...STATIONS[nom] }));
-    
-    // Chargement des records sauvegardés dans le navigateur
-    const scoresSauvegardes = localStorage.getItem('metropolitain_scores');
-    if (scoresSauvegardes) {
-        meilleursScores = JSON.parse(scoresSauvegardes);
-    }
-    
-    initialiserEcouteurs();
-    afficherMenuCategories();
+
+    chargerDonneesLocales();
+    initialiserEcouteursLogin();
+    initialiserEcouteursJeu();
+
+    afficherEcranLogin();
 });
 
-function initialiserEcouteurs() {
+function chargerDonneesLocales() {
+    const usersData = localStorage.getItem('metropolitain_users');
+    const recordsData = localStorage.getItem('metropolitain_records');
+    const historyData = localStorage.getItem('metropolitain_history');
+
+    if (usersData) utilisateursEnregistres = JSON.parse(usersData);
+    if (recordsData) recordsUtilisateurs = JSON.parse(recordsData);
+    if (historyData) historiqueActivite = JSON.parse(historyData);
+}
+
+function sauvegarderDonneesLocales() {
+    localStorage.setItem('metropolitain_users', JSON.stringify(utilisateursEnregistres));
+    localStorage.setItem('metropolitain_records', JSON.stringify(recordsUtilisateurs));
+    localStorage.setItem('metropolitain_history', JSON.stringify(historiqueActivite));
+}
+
+/* ---------- Logique de Connexion ---------- */
+
+function initialiserEcouteursLogin() {
+    boutonConnexion.addEventListener('click', validerConnexion);
+    boutonDeconnexion.addEventListener('click', afficherEcranLogin);
+}
+
+function afficherEcranLogin() {
+    ecranCategories.classList.add('hidden');
+    ecranSessions.classList.add('hidden');
+    ecranJeu.classList.add('hidden');
+
+    if (barreUtilisateur) barreUtilisateur.classList.add('hidden');
+    if (ecranLogin) ecranLogin.classList.remove('hidden');
+
+    if (selectProfil) {
+        selectProfil.innerHTML = '<option value="">-- Choisir un profil existant --</option>';
+        utilisateursEnregistres.forEach(nom => {
+            const option = document.createElement('option');
+            option.value = nom;
+            option.textContent = nom;
+            selectProfil.appendChild(option);
+        });
+    }
+
+    if (inputNouveauProfil) inputNouveauProfil.value = '';
+    utilisateurActuel = null;
+}
+
+function validerConnexion() {
+    let nomChoisi = inputNouveauProfil.value.trim();
+
+    if (!nomChoisi) {
+        nomChoisi = selectProfil.value;
+    }
+
+    if (!nomChoisi) {
+        alert("Veuillez choisir ou créer un profil pour continuer.");
+        return;
+    }
+
+    if (!utilisateursEnregistres.includes(nomChoisi)) {
+        utilisateursEnregistres.push(nomChoisi);
+        recordsUtilisateurs[nomChoisi] = {};
+        sauvegarderDonneesLocales();
+    }
+
+    utilisateurActuel = nomChoisi;
+    if (nomUtilisateurActif) nomUtilisateurActif.textContent = utilisateurActuel;
+
+    if (barreUtilisateur) barreUtilisateur.classList.remove('hidden');
+    if (ecranLogin) ecranLogin.classList.add('hidden');
+
+    afficherMenuCategories();
+}
+
+/* ---------- Logique des Menus ---------- */
+
+function initialiserEcouteursJeu() {
     champSaisie.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') handleValidation();
     });
@@ -71,8 +157,6 @@ function initialiserEcouteurs() {
     boutonRetourCategories.addEventListener('click', afficherMenuCategories);
     boutonQuitterSession.addEventListener('click', afficherMenuCategories);
 }
-
-/* ---------- Navigation Menus ---------- */
 
 function afficherMenuCategories() {
     ecranCategories.classList.remove('hidden');
@@ -93,15 +177,15 @@ function afficherMenuSessions(nomCategorie) {
     categorieActuelle = nomCategorie;
     ecranCategories.classList.add('hidden');
     ecranSessions.classList.remove('hidden');
-    
+
     titreCategorie.textContent = nomCategorie;
     conteneurSessions.innerHTML = '';
 
     const sessions = SESSIONS_CONFIG[nomCategorie];
     for (const nomSession in sessions) {
-        // Récupération du record pour l'affichage dans le menu
         const cleSession = `${nomCategorie}_${nomSession}`;
-        const record = meilleursScores[cleSession] !== undefined ? meilleursScores[cleSession] : "Aucun record";
+        const recordsJoueurActuel = recordsUtilisateurs[utilisateurActuel] || {};
+        const record = recordsJoueurActuel[cleSession] !== undefined ? recordsJoueurActuel[cleSession] : "Aucun record";
         const texteRecord = typeof record === "number" ? `${record} pts` : record;
 
         const btn = document.createElement('button');
@@ -122,11 +206,29 @@ function extraireValeur(objet, chemin) {
 
 function demarrerSession(nomSession, config) {
     nomSessionActuelle = `${categorieActuelle}_${nomSession}`;
+    heureDebutSession = new Date(); // Déclenchement du chronomètre
+
+    // --- ENVOI DES DONNÉES : DÉBUT DE SESSION ---
+    const urlServeur = "https://script.google.com/macros/s/AKfycbxiKXNVeFBvdR4fUjip0oJrbpa99JOtF8DDr8NyYJxjAg7R4BMfQ9TPLjWouIUafe3T9w/exec";
+    fetch(urlServeur, {
+        method: "POST",
+        mode: "no-cors",
+        headers: {
+            "Content-Type": "text/plain"
+        },
+        body: JSON.stringify({
+            utilisateur: utilisateurActuel,
+            session: nomSessionActuelle,
+            score: "DÉMARRAGE", // Indique explicitement le début
+            temps: 0            // Temps nul par définition
+        })
+    }).catch(erreur => console.error("Erreur de communication avec le serveur", erreur));
+    // --------------------------------------------
 
     sessionStations = globalStations.filter(station => {
         const valeurExtraite = extraireValeur(station, config.chemin_donnee);
         if (!valeurExtraite) return false;
-        
+
         if (config.type_recherche === "inclusion") {
             return valeurExtraite.includes(config.valeur_recherchee);
         } else if (config.type_recherche === "exact") {
@@ -138,27 +240,25 @@ function demarrerSession(nomSession, config) {
     });
 
     foundStations = new Set();
-    
-    // Initialisation du score
     scoreActuel = sessionStations.length * POINTS_PAR_STATION;
-    
+
     ecranSessions.classList.add('hidden');
     ecranJeu.classList.remove('hidden');
-    
+
     titreSessionEnCours.textContent = `${categorieActuelle} - ${nomSession}`;
     panneauInfos.innerHTML = '';
     totalStations.textContent = sessionStations.length;
-    
+
     champSaisie.value = '';
     champSaisie.disabled = false;
     boutonValider.disabled = false;
-    
+
     updateProgressUI();
     clearHintsUI();
     champSaisie.focus();
 }
 
-/* ---------- Logique de Validation ---------- */
+/* ---------- Logique de Validation en Jeu ---------- */
 
 function normalizeString(str) {
     return str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]/g, "");
@@ -177,7 +277,7 @@ function levenshteinDistance(a, b) {
     return matrix[a.length][b.length];
 }
 
-function findBestMatch(input, stationList, maxTolerance = 2) {
+function findBestMatch(input, stationList) {
     const normalizedInput = normalizeString(input);
     let bestMatch = null;
     let lowestDistance = Infinity;
@@ -185,9 +285,9 @@ function findBestMatch(input, stationList, maxTolerance = 2) {
     for (const station of stationList) {
         const normalizedStation = normalizeString(station.nom);
         const distance = levenshteinDistance(normalizedInput, normalizedStation);
-        
+
         const tolerance = station.nom.length > 8 ? 2 : (station.nom.length > 5 ? 1 : 0);
-        
+
         if (distance < lowestDistance && distance <= tolerance) {
             lowestDistance = distance;
             bestMatch = station;
@@ -220,18 +320,18 @@ function handleValidation() {
     } else {
         displayFeedback("Station inconnue du réseau parisien.", "color: #e74c3c;");
     }
-    
+
     champSaisie.value = '';
     champSaisie.focus();
 }
 
 function registerSuccess(station, estRevelee) {
     foundStations.add(station.nom);
-    
+
     if (!estRevelee) {
         displayFeedback(`Excellente réponse : ${station.nom}`, "color: #27ae60;");
     }
-    
+
     ajouterFicheInformation(station, estRevelee);
     clearHintsUI();
     updateProgressUI();
@@ -243,7 +343,7 @@ function registerSuccess(station, estRevelee) {
 
 /* ---------- Affichage des informations ---------- */
 
-window.toggleDescription = function(idContainer, bouton) {
+window.toggleDescription = function (idContainer, bouton) {
     const conteneurLong = document.getElementById(idContainer);
     if (conteneurLong.style.display === 'none') {
         conteneurLong.style.display = 'block';
@@ -257,7 +357,7 @@ window.toggleDescription = function(idContainer, bouton) {
 function ajouterFicheInformation(station, estRevelee) {
     let mentionSpeciale = '';
     let bordureStyle = '1px solid #ccc';
-    
+
     if (estRevelee) {
         mentionSpeciale = `<p style="color: #c0392b; font-weight: bold; font-size: 0.9em;">Station révélée par abandon</p>`;
         bordureStyle = '2px solid #e74c3c';
@@ -299,7 +399,7 @@ function ajouterFicheInformation(station, estRevelee) {
 
 function deduirePoints(montant) {
     scoreActuel -= montant;
-    if (scoreActuel < 0) scoreActuel = 0; // Sécurité pour empêcher un score négatif
+    if (scoreActuel < 0) scoreActuel = 0;
     updateProgressUI();
 }
 
@@ -325,7 +425,7 @@ function showNextHint() {
         if (stationCibleActuelle.histoire && stationCibleActuelle.histoire.type_origine) {
             currentStationHints.push(`Toponymie : ${stationCibleActuelle.histoire.type_origine}.`);
         }
-        
+
         if (stationCibleActuelle["description courte"]) {
             const extrait = stationCibleActuelle["description courte"].substring(0, 65);
             currentStationHints.push(`Fait notable : ${extrait}...`);
@@ -341,13 +441,11 @@ function showNextHint() {
         paragrapheIndice.className = 'texte-indice-item';
         paragrapheIndice.textContent = `Indice ${hintsDisplayedCount + 1} : ${currentStationHints[hintsDisplayedCount]}`;
         zoneIndices.appendChild(paragrapheIndice);
-        
+
         hintsDisplayedCount++;
-        
-        // Application de la pénalité pour révélation d'un indice
         deduirePoints(PENALITE_INDICE);
-    } 
-    
+    }
+
     if (hintsDisplayedCount === currentStationHints.length) {
         displayFeedback("Tous les indices disponibles pour cette station ont été révélés.", "color: #e67e22;");
     }
@@ -357,7 +455,6 @@ function showNextHint() {
 
 function sacrificeAndReveal() {
     if (stationCibleActuelle) {
-        // Application de la pénalité pour abandon de la station
         deduirePoints(PENALITE_REVELATION);
         registerSuccess(stationCibleActuelle, true);
     }
@@ -393,21 +490,94 @@ function terminerSession() {
     boutonValider.disabled = true;
     boutonIndice.disabled = true;
     boutonReveler.disabled = true;
-    
-    let messageFin = `Session complétée avec ${scoreActuel} points !`;
+
+    const heureFinSession = new Date();
+    const dureeSecondes = Math.floor((heureFinSession - heureDebutSession) / 1000);
+
+    // --- NOUVEAU : Envoi des données vers Google Sheets ---
+    const urlServeur = "https://script.google.com/macros/s/AKfycbxiKXNVeFBvdR4fUjip0oJrbpa99JOtF8DDr8NyYJxjAg7R4BMfQ9TPLjWouIUafe3T9w/exec";
+
+    fetch(urlServeur, {
+        method: "POST",
+        mode: "no-cors",
+        headers: {
+            "Content-Type": "text/plain"
+        },
+        body: JSON.stringify({
+            utilisateur: utilisateurActuel,
+            session: nomSessionActuelle,
+            score: scoreActuel,
+            temps: dureeSecondes
+        })
+    }).catch(erreur => console.error("Erreur de communication avec le serveur", erreur));
+    // ------------------------------------------------------
+
+    // Sauvegarde locale classique (conservation de l'historique sur l'appareil)
+    historiqueActivite.push({
+        utilisateur: utilisateurActuel,
+        session: nomSessionActuelle,
+        score: scoreActuel,
+        duree_secondes: dureeSecondes,
+        date: heureFinSession.toISOString()
+    });
+
+    let messageFin = `Session complétée avec ${scoreActuel} points en ${dureeSecondes} secondes !`;
     let styleFin = "color: #27ae60; font-size: 1.1em;";
 
-    // Vérification et sauvegarde du meilleur score
-    const ancienRecord = meilleursScores[nomSessionActuelle] || 0;
-    
-    if (scoreActuel > ancienRecord || !meilleursScores.hasOwnProperty(nomSessionActuelle)) {
-        meilleursScores[nomSessionActuelle] = scoreActuel;
-        localStorage.setItem('metropolitain_scores', JSON.stringify(meilleursScores));
-        messageFin = `🔥 Nouveau record ! Vous avez terminé avec ${scoreActuel} points.`;
-        styleFin = "color: var(--ambre-verriere); font-size: 1.1em; font-weight: bold;";
-    } else {
-        messageFin += ` (Record actuel : ${ancienRecord})`;
+    if (!recordsUtilisateurs[utilisateurActuel]) {
+        recordsUtilisateurs[utilisateurActuel] = {};
     }
 
+    const ancienRecord = recordsUtilisateurs[utilisateurActuel][nomSessionActuelle] || 0;
+
+    if (scoreActuel > ancienRecord || !recordsUtilisateurs[utilisateurActuel].hasOwnProperty(nomSessionActuelle)) {
+        recordsUtilisateurs[utilisateurActuel][nomSessionActuelle] = scoreActuel;
+        messageFin = `Nouveau record personnel ! Terminé avec ${scoreActuel} points.`;
+        styleFin = "color: var(--ambre-verriere); font-size: 1.1em; font-weight: bold;";
+    } else {
+        messageFin += ` (Votre record : ${ancienRecord})`;
+    }
+
+    sauvegarderDonneesLocales();
     displayFeedback(messageFin, styleFin);
 }
+/* ---------- Outils d'Administration ---------- */
+
+window.rapportAdministrateur = function () {
+    if (historiqueActivite.length === 0) {
+        console.log("Aucune activité enregistrée pour le moment.");
+        return;
+    }
+
+    console.log("=== RAPPORT D'ACTIVITÉ METROPOLITAIN ===");
+    console.table(historiqueActivite);
+
+    const statistiquesParUtilisateur = {};
+
+    historiqueActivite.forEach(entree => {
+        if (!statistiquesParUtilisateur[entree.utilisateur]) {
+            statistiquesParUtilisateur[entree.utilisateur] = {
+                sessions_jouees: 0,
+                temps_total_secondes: 0,
+                score_total: 0
+            };
+        }
+
+        statistiquesParUtilisateur[entree.utilisateur].sessions_jouees += 1;
+        statistiquesParUtilisateur[entree.utilisateur].temps_total_secondes += entree.duree_secondes;
+        statistiquesParUtilisateur[entree.utilisateur].score_total += entree.score;
+    });
+
+    console.log("=== STATISTIQUES GLOBALES PAR JOUEUR ===");
+
+    for (const [joueur, stats] of Object.entries(statistiquesParUtilisateur)) {
+        const tempsMinutes = (stats.temps_total_secondes / 60).toFixed(1);
+        const scoreMoyen = (stats.score_total / stats.sessions_jouees).toFixed(0);
+
+        console.log(`Joueur : ${joueur}`);
+        console.log(`- Sessions terminées : ${stats.sessions_jouees}`);
+        console.log(`- Temps de jeu total : ${tempsMinutes} minutes`);
+        console.log(`- Score moyen par session : ${scoreMoyen} points`);
+        console.log("-----------------------------------------");
+    }
+};
