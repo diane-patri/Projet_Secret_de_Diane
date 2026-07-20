@@ -1,0 +1,1146 @@
+{
+    "Reuilly - Diderot": {
+        "geographie": {
+            "lignes": [
+                "1",
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84720216018846,
+            "longitude": 2.3851026686267773
+        }
+    },
+    "Stalingrad": {
+        "geographie": {
+            "lignes": [
+                "2",
+                "5",
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.884243984567746,
+            "longitude": 2.365751439124989
+        }
+    },
+    "Rome": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.88234581879614,
+            "longitude": 2.3213591738229726
+        }
+    },
+    "Villiers": {
+        "geographie": {
+            "lignes": [
+                "2",
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.88107318307563,
+            "longitude": 2.315815092646378
+        }
+    },
+    "République": {
+        "geographie": {
+            "lignes": [
+                "11",
+                "3",
+                "5",
+                "8",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86712186124499,
+            "longitude": 2.364283168306328
+        }
+    },
+    "Porte d'Orléans": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.823394602620716,
+            "longitude": 2.325623760353114
+        }
+    },
+    "Raspail": {
+        "geographie": {
+            "lignes": [
+                "4",
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83910415024143,
+            "longitude": 2.3307802165662403
+        }
+    },
+    "Strasbourg - Saint-Denis": {
+        "geographie": {
+            "lignes": [
+                "4",
+                "8",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86962358263758,
+            "longitude": 2.354491616563834
+        }
+    },
+    "Porte de Pantin": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.888535337600175,
+            "longitude": 2.3920607143419303
+        }
+    },
+    "Quai de la Rapée": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.846427325479766,
+            "longitude": 2.365884650750405
+        }
+    },
+    "Saint-Jacques": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.832857226540206,
+            "longitude": 2.3370965389054956
+        }
+    },
+    "Quai de la Gare": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83700262953923,
+            "longitude": 2.372825013717543
+        }
+    },
+    "Riquet": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.888157262065796,
+            "longitude": 2.373669464743196
+        }
+    },
+    "Sully - Morland": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85120791254347,
+            "longitude": 2.3617517381263218
+        }
+    },
+    "Porte de Choisy": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.82005592914816,
+            "longitude": 2.3646785940494577
+        }
+    },
+    "Tolbiac": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.82613686175372,
+            "longitude": 2.357318439213192
+        }
+    },
+    "École Vétérinaire de Maisons-Alfort": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Maisons-Alfort",
+            "code_insee": "94046",
+            "latitude": 48.81483550210013,
+            "longitude": 2.422399525054415
+        }
+    },
+    "École Militaire": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85491966058707,
+            "longitude": 2.3063456838200764
+        }
+    },
+    "Rue de la Pompe": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86403732937509,
+            "longitude": 2.277916063289398
+        }
+    },
+    "Porte de Saint-Cloud": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83795840561949,
+            "longitude": 2.2570461929221506
+        }
+    },
+    "Ranelagh": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.855306214887065,
+            "longitude": 2.270032697561899
+        }
+    },
+    "Saint-Ambroise": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86141665790915,
+            "longitude": 2.3738805382115475
+        }
+    },
+    "Voltaire": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85766243438601,
+            "longitude": 2.3800316941488044
+        }
+    },
+    "Porte de Montreuil": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85348263120656,
+            "longitude": 2.410718154027495
+        }
+    },
+    "Télégraphe": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87551038418075,
+            "longitude": 2.3986480899605933
+        }
+    },
+    "Saint-Georges": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87841659490173,
+            "longitude": 2.3375706403796697
+        }
+    },
+    "Trinité - d'Estienne d'Orves": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87633650730735,
+            "longitude": 2.333049172418236
+        }
+    },
+    "Saint-Lazare": {
+        "geographie": {
+            "lignes": [
+                "12",
+                "13",
+                "14",
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.875689121953926,
+            "longitude": 2.3274477500193202
+        }
+    },
+    "Volontaires": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84141172841498,
+            "longitude": 2.3079833805768515
+        }
+    },
+    "Rennes": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84819024311401,
+            "longitude": 2.32802068556793
+        }
+    },
+    "Porte de Clichy": {
+        "geographie": {
+            "lignes": [
+                "13",
+                "14"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.89438790877958,
+            "longitude": 2.313485118020816
+        }
+    },
+    "Saint-Denis - Université": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Saint-Denis",
+            "code_insee": "93066",
+            "latitude": 48.94579506706538,
+            "longitude": 2.364591281361484
+        }
+    },
+    "Saint-Denis - Porte de Paris": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Saint-Denis",
+            "code_insee": "93066",
+            "latitude": 48.93000331459435,
+            "longitude": 2.356103685447694
+        }
+    },
+    "Porte de Saint-Ouen": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.897506218529124,
+            "longitude": 2.328939112292642
+        }
+    },
+    "Thiais - Orly (Pont de Rungis)": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Thiais",
+            "code_insee": "94073",
+            "latitude": 48.74684479207573,
+            "longitude": 2.372466241689093
+        }
+    },
+    "Saint-Ouen": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Saint-Ouen-sur-Seine",
+            "code_insee": "93070",
+            "latitude": 48.90521399238465,
+            "longitude": 2.3226598821131716
+        }
+    },
+    "Saint-Fargeau": {
+        "geographie": {
+            "lignes": [
+                "3B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87184337222297,
+            "longitude": 2.4044981831688688
+        }
+    },
+    "Saint-Mandé": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Vincennes",
+            "code_insee": "94080",
+            "latitude": 48.84636430926393,
+            "longitude": 2.4190018282327004
+        }
+    },
+    "Porte de Vincennes": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84738050756597,
+            "longitude": 2.4079800295601697
+        }
+    },
+    "Victor Hugo": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8698545716049,
+            "longitude": 2.2859020006220643
+        }
+    },
+    "Ternes": {
+        "geographie": {
+            "lignes": [
+                "2"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8782007528283,
+            "longitude": 2.2981136521983068
+        }
+    },
+    "Père Lachaise": {
+        "geographie": {
+            "lignes": [
+                "2",
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86296417435419,
+            "longitude": 2.386157046298338
+        }
+    },
+    "Temple": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86675662943444,
+            "longitude": 2.361561234526356
+        }
+    },
+    "Réaumur - Sébastopol": {
+        "geographie": {
+            "lignes": [
+                "3",
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86638175675157,
+            "longitude": 2.3520507871028355
+        }
+    },
+    "Wagram": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8838463907272,
+            "longitude": 2.304673087584434
+        }
+    },
+    "Simplon": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8938152613519,
+            "longitude": 2.347794968187123
+        }
+    },
+    "Saint-Michel": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85358493521485,
+            "longitude": 2.343964657062377
+        }
+    },
+    "Vavin": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.842242093452064,
+            "longitude": 2.32902391746117
+        }
+    },
+    "Saint-Placide": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84700665158937,
+            "longitude": 2.327054815066312
+        }
+    },
+    "Saint-Sulpice": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85113858957915,
+            "longitude": 2.330953550650454
+        }
+    },
+    "Trocadéro": {
+        "geographie": {
+            "lignes": [
+                "6",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86348766501957,
+            "longitude": 2.2874927969664416
+        }
+    },
+    "Villejuif Léo Lagrange": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Villejuif",
+            "code_insee": "94076",
+            "latitude": 48.80435318028833,
+            "longitude": 2.3639317476477353
+        }
+    },
+    "Villejuif Paul Vaillant-Couturier": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Villejuif",
+            "code_insee": "94076",
+            "latitude": 48.79630822122641,
+            "longitude": 2.368195583812103
+        }
+    },
+    "Villejuif - Louis Aragon": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Villejuif",
+            "code_insee": "94076",
+            "latitude": 48.787572501132765,
+            "longitude": 2.3677168990538426
+        }
+    },
+    "Porte d'Italie": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.81903428608761,
+            "longitude": 2.359462523882543
+        }
+    },
+    "Porte d'Ivry": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.821352988336876,
+            "longitude": 2.369294978223312
+        }
+    },
+    "Richelieu - Drouot": {
+        "geographie": {
+            "lignes": [
+                "8",
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87164051013642,
+            "longitude": 2.3384603609547776
+        }
+    },
+    "Robespierre": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Montreuil",
+            "code_insee": "93048",
+            "latitude": 48.855754613895044,
+            "longitude": 2.4229449336324724
+        }
+    },
+    "Saint-Augustin": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87454661293485,
+            "longitude": 2.3210135978085997
+        }
+    },
+    "Ségur": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.847226390053955,
+            "longitude": 2.3072520746428715
+        }
+    },
+    "Rosny-Bois-Perrier": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Rosny-sous-Bois",
+            "code_insee": "93064",
+            "latitude": 48.88307064342213,
+            "longitude": 2.4806093523524932
+        }
+    },
+    "Rambuteau": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86119015695036,
+            "longitude": 2.3532739485947713
+        }
+    },
+    "Serge Gainsbourg": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Les Lilas",
+            "code_insee": "93045",
+            "latitude": 48.881208070541476,
+            "longitude": 2.427162663175348
+        }
+    },
+    "Vaugirard": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83953628376544,
+            "longitude": 2.300977822126098
+        }
+    },
+    "Porte de Versailles": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83251953251351,
+            "longitude": 2.2877417091423347
+        }
+    },
+    "Pyramides": {
+        "geographie": {
+            "lignes": [
+                "14",
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.865755527376756,
+            "longitude": 2.3346236060049232
+        }
+    },
+    "Porte des Lilas": {
+        "geographie": {
+            "lignes": [
+                "11",
+                "3B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87656859902798,
+            "longitude": 2.4070619733807948
+        }
+    },
+    "Saint-Paul (Le Marais)": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85518742160445,
+            "longitude": 2.3608852562751967
+        }
+    },
+    "Quatre Septembre": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86965909738424,
+            "longitude": 2.3363187355954875
+        }
+    },
+    "Saint-Marcel": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83847698406796,
+            "longitude": 2.3608176665940044
+        }
+    },
+    "Église de Pantin": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Pantin",
+            "code_insee": "93055",
+            "latitude": 48.89324469416795,
+            "longitude": 2.413074999597678
+        }
+    },
+    "Porte de la Villette": {
+        "geographie": {
+            "lignes": [
+                "7"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.897865181710756,
+            "longitude": 2.3857788171360426
+        }
+    },
+    "Porte de Charenton": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83344922287947,
+            "longitude": 2.402511872850073
+        }
+    },
+    "Saint-Sébastien - Froissart": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86098670797991,
+            "longitude": 2.367370357789606
+        }
+    },
+    "Rue des Boulets": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85236862327955,
+            "longitude": 2.389429968854563
+        }
+    },
+    "Saint-Philippe-du-Roule": {
+        "geographie": {
+            "lignes": [
+                "9"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87215435003593,
+            "longitude": 2.310001699600818
+        }
+    },
+    "Vaneau": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84889457005888,
+            "longitude": 2.3213512423547358
+        }
+    },
+    "Église d'Auteuil": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84714336145718,
+            "longitude": 2.2691113890218917
+        }
+    },
+    "Porte de la Chapelle": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.89741064164834,
+            "longitude": 2.359103857300198
+        }
+    },
+    "Rue du Bac": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85588467848543,
+            "longitude": 2.3256998984524113
+        }
+    },
+    "Sèvres - Babylone": {
+        "geographie": {
+            "lignes": [
+                "10",
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85156530639137,
+            "longitude": 2.326859663121737
+        }
+    },
+    "Porte de Vanves": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.82734524401033,
+            "longitude": 2.3048327737714245
+        }
+    },
+    "Saint-François-Xavier": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85195330293081,
+            "longitude": 2.3144121566045697
+        }
+    },
+    "Villejuif - Gustave Roussy": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Villejuif",
+            "code_insee": "94076",
+            "latitude": 48.79323857984506,
+            "longitude": 2.3492565855239396
+        }
+    },
+    "Pré-Saint-Gervais": {
+        "geographie": {
+            "lignes": [
+                "7B"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.8801595806643,
+            "longitude": 2.398580770693528
+        }
+    },
+    "Porte Maillot": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.877765914127366,
+            "longitude": 2.2824120580347764
+        }
+    },
+    "Tuileries": {
+        "geographie": {
+            "lignes": [
+                "1"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86473542330607,
+            "longitude": 2.3291022584021066
+        }
+    },
+    "Porte de Champerret": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.885652393133846,
+            "longitude": 2.2921124821588448
+        }
+    },
+    "Rue Saint-Maur": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86405000324374,
+            "longitude": 2.3804600339610773
+        }
+    },
+    "Porte de Bagnolet": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86432836987192,
+            "longitude": 2.4088234090802456
+        }
+    },
+    "Porte de Clignancourt": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.897557781418705,
+            "longitude": 2.3447472731828847
+        }
+    },
+    "Sèvres-Lecourbe": {
+        "geographie": {
+            "lignes": [
+                "6"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.84558437021755,
+            "longitude": 2.3094677673863235
+        }
+    },
+    "Porte Dorée": {
+        "geographie": {
+            "lignes": [
+                "8"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.83501737409391,
+            "longitude": 2.4058739129875644
+        }
+    },
+    "Pyrénées": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.87381265491752,
+            "longitude": 2.384883957748741
+        }
+    },
+    "Romainville - Carnot": {
+        "geographie": {
+            "lignes": [
+                "11"
+            ],
+            "commune": "Romainville",
+            "code_insee": "93063",
+            "latitude": 48.88369120755144,
+            "longitude": 2.440689824547642
+        }
+    },
+    "Solférino": {
+        "geographie": {
+            "lignes": [
+                "12"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.858550089641746,
+            "longitude": 2.3231029882985132
+        }
+    },
+    "Varenne": {
+        "geographie": {
+            "lignes": [
+                "13"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85639914680456,
+            "longitude": 2.314939717979739
+        }
+    },
+    "Saint-Denis - Pleyel": {
+        "geographie": {
+            "lignes": [
+                "14"
+            ],
+            "commune": "Saint-Denis",
+            "code_insee": "93066",
+            "latitude": 48.91873375567987,
+            "longitude": 2.345886129823062
+        }
+    },
+    "Sentier": {
+        "geographie": {
+            "lignes": [
+                "3"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.86728343166051,
+            "longitude": 2.3475137108219895
+        }
+    },
+    "Saint-Germain-des-Prés": {
+        "geographie": {
+            "lignes": [
+                "4"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85367371343323,
+            "longitude": 2.3339874291342255
+        }
+    },
+    "Richard-Lenoir": {
+        "geographie": {
+            "lignes": [
+                "5"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.85985966744055,
+            "longitude": 2.3719501400872653
+        }
+    },
+    "Porte d'Auteuil": {
+        "geographie": {
+            "lignes": [
+                "10"
+            ],
+            "commune": "Paris",
+            "code_insee": "75056",
+            "latitude": 48.847904123629235,
+            "longitude": 2.258280744595537
+        }
+    }
+}
