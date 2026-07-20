@@ -1,5 +1,5 @@
 /* ===================================================================
-   METROPOLITAIN — Moteur logique du jeu corrigé
+   METROPOLITAIN — Moteur logique du jeu avec Système de Score
    =================================================================== */
 
 let globalStations = [];
@@ -9,6 +9,15 @@ let currentStationHints = [];
 let hintsDisplayedCount = 0;
 let stationCibleActuelle = null;
 let categorieActuelle = "";
+let nomSessionActuelle = "";
+
+// Système de score
+const POINTS_PAR_STATION = 100;
+const PENALITE_INDICE = 15;
+const PENALITE_REVELATION = 100;
+
+let scoreActuel = 0;
+let meilleursScores = {};
 
 // Éléments DOM - Écrans
 const ecranCategories = document.getElementById('ecran-categories');
@@ -28,6 +37,7 @@ const champSaisie = document.getElementById('champ-saisie');
 const messageRetour = document.getElementById('message-retour');
 const compteurStations = document.getElementById('compteur-stations');
 const totalStations = document.getElementById('total-stations');
+const affichageScore = document.getElementById('valeur-score'); // Nouvel élément
 
 // Éléments DOM - Boutons
 const boutonValider = document.getElementById('bouton-valider');
@@ -39,8 +49,13 @@ const boutonQuitterSession = document.getElementById('bouton-quitter-session');
 /* ---------- Initialisation ---------- */
 
 document.addEventListener('DOMContentLoaded', () => {
-    // Exploitation de la constante STATIONS injectée par build.py
     globalStations = Object.keys(STATIONS).map(nom => ({ nom, ...STATIONS[nom] }));
+    
+    // Chargement des records sauvegardés dans le navigateur
+    const scoresSauvegardes = localStorage.getItem('metropolitain_scores');
+    if (scoresSauvegardes) {
+        meilleursScores = JSON.parse(scoresSauvegardes);
+    }
     
     initialiserEcouteurs();
     afficherMenuCategories();
@@ -65,7 +80,6 @@ function afficherMenuCategories() {
     ecranJeu.classList.add('hidden');
     conteneurCategories.innerHTML = '';
 
-    // Utilisation de SESSIONS_CONFIG injectée par build.py
     for (const nomCategorie in SESSIONS_CONFIG) {
         const btn = document.createElement('button');
         btn.className = 'bouton-menu';
@@ -85,9 +99,18 @@ function afficherMenuSessions(nomCategorie) {
 
     const sessions = SESSIONS_CONFIG[nomCategorie];
     for (const nomSession in sessions) {
+        // Récupération du record pour l'affichage dans le menu
+        const cleSession = `${nomCategorie}_${nomSession}`;
+        const record = meilleursScores[cleSession] !== undefined ? meilleursScores[cleSession] : "Aucun record";
+        const texteRecord = typeof record === "number" ? `${record} pts` : record;
+
         const btn = document.createElement('button');
         btn.className = 'bouton-menu';
-        btn.innerHTML = `<strong>${nomSession}</strong><br><span style="font-size: 0.8em; color: #555;">${sessions[nomSession].description}</span>`;
+        btn.innerHTML = `
+            <strong>${nomSession}</strong><br>
+            <span style="font-size: 0.8em; color: #555;">${sessions[nomSession].description}</span><br>
+            <span style="font-size: 0.8em; color: var(--vert-succes); font-weight: bold;">Record : ${texteRecord}</span>
+        `;
         btn.onclick = () => demarrerSession(nomSession, sessions[nomSession]);
         conteneurSessions.appendChild(btn);
     }
@@ -98,7 +121,8 @@ function extraireValeur(objet, chemin) {
 }
 
 function demarrerSession(nomSession, config) {
-    // Filtrage des stations selon la configuration de la session
+    nomSessionActuelle = `${categorieActuelle}_${nomSession}`;
+
     sessionStations = globalStations.filter(station => {
         const valeurExtraite = extraireValeur(station, config.chemin_donnee);
         if (!valeurExtraite) return false;
@@ -114,6 +138,10 @@ function demarrerSession(nomSession, config) {
     });
 
     foundStations = new Set();
+    
+    // Initialisation du score
+    scoreActuel = sessionStations.length * POINTS_PAR_STATION;
+    
     ecranSessions.classList.add('hidden');
     ecranJeu.classList.remove('hidden');
     
@@ -130,7 +158,7 @@ function demarrerSession(nomSession, config) {
     champSaisie.focus();
 }
 
-/* ---------- Logique de Validation (Levenshtein) ---------- */
+/* ---------- Logique de Validation ---------- */
 
 function normalizeString(str) {
     return str.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]/g, "");
@@ -158,7 +186,6 @@ function findBestMatch(input, stationList, maxTolerance = 2) {
         const normalizedStation = normalizeString(station.nom);
         const distance = levenshteinDistance(normalizedInput, normalizedStation);
         
-        // Tolérance dynamique selon la longueur du nom
         const tolerance = station.nom.length > 8 ? 2 : (station.nom.length > 5 ? 1 : 0);
         
         if (distance < lowestDistance && distance <= tolerance) {
@@ -216,7 +243,6 @@ function registerSuccess(station, estRevelee) {
 
 /* ---------- Affichage des informations ---------- */
 
-// Fonction globale pour gérer le déploiement de la description longue
 window.toggleDescription = function(idContainer, bouton) {
     const conteneurLong = document.getElementById(idContainer);
     if (conteneurLong.style.display === 'none') {
@@ -237,15 +263,12 @@ function ajouterFicheInformation(station, estRevelee) {
         bordureStyle = '2px solid #e74c3c';
     }
 
-    // Récupération des deux niveaux de description
-    const descCourte = (station.histoire && station.histoire["description courte"]) ? station.histoire["description courte"] : 'Description non disponible.';
-    const descLongue = (station.histoire && station.histoire["description longue"]) ? station.histoire["description longue"] : null;
+    const descCourte = station["description courte"] ? station["description courte"] : 'Description non disponible.';
+    const descLongue = station["description longue"] ? station["description longue"] : null;
     const lignes = (station.geographie && station.geographie.lignes) ? station.geographie.lignes.join(', ') : 'N/A';
 
-    // Génération d'un identifiant unique pour lier le bouton à la bonne description
     const idDescLongue = 'desc_' + station.nom.replace(/[^a-zA-Z0-9]/g, '_') + '_' + Date.now();
 
-    // Construction conditionnelle du bouton et du conteneur additionnel
     let boutonHtml = '';
     let descriptionLongueHtml = '';
 
@@ -272,51 +295,47 @@ function ajouterFicheInformation(station, estRevelee) {
     panneauInfos.insertAdjacentHTML('afterbegin', ficheHtml);
 }
 
-/* ---------- Gestion des Indices ---------- */
+/* ---------- Gestion des Indices et Pénalités ---------- */
+
+function deduirePoints(montant) {
+    scoreActuel -= montant;
+    if (scoreActuel < 0) scoreActuel = 0; // Sécurité pour empêcher un score négatif
+    updateProgressUI();
+}
 
 function showNextHint() {
-    // Isolation des stations restant à découvrir
     const unfound = sessionStations.filter(s => !foundStations.has(s.nom));
     if (unfound.length === 0) return;
 
-    // Déclenchement d'un nouveau cycle si aucun indice n'est actif ou si la série précédente est achevée
     if (!stationCibleActuelle || hintsDisplayedCount >= currentStationHints.length) {
-        
-        // Sélection aléatoire d'une nouvelle cible parmi les stations restantes
         stationCibleActuelle = unfound[Math.floor(Math.random() * unfound.length)];
 
-        // Extraction sécurisée des données géographiques avec contrôle de type
         let lignesText = "Non spécifiées";
         if (stationCibleActuelle.geographie && stationCibleActuelle.geographie.lignes) {
             const donneesLignes = stationCibleActuelle.geographie.lignes;
             lignesText = Array.isArray(donneesLignes) ? donneesLignes.join(', ') : String(donneesLignes);
         }
 
-        // Initialisation d'une base d'indices garantis par la nature même de l'objet
         currentStationHints = [
             `Ligne(s) desservie(s) : ${lignesText}.`,
             `La longueur du nom est de ${stationCibleActuelle.nom.length} caractères (espaces inclus).`,
             `La première lettre commence par "${stationCibleActuelle.nom.charAt(0).toUpperCase()}".`
         ];
 
-        // Enrichissement conditionnel du tableau d'indices basé sur la description courte
-        if (stationCibleActuelle.histoire) {
-            if (stationCibleActuelle.histoire.type_origine) {
-                currentStationHints.push(`Toponymie : ${stationCibleActuelle.histoire.type_origine}.`);
-            }
-            if (stationCibleActuelle.histoire["description courte"]) {
-                const extrait = stationCibleActuelle.histoire["description courte"].substring(0, 65);
-                currentStationHints.push(`Fait notable : ${extrait}...`);
-            }
+        if (stationCibleActuelle.histoire && stationCibleActuelle.histoire.type_origine) {
+            currentStationHints.push(`Toponymie : ${stationCibleActuelle.histoire.type_origine}.`);
+        }
+        
+        if (stationCibleActuelle["description courte"]) {
+            const extrait = stationCibleActuelle["description courte"].substring(0, 65);
+            currentStationHints.push(`Fait notable : ${extrait}...`);
         }
 
-        // Nettoyage de l'interface pour la nouvelle série d'indices
         hintsDisplayedCount = 0;
         boutonReveler.disabled = false;
         zoneIndices.innerHTML = '';
     }
 
-    // Injection dynamique du prochain indice disponible dans le flux d'exécution
     if (hintsDisplayedCount < currentStationHints.length) {
         const paragrapheIndice = document.createElement('p');
         paragrapheIndice.className = 'texte-indice-item';
@@ -324,19 +343,22 @@ function showNextHint() {
         zoneIndices.appendChild(paragrapheIndice);
         
         hintsDisplayedCount++;
+        
+        // Application de la pénalité pour révélation d'un indice
+        deduirePoints(PENALITE_INDICE);
     } 
     
-    // Notification de fin de cycle permettant au joueur de comprendre qu'un nouveau clic ciblera une autre station
     if (hintsDisplayedCount === currentStationHints.length) {
         displayFeedback("Tous les indices disponibles pour cette station ont été révélés.", "color: #e67e22;");
     }
 
-    // Maintien systématique du focus sur le champ de saisie pour préserver l'ergonomie
     champSaisie.focus();
 }
 
 function sacrificeAndReveal() {
     if (stationCibleActuelle) {
+        // Application de la pénalité pour abandon de la station
+        deduirePoints(PENALITE_REVELATION);
         registerSuccess(stationCibleActuelle, true);
     }
 }
@@ -349,10 +371,13 @@ function clearHintsUI() {
     boutonReveler.disabled = true;
 }
 
-/* ---------- Interface Utilisateur ---------- */
+/* ---------- Interface Utilisateur et Fin de Partie ---------- */
 
 function updateProgressUI() {
     compteurStations.textContent = foundStations.size;
+    if (affichageScore) {
+        affichageScore.textContent = scoreActuel;
+    }
 }
 
 function displayFeedback(msg, styleOptions) {
@@ -368,5 +393,21 @@ function terminerSession() {
     boutonValider.disabled = true;
     boutonIndice.disabled = true;
     boutonReveler.disabled = true;
-    displayFeedback("Félicitations, session complétée !", "color: #27ae60; font-size: 1.2em;");
+    
+    let messageFin = `Session complétée avec ${scoreActuel} points !`;
+    let styleFin = "color: #27ae60; font-size: 1.1em;";
+
+    // Vérification et sauvegarde du meilleur score
+    const ancienRecord = meilleursScores[nomSessionActuelle] || 0;
+    
+    if (scoreActuel > ancienRecord || !meilleursScores.hasOwnProperty(nomSessionActuelle)) {
+        meilleursScores[nomSessionActuelle] = scoreActuel;
+        localStorage.setItem('metropolitain_scores', JSON.stringify(meilleursScores));
+        messageFin = `🔥 Nouveau record ! Vous avez terminé avec ${scoreActuel} points.`;
+        styleFin = "color: var(--ambre-verriere); font-size: 1.1em; font-weight: bold;";
+    } else {
+        messageFin += ` (Record actuel : ${ancienRecord})`;
+    }
+
+    displayFeedback(messageFin, styleFin);
 }

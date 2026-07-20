@@ -134,9 +134,12 @@
             <!-- Étape 3 : Écran de jeu -->
             <div id="ecran-jeu" class="hidden">
                 <div class="game-topbar">
-                    <h2 id="titre-session-en-cours"></h2>
-                    <p id="progress-text">Progression : <span id="compteur-stations">0</span> / <span
-                            id="total-stations">0</span></p>
+                    <h2 id="titre-session-en-cours">Session</h2>
+                    <div style="text-align: right;">
+                        <p id="progress-text">Progression : <span id="compteur-stations">0</span> / <span id="total-stations">0</span></p>
+                        <!-- Nouvelle ligne à insérer pour le score -->
+                        <p id="score-text" style="font-family: var(--mono); font-size: 0.9rem; color: var(--vert-guimard); margin: 4px 0 0 0; font-weight: bold;">Score : <span id="valeur-score">0</span></p>
+                    </div>
                 </div>
 
                 <div class="jeu-layout">

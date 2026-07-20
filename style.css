@@ -175,6 +175,7 @@ main {
     min-height: 0;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 .hidden {
@@ -298,9 +299,9 @@ main {
     min-height: 0;
     display: flex;
     gap: 26px;
-    align-items: flex-start;
-    flex-wrap: wrap;
-    overflow: visible;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    overflow: hidden;
 }
 
 .jeu-interaction {
@@ -309,6 +310,8 @@ main {
     display: flex;
     flex-direction: column;
     min-height: 0;
+    overflow-y: auto;
+    padding-right: 8px;
 }
 
 /* ---------- champ de saisie encadré ---------- */
@@ -441,15 +444,14 @@ button:active {
 
 /* ---------- Zone des stations validées ---------- */
 #zone-stations-validees {
-    max-height: 150px; /* Force l'apparition de la barre de défilement au-delà de cette hauteur */
+    max-height: 150px;
     overflow-y: auto;
     overflow-x: hidden;
     padding-right: 10px;
     margin-bottom: 12px;
-    -webkit-overflow-scrolling: touch; /* Pour un défilement fluide sur mobile */
+    -webkit-overflow-scrolling: touch;
 }
 
-/* Apparence des noms de stations validées ajoutés par le JS (si structurés en p ou span) */
 #zone-stations-validees p, 
 #zone-stations-validees span,
 #zone-stations-validees div {
@@ -526,11 +528,18 @@ button:active {
 @media (max-width: 680px) {
     .jeu-layout {
         flex-direction: column;
-        overflow-y: auto;
+    }
+    
+    .jeu-interaction {
+        flex: 0 0 auto;
+        width: 100%;
+        overflow-y: visible; 
     }
 
     #panneau-informations {
-        max-height: 240px;
+        flex: 1 1 auto;
+        max-height: none;
+        width: 100%;
     }
 }
 

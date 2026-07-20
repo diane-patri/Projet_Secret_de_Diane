@@ -1,0 +1,40 @@
+from google import genai
+import logging
+
+# Configuration de base pour l'affichage
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+
+def lister_modeles_disponibles():
+    """Interroge l'API Google pour lister les modèles autorisés pour la clé fournie."""
+    
+    # 1. Lecture de la clé (avec le même chemin que votre script principal)
+    chemin_cle = ".venv/cle.txt"
+    try:
+        with open(chemin_cle, "r", encoding="utf-8") as f:
+            cle_api = f.read().strip()
+    except FileNotFoundError:
+        logging.error(f"Le fichier {chemin_cle} est introuvable.")
+        return
+
+    # 2. Initialisation du client
+    client = genai.Client(api_key=cle_api)
+    logging.info("Interrogation des serveurs Google...")
+    
+    # 3. Récupération et affichage des modèles
+    try:
+        modeles = client.models.list()
+        print("\n=== MODÈLES DISPONIBLES ===")
+        
+        compteur = 0
+        for modele in modeles:
+            # Affiche le nom exact à utiliser dans votre code
+            print(f"- {modele.name}")
+            compteur += 1
+            
+        print(f"\nTotal : {compteur} modèles trouvés.")
+        
+    except Exception as e:
+        logging.error(f"Impossible de récupérer la liste : {e}")
+
+if __name__ == "__main__":
+    lister_modeles_disponibles()
